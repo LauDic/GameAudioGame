@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E1AA197F-44D7-46C1-ABFA-58FB183115D5}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{E1AA197F-44D7-46C1-ABFA-58FB183115D5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Music" ID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="8"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="ZonaBoss" ID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{9946E544-26C3-45D2-8794-EF8ACD80ABD9}" WorkUnitID="{9946E544-26C3-45D2-8794-EF8ACD80ABD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{D382A99D-4C57-4696-B256-379F72BC8057}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PararMusica" ID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Game" ID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ZonaExploracion" ID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ZonaHouse" ID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ZonaPelea" ID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,69 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1302589575	ZonaExploracion			\Default Work Unit\ZonaExploracion	
+	2160515625	PararMusica			\Default Work Unit\PararMusica	
+	2778572524	ZonaPelea			\Default Work Unit\ZonaPelea	
+	3089460701	ZonaHouse			\Default Work Unit\ZonaHouse	
+	3297799056	ZonaBoss			\Default Work Unit\ZonaBoss	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	285806436	CapaGeneral			\Default Work Unit\Nivel 1 Test\CapaGeneral	
+	1703961638	Estrategia			\Default Work Unit\Nivel 1 Test\Estrategia	
+
+State	ID	Name	State Group			Notes
+	748895195	None	CapaGeneral			
+	2197362544	Capa_03	CapaGeneral			
+	2197362545	Capa_02	CapaGeneral			
+	2197362546	Capa_01	CapaGeneral			
+	2197362550	Capa_05	CapaGeneral			
+	2197362551	Capa_04	CapaGeneral			
+	646655239	Nada	Estrategia			
+	748895195	None	Estrategia			
+	1143259184	RH_Crossfade	Estrategia			
+	1494326066	RV_Aditiva	Estrategia			
+	1520289778	RH_Transicion	Estrategia			
+	1832220387	RV_Intercambio	Estrategia			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	7232803	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
+	32592796	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
+	80267973	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
+	119273284	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
+	123831465	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
+	130581115	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans		
+	221130995	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans		
+	290853883	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans		
+	293870840	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
+	299310786	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
+	477378301	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
+	605631485	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
+	620136340	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
+	748538800	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
+	784010841	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
+	937561284	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
+	994538167	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
+	1013697367	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
+	1033636648	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	22460098	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	175162818	Bateria	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bateria		1411264
+	230517861	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bass		1411264
+	302292856	Level Clases f	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases f_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_02\Level Clases d\Level Clases f		3528064
+	316431763	Piano	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Piano_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Piano		1411264
+	319284561	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bass		1411264
+	355024106	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	582064451	Music_Drum_A_ 120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva\Music_A\Music_Drum_A_ 120 4 4		1411264
+	595387974	Piano	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Synth_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Piano		1411264
+	596900519	Level Clases h	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases h_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_03\Level Clases e\Level Clases h		1764064
+	692441908	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bass		1411264
+	720918943	Level Clases c	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases c_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_04\Level Clases c\Level Clases c		1411264
+	751153436	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	807544341	Music_Drum_C_ 120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans\Music_Drum_C_ 120 4 4		1411264
+	895563400	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva\Music_A\Bass		1411264
+	919270497	Level Clases d	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases d_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Musica Intercambio_02\Level Clases d\Level Clases d		2822464
+	1015083523	Music_Trumpet_Long B_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva\Music_A\Music_Trumpet_Long B_120 4 4		1411264
+	1037146104	Level Clases e	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases e_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Musica Intercambio_03\Level Clases e\Level Clases e		705664
+

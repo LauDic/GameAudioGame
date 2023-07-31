@@ -1,0 +1,50 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	285806436	CapaGeneral			\Default Work Unit\Nivel 1 Test\CapaGeneral	
+	1494326066	RV_Aditiva			\Default Work Unit\RV_Aditiva	
+	1703961638	Estrategia			\Default Work Unit\Nivel 1 Test\Estrategia	
+	1803896856	RH_Trans			\Default Work Unit\RH_Trans	
+	1832220387	RV_Intercambio			\Default Work Unit\RV_Intercambio	
+	1977256931	RH_Crossfades			\Default Work Unit\RH_Crossfades	
+
+State	ID	Name	State Group			Notes
+	748895195	None	CapaGeneral			
+	2197362544	Capa_03	CapaGeneral			
+	2197362545	Capa_02	CapaGeneral			
+	2197362546	Capa_01	CapaGeneral			
+	2197362550	Capa_05	CapaGeneral			
+	2197362551	Capa_04	CapaGeneral			
+	646655239	Nada	RV_Aditiva			
+	748895195	None	RV_Aditiva			
+	2197362544	Capa_03	RV_Aditiva			
+	2197362545	Capa_02	RV_Aditiva			
+	2197362546	Capa_01	RV_Aditiva			
+	646655239	Nada	Estrategia			
+	748895195	None	Estrategia			
+	1143259184	RH_Crossfade	Estrategia			
+	1494326066	RV_Aditiva	Estrategia			
+	1520289778	RH_Transicion	Estrategia			
+	1832220387	RV_Intercambio	Estrategia			
+	646655239	Nada	RH_Trans			
+	748895195	None	RH_Trans			
+	2197362544	Capa_03	RH_Trans			
+	2197362545	Capa_02	RH_Trans			
+	2197362546	Capa_01	RH_Trans			
+	646655239	Nada	RV_Intercambio			
+	748895195	None	RV_Intercambio			
+	2197362544	Capa_03	RV_Intercambio			
+	2197362545	Capa_02	RV_Intercambio			
+	2197362546	Capa_01	RV_Intercambio			
+	2197362551	Capa_04	RV_Intercambio			
+	646655239	Nada	RH_Crossfades			
+	748895195	None	RH_Crossfades			
+	2197362544	Capa_03	RH_Crossfades			
+	2197362545	Capa_02	RH_Crossfades			
+	2197362546	Capa_01	RH_Crossfades			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

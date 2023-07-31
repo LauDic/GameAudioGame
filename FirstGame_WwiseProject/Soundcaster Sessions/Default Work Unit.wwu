@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AC1C937C-6D6C-40D7-8625-3E0AE7A56CD6}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{AC1C937C-6D6C-40D7-8625-3E0AE7A56CD6}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="asdasd" ID="{9E68A883-86A6-497B-B633-03BA9C03ABD0}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="ZonaExploracion" ID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="PararMusica" ID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ZonaBoss" ID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ZonaHouse" ID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="ZonaPelea" ID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{389E8B1E-E831-487C-B300-378D194B0391}"/>
+						<CurrentStateRef Name="RV_Aditiva" ID="{B620529C-3CB9-4063-AA64-43BEC75240D1}"/>
+						<CurrentStateRef Name="None" ID="{7E3BF2F4-EDB6-4DD3-ABFD-28282B3C1EE7}"/>
+						<CurrentStateRef Name="None" ID="{4413622B-031F-4EDC-AD09-C0798556568F}"/>
+						<CurrentStateRef Name="Capa_01" ID="{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}"/>
+						<CurrentStateRef Name="None" ID="{70BECD81-D262-4320-867A-74C2BFE9DE9F}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

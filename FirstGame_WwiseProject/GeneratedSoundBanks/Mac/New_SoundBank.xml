@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="4072029455" GUID="{F84EB2BB-207A-4E17-97B6-7C6DF33EA0AF}" Language="SFX" Hash="3491293141">
+			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
+			<ShortName>New_SoundBank</ShortName>
+			<Path>New_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2160515625" Name="PararMusica" ObjectPath="\Events\Default Work Unit\PararMusica" GUID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3297799056" Name="ZonaBoss" ObjectPath="\Events\Default Work Unit\ZonaBoss" GUID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="22460098" Language="SFX">
+							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="175162818" Language="SFX">
+							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="230517861" Language="SFX">
+							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="302292856" Language="SFX">
+							<ShortName>Level Clases f.wav</ShortName>
+							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
+						</File>
+						<File Id="316431763" Language="SFX">
+							<ShortName>Music_Piano_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="319284561" Language="SFX">
+							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="355024106" Language="SFX">
+							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="449633352" Language="SFX">
+							<ShortName>Level Clases g.wav</ShortName>
+							<Path>SFX\Level Clases g_D79FB2B7.wem</Path>
+						</File>
+						<File Id="582064451" Language="SFX">
+							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="595387974" Language="SFX">
+							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="596900519" Language="SFX">
+							<ShortName>Level Clases h.wav</ShortName>
+							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
+						</File>
+						<File Id="692441908" Language="SFX">
+							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="720918943" Language="SFX">
+							<ShortName>Level Clases c.wav</ShortName>
+							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
+						</File>
+						<File Id="751153436" Language="SFX">
+							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="807544341" Language="SFX">
+							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="895563400" Language="SFX">
+							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="919270497" Language="SFX">
+							<ShortName>Level Clases d.wav</ShortName>
+							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1015083523" Language="SFX">
+							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1037146104" Language="SFX">
+							<ShortName>Level Clases e.wav</ShortName>
+							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{CC37488D-8CA4-48CB-94B9-6946EF934BA5}">
+							<Media>
+								<File Id="449633352"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{870ADA03-F1CF-4E5C-B099-DF3AC931CB97}">
+							<Media>
+								<File Id="302292856"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2F4CE931-1F42-435F-A463-2FB8498C062D}">
+							<Media>
+								<File Id="596900519"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D88D7A38-DB1F-4C40-80CD-08B5DB715E4A}">
+							<Media>
+								<File Id="720918943"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{77541494-9A39-4A68-A670-508C24ED5603}">
+							<Media>
+								<File Id="919270497"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{A9985D63-5FAC-4D8C-9F4D-9EEE89FAB94C}">
+							<Media>
+								<File Id="1037146104"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1302589575" Name="ZonaExploracion" ObjectPath="\Events\Default Work Unit\ZonaExploracion" GUID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" DurationType="Infinite"/>
+				<Event Id="3089460701" Name="ZonaHouse" ObjectPath="\Events\Default Work Unit\ZonaHouse" GUID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" DurationType="Infinite"/>
+				<Event Id="2778572524" Name="ZonaPelea" ObjectPath="\Events\Default Work Unit\ZonaPelea" GUID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="22460098" Language="SFX">
+					<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="175162818" Language="SFX">
+					<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
+					<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="230517861" Language="SFX">
+					<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="302292856" Language="SFX">
+					<ShortName>Level Clases f.wav</ShortName>
+					<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
+				</File>
+				<File Id="316431763" Language="SFX">
+					<ShortName>Music_Piano_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="319284561" Language="SFX">
+					<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="355024106" Language="SFX">
+					<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="449633352" Language="SFX">
+					<ShortName>Level Clases g.wav</ShortName>
+					<Path>SFX\Level Clases g_D79FB2B7.wem</Path>
+				</File>
+				<File Id="582064451" Language="SFX">
+					<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
+					<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="595387974" Language="SFX">
+					<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
+					<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="596900519" Language="SFX">
+					<ShortName>Level Clases h.wav</ShortName>
+					<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
+				</File>
+				<File Id="692441908" Language="SFX">
+					<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="720918943" Language="SFX">
+					<ShortName>Level Clases c.wav</ShortName>
+					<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
+				</File>
+				<File Id="751153436" Language="SFX">
+					<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="807544341" Language="SFX">
+					<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
+					<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="895563400" Language="SFX">
+					<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="919270497" Language="SFX">
+					<ShortName>Level Clases d.wav</ShortName>
+					<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1015083523" Language="SFX">
+					<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
+					<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1037146104" Language="SFX">
+					<ShortName>Level Clases e.wav</ShortName>
+					<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<StateGroups>
+				<StateGroup Id="1494326066" Name="RV_Aditiva" ObjectPath="\States\Default Work Unit\RV_Aditiva" GUID="{9FE93063-727F-408F-8659-C7B3DD2D5289}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\RV_Aditiva\None" GUID="{389E8B1E-E831-487C-B300-378D194B0391}"/>
+						<State Id="2197362546" Name="Capa_01" ObjectPath="\States\Default Work Unit\RV_Aditiva\Capa_01" GUID="{0DAE097B-D2E8-4445-A2D8-76421C0E1AE7}"/>
+						<State Id="2197362545" Name="Capa_02" ObjectPath="\States\Default Work Unit\RV_Aditiva\Capa_02" GUID="{D1EA53EE-768B-4260-B70B-04D4FA89B124}"/>
+						<State Id="2197362544" Name="Capa_03" ObjectPath="\States\Default Work Unit\RV_Aditiva\Capa_03" GUID="{909A57DA-DE81-46E4-8D12-821951C5716C}"/>
+						<State Id="646655239" Name="Nada" ObjectPath="\States\Default Work Unit\RV_Aditiva\Nada" GUID="{D6D9775B-6430-49CE-B221-716F575E3B55}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1803896856" Name="RH_Trans" ObjectPath="\States\Default Work Unit\RH_Trans" GUID="{0B7A47D8-B349-441A-8E6F-17A969A4F68E}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\RH_Trans\None" GUID="{7E3BF2F4-EDB6-4DD3-ABFD-28282B3C1EE7}"/>
+						<State Id="2197362546" Name="Capa_01" ObjectPath="\States\Default Work Unit\RH_Trans\Capa_01" GUID="{D88D7A38-DB1F-4C40-80CD-08B5DB715E4A}"/>
+						<State Id="2197362545" Name="Capa_02" ObjectPath="\States\Default Work Unit\RH_Trans\Capa_02" GUID="{77541494-9A39-4A68-A670-508C24ED5603}"/>
+						<State Id="2197362544" Name="Capa_03" ObjectPath="\States\Default Work Unit\RH_Trans\Capa_03" GUID="{A9985D63-5FAC-4D8C-9F4D-9EEE89FAB94C}"/>
+						<State Id="646655239" Name="Nada" ObjectPath="\States\Default Work Unit\RH_Trans\Nada" GUID="{F2167833-D61D-45AA-804E-668853A8FF2B}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1832220387" Name="RV_Intercambio" ObjectPath="\States\Default Work Unit\RV_Intercambio" GUID="{07BA7C6C-364C-4F26-8072-46B66A0DA457}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\RV_Intercambio\None" GUID="{70BECD81-D262-4320-867A-74C2BFE9DE9F}"/>
+						<State Id="2197362546" Name="Capa_01" ObjectPath="\States\Default Work Unit\RV_Intercambio\Capa_01" GUID="{ED89030A-B8D7-4250-ABF1-7BD5906F50F0}"/>
+						<State Id="2197362545" Name="Capa_02" ObjectPath="\States\Default Work Unit\RV_Intercambio\Capa_02" GUID="{E283805C-07F8-48EA-9733-85F51EF0F64A}"/>
+						<State Id="2197362544" Name="Capa_03" ObjectPath="\States\Default Work Unit\RV_Intercambio\Capa_03" GUID="{482F5258-B7C6-433B-A93A-20B4D97E627E}"/>
+						<State Id="2197362551" Name="Capa_04" ObjectPath="\States\Default Work Unit\RV_Intercambio\Capa_04" GUID="{82E9C5BC-CD2E-4454-B07E-E457F7986195}"/>
+						<State Id="646655239" Name="Nada" ObjectPath="\States\Default Work Unit\RV_Intercambio\Nada" GUID="{3D700E38-3E3A-4B5B-BE09-1538A658B827}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1977256931" Name="RH_Crossfades" ObjectPath="\States\Default Work Unit\RH_Crossfades" GUID="{5A75AA66-8487-45B0-A5CB-618F94451D39}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\RH_Crossfades\None" GUID="{4413622B-031F-4EDC-AD09-C0798556568F}"/>
+						<State Id="2197362546" Name="Capa_01" ObjectPath="\States\Default Work Unit\RH_Crossfades\Capa_01" GUID="{CC37488D-8CA4-48CB-94B9-6946EF934BA5}"/>
+						<State Id="2197362545" Name="Capa_02" ObjectPath="\States\Default Work Unit\RH_Crossfades\Capa_02" GUID="{870ADA03-F1CF-4E5C-B099-DF3AC931CB97}"/>
+						<State Id="2197362544" Name="Capa_03" ObjectPath="\States\Default Work Unit\RH_Crossfades\Capa_03" GUID="{2F4CE931-1F42-435F-A463-2FB8498C062D}"/>
+						<State Id="646655239" Name="Nada" ObjectPath="\States\Default Work Unit\RH_Crossfades\Nada" GUID="{A13C4117-B4B0-47E1-B928-349FD9BF3601}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

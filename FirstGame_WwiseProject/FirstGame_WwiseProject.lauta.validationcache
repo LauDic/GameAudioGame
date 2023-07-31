@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1682362010" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1683591172" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\States\Default Work Unit.wwu" DateLow="1688000522" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1688000522" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1687990868" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Queries\Factory Queries.wwu" DateLow="1682028698" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1687386685" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1682028698" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1682362010" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1687386685" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1682362010" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1688000522" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Interactive Music Hierarchy\Game.wwu" DateLow="1687993468" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1687981824" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1683240969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\FirstGame_WwiseProject.wproj" DateLow="1682362051" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\FirstGame_WwiseProject.lauta.wsettings" DateLow="1688000524" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Events\Default Work Unit.wwu" DateLow="1687993725" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Effects\Factory Effects.wwu" DateLow="1682028698" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1682028698" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1682362010" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1683239605" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1682362009" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686344437" DateHigh="0"/>
+</ValidationCache>

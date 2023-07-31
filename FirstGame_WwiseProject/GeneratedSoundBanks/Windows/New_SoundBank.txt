@@ -1,0 +1,68 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1302589575	ZonaExploracion			\Default Work Unit\ZonaExploracion	
+	2160515625	PararMusica			\Default Work Unit\PararMusica	
+	2778572524	ZonaPelea			\Default Work Unit\ZonaPelea	
+	3089460701	ZonaHouse			\Default Work Unit\ZonaHouse	
+	3297799056	ZonaBoss			\Default Work Unit\ZonaBoss	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1703961638	Estrategia			\Default Work Unit\Estrategia	
+	1803896856	RH_Trans			\Default Work Unit\RH_Trans	
+	1977256931	RH_Crossfades			\Default Work Unit\RH_Crossfades	
+
+State	ID	Name	State Group			Notes
+	646655239	Nada	Estrategia			
+	748895195	None	Estrategia			
+	1143259184	RH_Crossfade	Estrategia			
+	1494326066	RV_Aditiva	Estrategia			
+	1520289778	RH_Transicion	Estrategia			
+	1832220387	RV_Intercambio	Estrategia			
+	646655239	Nada	RH_Trans			
+	748895195	None	RH_Trans			
+	2197362544	Capa_03	RH_Trans			
+	2197362545	Capa_02	RH_Trans			
+	2197362546	Capa_01	RH_Trans			
+	646655239	Nada	RH_Crossfades			
+	748895195	None	RH_Crossfades			
+	2197362544	Capa_03	RH_Crossfades			
+	2197362545	Capa_02	RH_Crossfades			
+	2197362546	Capa_01	RH_Crossfades			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	123831465	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Transiciones		
+	130581115	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans		
+	221130995	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans		
+	261787873	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio		
+	290853883	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans		
+	412285135	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante Crossfades\Crossfade		
+	445775918	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante Crossfades\Crossfade		
+	471199439	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante Crossfades\Crossfade		
+	529912836	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio		
+	620136340	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Transiciones		
+	740040105	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio		
+	743409848	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Music\Nivel 1\Musica Aditiva		
+	784010841	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Transiciones		
+	801558437	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Music\Nivel 1\Musica Aditiva		
+	957801772	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Music\Nivel 1\Musica Aditiva		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	22460098	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	175162818	Bateria	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Bateria		1411264
+	230517861	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Bass		1411264
+	302292856	Level Clases f	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases f_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante Crossfades\Crossfade\Musica Intercambio_02\Level Clases d\Level Clases f		3528064
+	316431763	Piano	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Piano_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Piano		1411264
+	319284561	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Bass		1411264
+	355024106	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	449633352	Level Clases g	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases g_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante Crossfades\Crossfade\Musica Intercambio_01\Level Clases c\Level Clases g		1764064
+	582064451	Bateria	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Bateria		1411264
+	595387974	Piano	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Synth_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Piano		1411264
+	596900519	Level Clases h	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases h_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante Crossfades\Crossfade\Musica Intercambio_03\Level Clases e\Level Clases h		1764064
+	692441908	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Bass		1411264
+	720918943	Level Clases c	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases c_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Transiciones\Musica Intercambio_01\Level Clases c\Level Clases c		1411264
+	751153436	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	807544341	Music_Drum_C_ 120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Trans\Music_Drum_C_ 120 4 4		1411264
+	895563400	Bass	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Remezcla vertical intercambio\Musica Intercambio\Music_B\Bass		1411264
+	919270497	Level Clases d	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases d_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Transiciones\Musica Intercambio_02\Level Clases d\Level Clases d		2822464
+	1015083523	Music_Trumpet_Long B_120 4 4	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Nivel 1\Musica Aditiva\Music_A\Music_Trumpet_Long B_120 4 4		1411264
+	1037146104	Level Clases e	C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\SFX\Level Clases e_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Resecuanciación horizontal Mediante transiciones\Transiciones\Musica Intercambio_03\Level Clases e\Level Clases e		705664
+
