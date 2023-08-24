@@ -79,6 +79,21 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Escuchador" ID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}">
+					<ChildrenList>
+						<Action Name="" ID="{62B9EB8C-905A-4F14-9192-EFF9B2366F63}" ShortID="323308822">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -10,6 +10,7 @@
 				<Property Name="Event Action List\{872F113B-209F-41D4-BC1B-9FCA5555234C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{98221E4A-923D-47C2-B7D0-C7149AA9FD26}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
@@ -31,7 +32,7 @@
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="qvDZneN860q+2iEl1NCK11oBnj9DKJ5JvuXFTEATkT8="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="n09d9EDuhkmF3A9/mNtAww=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}"/>
-				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="2m46/5BBvE+Kaxn0fP/CjAEuOgj/////6fDkHoS7tUeHp0iSi3sVkQEuOgj/////"/>
+				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="2m46/5BBvE+Kaxn0fP/CjAEujy3/////6fDkHoS7tUeHp0iSi3sVkQEujy3/////"/>
 				<Property Name="Interactive Music\x64_{03D1F902-9A05-450B-822B-241875BFDDC7} - SegmentEditorZoomInfo" Type="string" Value="L7P9ZJbe4z/bflr78S3/PwAAAAAA2G9AAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
 				<Property Name="Interactive Music\x64_{2643438A-B700-4BAB-8622-2F69B34D52B7} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwPwAAAAAAqHFAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>
 				<Property Name="Interactive Music\x64_{507A077A-188D-46E5-8C0D-22E2EC57E134} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwPyuuICZXwFtAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAA"/>

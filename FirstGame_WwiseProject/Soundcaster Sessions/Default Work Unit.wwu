@@ -32,7 +32,7 @@
 						<CurrentStateRef Name="RV_Aditiva" ID="{B620529C-3CB9-4063-AA64-43BEC75240D1}"/>
 						<CurrentStateRef Name="None" ID="{7E3BF2F4-EDB6-4DD3-ABFD-28282B3C1EE7}"/>
 						<CurrentStateRef Name="None" ID="{4413622B-031F-4EDC-AD09-C0798556568F}"/>
-						<CurrentStateRef Name="Capa_01" ID="{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}"/>
+						<CurrentStateRef Name="Capa_03" ID="{18E2F314-C783-4DD7-A006-B712A6281BC5}"/>
 						<CurrentStateRef Name="None" ID="{70BECD81-D262-4320-867A-74C2BFE9DE9F}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true"/>

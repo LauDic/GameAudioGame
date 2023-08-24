@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Proyectos Programas\Unreal\FirstGame\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Proyectos Programas\Unreal\GameAudioGame\Content\WwiseAudio\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Proyectos Programas\Unreal\FirstGame\FirstGame_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,11 +16,12 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3991942870" GUID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}" Language="SFX" Hash="4233152141">
+		<SoundBank Id="3991942870" GUID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}" Language="SFX" Hash="3952792433">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
 			<IncludedEvents>
+				<Event Id="2975818780" Name="Escuchador" ObjectPath="\Events\Default Work Unit\Escuchador" GUID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}" DurationType="Infinite"/>
 				<Event Id="2160515625" Name="PararMusica" ObjectPath="\Events\Default Work Unit\PararMusica" GUID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
 				<Event Id="3297799056" Name="ZonaBoss" ObjectPath="\Events\Default Work Unit\ZonaBoss" GUID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" DurationType="Infinite">
 					<IncludedMemoryFiles>

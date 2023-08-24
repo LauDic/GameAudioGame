@@ -5,22 +5,29 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\.cache\\Mac\\",
-   "SoundBanksRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ProjectRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Mac\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Mac"
+   "ExternalSourcesOutputRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Mac"
   },
   "SoundBanks": [
    {
     "Id": "3991942870",
     "GUID": "{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}",
     "Language": "SFX",
-    "Hash": "519318227",
+    "Hash": "3952792433",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
     "ShortName": "Music",
     "Path": "Music.bnk",
     "IncludedEvents": [
+     {
+      "Id": "2975818780",
+      "Name": "Escuchador",
+      "ObjectPath": "\\Events\\Default Work Unit\\Escuchador",
+      "GUID": "{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}",
+      "DurationType": "Infinite"
+     },
      {
       "Id": "2160515625",
       "Name": "PararMusica",

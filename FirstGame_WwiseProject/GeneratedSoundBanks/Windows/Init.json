@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\FirstGame_WwiseProject\\GeneratedSoundBanks\\Windows"
   },
   "SoundBanks": [
    {
