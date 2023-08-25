@@ -5817,3 +5817,4 @@ Script Stack (0 frames):
 [2023.08.25-21.08.01:316][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StackOBot/Environment/Props/botonAbajo_Auto2
 [2023.08.25-21.08.01:316][ 40]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/botonAbajo_Auto2D9AA05AA427EB554A90CB2A7CFA0F963.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Autosaves/Game/StackOBot/Environment/Props/botonAbajo_Auto2.uasset'
 [2023.08.25-21.08.01:318][ 40]LogFileHelpers: Auto-saving content packages took 0.481
+[2023.08.25-21.12.59:111][933]LogDerivedDataCache: C:/Users/lauta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.435 and deleted 0 file(s) with total size 0 MiB.
