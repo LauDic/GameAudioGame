@@ -4653,3 +4653,1167 @@ Script Stack (0 frames):
 [2023.08.25-20.40.11:266][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
 [2023.08.25-20.40.11:283][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
 [2023.08.25-20.40.11:339][191]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.08.25-20.43.53:091][600]LogViewport: Scene viewport resized to 1141x686, mode Windowed.
+[2023.08.25-20.44.03:796][227]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.44.26:082][558]BlueprintLog: New page: Compile Escuchador
+[2023.08.25-20.44.26:301][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.08.25-20.44.26:396][559]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.44.27:182][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameElements/Musicas/Escuchador" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/Escuchador.uasset" SILENT=true
+[2023.08.25-20.44.27:202][592]LogSavePackage: Moving output files for package: /Game/GameElements/Musicas/Escuchador
+[2023.08.25-20.44.27:203][592]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Escuchador7220DB1E47841547F7C05DAE4403020D.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/Escuchador.uasset'
+[2023.08.25-20.44.27:223][592]AssetCheck: New page: Asset Save: Escuchador
+[2023.08.25-20.44.27:223][592]LogContentValidation: Display: Validating Blueprint /Game/GameElements/Musicas/Escuchador.Escuchador
+[2023.08.25-20.44.31:368][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.25-20.44.31:433][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.08.25-20.44.31:555][808]LogSavePackage: Moving output files for package: /Game/Maps/Level_1
+[2023.08.25-20.44.31:556][808]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Level_1ECCB82EB47E934A4453592B20CED9594.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap'
+[2023.08.25-20.44.31:596][808]AssetCheck: New page: Asset Save: Level_1
+[2023.08.25-20.44.31:596][808]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.08.25-20.44.31:928][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.25-20.44.31:943][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.25-20.44.31:943][819]PIE: New page: PIE session: Level_1 (Aug 25, 2023, 2:44:31 PM)
+[2023.08.25-20.44.31:943][819]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.44.31:978][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034904s)
+[2023.08.25-20.44.31:978][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.034990s)
+[2023.08.25-20.44.31:979][819]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.25-20.44.31:979][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.25-20.44.31:979][819]LogAIModule: Creating AISystem for world Level_1
+[2023.08.25-20.44.31:979][819]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2023.08.25-20.44.32:043][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.08.25-20.44.32:045][819]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.25-20.44.32:045][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.25-20.44.32:045][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.25-20.44.32:045][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.25-20.44.32:045][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.25-20.44.32:045][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.25-20.44.32:047][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.25-20.44.32:106][819]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (4- Focusrite USB Audio)
+[2023.08.25-20.44.32:106][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.25-20.44.32:106][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.25-20.44.32:106][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.25-20.44.32:107][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.08.25-20.44.32:107][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.08.25-20.44.32:109][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.08.25-20.44.32:109][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.08.25-20.44.32:109][819]LogInit: FAudioDevice initialized.
+[2023.08.25-20.44.32:109][819]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_1'.
+[2023.08.25-20.44.32:125][819]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.08.25-20.44.32:137][819]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.08.25-17.44.32
+[2023.08.25-20.44.32:138][819]LogWorld: Bringing up level for play took: 0.013147
+[2023.08.25-20.44.32:141][819]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.08.25-20.44.32:145][819]PIE: Server logged in
+[2023.08.25-20.44.32:146][819]PIE: Play in editor total start time 0.205 seconds.
+[2023.08.25-20.44.39:195][ 27]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:227][ 28]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:258][ 29]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:289][ 30]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:322][ 31]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:354][ 32]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:388][ 33]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:421][ 34]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:452][ 35]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:482][ 36]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:514][ 37]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:546][ 38]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:577][ 39]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:609][ 40]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:640][ 41]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.39:672][ 42]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.44.41:450][ 97]LogBlueprintUserMessages: [BP_CajaMusical_C_3] FIX BUG FUNCIONO
+[2023.08.25-20.45.02:796][675]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.45.07:616][829]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.45.11:525][955]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.45.12:781][996]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:781][996]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:808][997]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:808][997]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:839][998]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:839][998]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:869][999]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:869][999]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:900][  0]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:900][  0]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:931][  1]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:931][  1]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:960][  2]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:960][  2]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.12:992][  3]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.12:993][  3]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:023][  4]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:023][  4]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:054][  5]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:054][  5]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:084][  6]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:084][  6]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:114][  7]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:114][  7]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:144][  8]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:144][  8]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:175][  9]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:176][  9]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:206][ 10]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:206][ 10]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:236][ 11]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:236][ 11]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:267][ 12]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:267][ 12]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:298][ 13]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:298][ 13]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:328][ 14]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:328][ 14]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:359][ 15]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:359][ 15]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:389][ 16]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:389][ 16]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:420][ 17]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:420][ 17]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:450][ 18]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:450][ 18]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:481][ 19]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:481][ 19]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:512][ 20]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:512][ 20]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:542][ 21]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:542][ 21]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:573][ 22]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:573][ 22]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:603][ 23]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.45.13:604][ 23]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:604][ 23]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:635][ 24]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:635][ 24]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:664][ 25]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:664][ 25]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:695][ 26]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:695][ 26]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:727][ 27]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:727][ 27]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.13:758][ 28]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.13:758][ 28]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:747][190]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:747][190]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:778][191]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:778][191]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:806][192]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:807][192]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:838][193]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:838][193]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:869][194]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:869][194]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:901][195]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:901][195]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:932][196]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:932][196]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:962][197]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:962][197]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.18:993][198]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.18:993][198]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:024][199]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:024][199]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:054][200]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:054][200]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:086][201]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:086][201]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:118][202]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:118][202]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:148][203]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:148][203]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:179][204]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:179][204]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:209][205]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:209][205]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:239][206]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:240][206]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:271][207]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:271][207]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:301][208]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:301][208]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:332][209]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:332][209]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:363][210]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:363][210]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:394][211]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:394][211]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:426][212]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:426][212]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:456][213]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:456][213]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:487][214]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:487][214]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:519][215]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:519][215]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:550][216]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:550][216]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:581][217]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:581][217]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:611][218]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:611][218]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:642][219]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:642][219]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:673][220]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:673][220]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:704][221]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:704][221]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:734][222]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:734][222]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.19:765][223]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.45.19:765][223]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.45.38:846][831]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.46.40:427][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.46.40:427][813]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.46.40:428][813]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.25-20.46.40:429][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.46.40:457][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.25-20.46.40:463][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.46.40:526][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.46.40:527][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.08.25-20.46.40:529][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.08.25-20.46.40:541][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.08.25-20.46.40:583][814]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.08.25-20.47.20:939][776]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.08.25-20.47.20:939][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.47.40:305][885]BlueprintLog: New page: Compile MusicManager
+[2023.08.25-20.47.40:428][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.08.25-20.47.40:681][886]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.47.41:074][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameElements/Musicas/MusicManager" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/MusicManager.uasset" SILENT=true
+[2023.08.25-20.47.41:131][895]LogSavePackage: Moving output files for package: /Game/GameElements/Musicas/MusicManager
+[2023.08.25-20.47.41:132][895]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/MusicManagerC1D0DD594187B821034B099D3A458125.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/MusicManager.uasset'
+[2023.08.25-20.47.41:155][895]AssetCheck: New page: Asset Save: MusicManager
+[2023.08.25-20.47.41:155][895]LogContentValidation: Display: Validating Blueprint /Game/GameElements/Musicas/MusicManager.MusicManager
+[2023.08.25-20.47.41:637][913]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.08.25-20.47.51:519][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.25-20.47.51:577][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.08.25-20.47.51:703][451]LogSavePackage: Moving output files for package: /Game/Maps/Level_1
+[2023.08.25-20.47.51:704][451]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Level_1D9ED869949D9C9BAC8CB34800DBCB6D5.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap'
+[2023.08.25-20.47.51:748][451]AssetCheck: New page: Asset Save: Level_1
+[2023.08.25-20.47.51:748][451]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.08.25-20.49.32:300][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.25-20.49.32:314][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.25-20.49.32:314][817]PIE: New page: PIE session: Level_1 (Aug 25, 2023, 2:49:32 PM)
+[2023.08.25-20.49.32:315][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.49.32:351][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036254s)
+[2023.08.25-20.49.32:351][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.036353s)
+[2023.08.25-20.49.32:351][817]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.25-20.49.32:351][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.25-20.49.32:352][817]LogAIModule: Creating AISystem for world Level_1
+[2023.08.25-20.49.32:352][817]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2023.08.25-20.49.32:416][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.08.25-20.49.32:418][817]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.25-20.49.32:418][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.25-20.49.32:418][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.25-20.49.32:418][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.25-20.49.32:418][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.25-20.49.32:418][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.25-20.49.32:421][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.25-20.49.32:478][817]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (4- Focusrite USB Audio)
+[2023.08.25-20.49.32:478][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.25-20.49.32:478][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.25-20.49.32:478][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.25-20.49.32:478][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.08.25-20.49.32:478][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.08.25-20.49.32:480][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.08.25-20.49.32:480][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.08.25-20.49.32:480][817]LogInit: FAudioDevice initialized.
+[2023.08.25-20.49.32:480][817]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_1'.
+[2023.08.25-20.49.32:491][817]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.08.25-20.49.32:504][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.08.25-17.49.32
+[2023.08.25-20.49.32:505][817]LogWorld: Bringing up level for play took: 0.013730
+[2023.08.25-20.49.32:507][817]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.08.25-20.49.32:512][817]PIE: Server logged in
+[2023.08.25-20.49.32:513][817]PIE: Play in editor total start time 0.2 seconds.
+[2023.08.25-20.49.37:103][946]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:134][947]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:166][948]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:198][949]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:229][950]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:261][951]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:291][952]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:323][953]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:355][954]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:388][955]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:421][956]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:452][957]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:484][958]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:518][959]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:549][960]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.37:581][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.49.40:694][ 60]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:694][ 60]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:723][ 61]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:723][ 61]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:754][ 62]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:754][ 62]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:784][ 63]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:784][ 63]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:816][ 64]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:816][ 64]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:846][ 65]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:846][ 65]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:876][ 66]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:876][ 66]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:906][ 67]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:906][ 67]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:937][ 68]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:937][ 68]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:967][ 69]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:968][ 69]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.40:998][ 70]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.40:998][ 70]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:029][ 71]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:029][ 71]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:059][ 72]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:059][ 72]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:091][ 73]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:091][ 73]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:121][ 74]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:122][ 74]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:152][ 75]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:152][ 75]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:182][ 76]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:183][ 76]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:213][ 77]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:213][ 77]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:244][ 78]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:244][ 78]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:275][ 79]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:275][ 79]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:305][ 80]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:305][ 80]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:338][ 81]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:338][ 81]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:366][ 82]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:366][ 82]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:422][ 83]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:422][ 83]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:452][ 84]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:452][ 84]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:482][ 85]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:482][ 85]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:513][ 86]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:514][ 86]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:545][ 87]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.49.41:545][ 87]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.49.41:587][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.49.41:587][ 87]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.49.41:587][ 87]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.25-20.49.41:589][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.49.41:617][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.25-20.49.41:624][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.49.41:680][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.49.41:681][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.25-20.49.41:683][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.25-20.49.41:695][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.08.25-20.49.41:735][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.08.25-20.52.33:997][317]LogEditorTransaction: Undo Move Node
+[2023.08.25-20.52.34:025][317]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: A431E653FD082657FC26C91BCCF9B37E496D0E2E), compiling. 
+[2023.08.25-20.52.34:054][317]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.34:054][317]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.34:054][317]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.34:167][318]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: ================================================
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Total job queries 187, among them cache hits 61 (32.62%)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Tracking 114 distinct input hashes that result in 63 distinct outputs (55.26%)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Shaders Compiled: 118
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Jobs assigned 114, completed 114 (100.00%)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Average time worker was idle: 285.87 s
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Time job spent in pending queue: average 5.90 s, longest 29.94 s
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Job execution time: average 13.72 s, max 32.18 s
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Job life time (pending + execution): average 19.62 s, max 32.26
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 61.42 s
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 3.00 jobs/batch
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Average processing rate: 1.86 jobs/sec
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Effective parallelization: 3.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 2.82 sec, max 4.77 sec, min 1.52 sec)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 2.66 sec, max 2.72 sec, min 2.60 sec)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 2.50 sec, max 4.48 sec, min 1.78 sec)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 2.45 sec, max 4.46 sec, min 1.45 sec)
+[2023.08.25-20.52.34:173][318]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 2.40 sec, max 4.58 sec, min 1.41 sec)
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.99% of total time (compiled   11 times, average 2.00 sec, max 4.11 sec, min 1.00 sec)
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.97% of total time (compiled    7 times, average 2.82 sec, max 4.77 sec, min 1.52 sec)
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.97% of total time (compiled    7 times, average 2.50 sec, max 4.48 sec, min 1.78 sec)
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.79% of total time (compiled    7 times, average 2.45 sec, max 4.46 sec, min 1.45 sec)
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.65% of total time (compiled    7 times, average 2.40 sec, max 4.58 sec, min 1.41 sec)
+[2023.08.25-20.52.34:174][318]LogShaderCompilers: Display: ================================================
+[2023.08.25-20.52.34:215][319]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.34:215][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.34:215][319]MaterialEditorStats: Shader Count: 2
+[2023.08.25-20.52.34:753][332]LogEditorTransaction: Undo Move Node
+[2023.08.25-20.52.34:786][332]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: 839BDD9CC6AB6FBE0D0A42A7F9BF7E5A8EA1711F), compiling. 
+[2023.08.25-20.52.34:795][332]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.34:795][332]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.34:795][332]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.34:867][333]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.34:898][334]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.34:898][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.34:898][334]MaterialEditorStats: Shader Count: 2
+[2023.08.25-20.52.44:682][915]LogEditorTransaction: Undo Break Pin Links
+[2023.08.25-20.52.44:717][915]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: EF3F71D28051802AE214AD56409A1C59F66A2BD2), compiling. 
+[2023.08.25-20.52.44:739][915]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.44:739][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.44:739][915]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.44:870][916]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.44:946][917]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.44:946][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.44:946][917]MaterialEditorStats: Shader Count: 2
+[2023.08.25-20.52.45:164][919]LogEditorTransaction: Undo Move Node
+[2023.08.25-20.52.45:200][919]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5720DCDB9537B0BAA16D0D6BB6764B8209E5F392), compiling. 
+[2023.08.25-20.52.45:214][919]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.45:214][919]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.45:214][919]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.45:346][920]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.45:381][921]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.45:381][921]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.45:381][921]MaterialEditorStats: Shader Count: 4
+[2023.08.25-20.52.45:440][923]LogEditorTransaction: Undo Create Pin Link
+[2023.08.25-20.52.45:496][923]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: BA64A111416214E324888978E7946FAD84114C3F), compiling. 
+[2023.08.25-20.52.45:509][923]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.45:509][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.45:509][923]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.45:629][924]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.45:651][925]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.45:651][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.45:651][925]MaterialEditorStats: Shader Count: 2
+[2023.08.25-20.52.46:146][951]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.08.25-20.52.46:183][951]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D27D095ABD2D8029CF5DB9B52C4592E3BAE9457), compiling. 
+[2023.08.25-20.52.46:193][951]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.46:193][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.46:193][951]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.46:290][952]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.46:314][953]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.46:314][953]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.46:314][953]MaterialEditorStats: Shader Count: 2
+[2023.08.25-20.52.46:983][988]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.08.25-20.52.47:033][988]LogMaterial: Display: Missing cached shadermap for Preview:BotonError2 in PCD3D_SM5, Default, SM5 (DDC key hash: 88DBDF4CCF543854BD52E71C72292FEE693ACF89), compiling. 
+[2023.08.25-20.52.47:044][988]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.25-20.52.47:045][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.47:045][988]MaterialEditorStats: Shader Count: 0
+[2023.08.25-20.52.47:178][989]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.52.47:226][991]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.25-20.52.47:227][991]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.25-20.52.47:227][991]MaterialEditorStats: Shader Count: 4
+[2023.08.25-20.54.07:038][933]BlueprintLog: New page: Compile BP_SuministroDeCajas
+[2023.08.25-20.54.07:187][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.08.25-20.54.07:337][934]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.54.07:800][944]LogSavePackage: Moving output files for package: /Game/GameElements/Musicas/BP_SuministroDeCajas
+[2023.08.25-20.54.07:801][944]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/BP_SuministroDeCajas1D23DA2C4E170F2DE09E23B82CB8FB02.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/BP_SuministroDeCajas.uasset'
+[2023.08.25-20.54.07:820][944]AssetCheck: New page: Asset Save: BP_SuministroDeCajas
+[2023.08.25-20.54.07:820][944]LogContentValidation: Display: Validating Blueprint /Game/GameElements/Musicas/BP_SuministroDeCajas.BP_SuministroDeCajas
+[2023.08.25-20.54.08:982][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.25-20.54.09:085][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.08.25-20.54.09:294][960]LogSavePackage: Moving output files for package: /Game/Maps/Level_1
+[2023.08.25-20.54.09:295][960]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Level_198F9499A4CEC7F29F23E45A60E5B54D5.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap'
+[2023.08.25-20.54.09:361][960]AssetCheck: New page: Asset Save: Level_1
+[2023.08.25-20.54.09:361][960]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.08.25-20.54.09:462][965]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.25-20.54.09:482][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.25-20.54.09:482][965]PIE: New page: PIE session: Level_1 (Aug 25, 2023, 2:54:09 PM)
+[2023.08.25-20.54.09:482][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.54.09:545][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063002s)
+[2023.08.25-20.54.09:545][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.063171s)
+[2023.08.25-20.54.09:545][965]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.25-20.54.09:546][965]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.25-20.54.09:546][965]LogAIModule: Creating AISystem for world Level_1
+[2023.08.25-20.54.09:547][965]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2023.08.25-20.54.09:628][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.08.25-20.54.09:630][965]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.25-20.54.09:630][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.25-20.54.09:630][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.25-20.54.09:631][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.25-20.54.09:631][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.25-20.54.09:631][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.25-20.54.09:633][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.25-20.54.09:711][965]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (4- Focusrite USB Audio)
+[2023.08.25-20.54.09:711][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.25-20.54.09:711][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.25-20.54.09:711][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.25-20.54.09:712][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.08.25-20.54.09:712][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.08.25-20.54.09:714][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.08.25-20.54.09:714][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.08.25-20.54.09:714][965]LogInit: FAudioDevice initialized.
+[2023.08.25-20.54.09:714][965]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_1'.
+[2023.08.25-20.54.09:727][965]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.08.25-20.54.09:741][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.08.25-17.54.09
+[2023.08.25-20.54.09:743][965]LogWorld: Bringing up level for play took: 0.014901
+[2023.08.25-20.54.09:745][965]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.08.25-20.54.09:752][965]PIE: Server logged in
+[2023.08.25-20.54.09:753][965]PIE: Play in editor total start time 0.274 seconds.
+[2023.08.25-20.54.17:163][188]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:163][188]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:193][189]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:193][189]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:226][190]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:226][190]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:257][191]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:257][191]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:289][192]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:289][192]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:322][193]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:322][193]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:354][194]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:355][194]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:390][195]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:390][195]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:420][196]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:420][196]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:451][197]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:451][197]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:485][198]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:485][198]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:518][199]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:518][199]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:550][200]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:550][200]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:583][201]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:583][201]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:614][202]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:614][202]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:647][203]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:647][203]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:679][204]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:679][204]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:711][205]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:711][205]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:742][206]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:742][206]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:775][207]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:775][207]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:807][208]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:807][208]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:839][209]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:840][209]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:873][210]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:873][210]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:903][211]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:903][211]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:937][212]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:937][212]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.17:969][213]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.17:969][213]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.18:002][214]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.18:002][214]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.18:033][215]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.18:033][215]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.18:065][216]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.18:065][216]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.18:098][217]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.18:098][217]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.18:132][218]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.18:132][218]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.18:161][219]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.54.18:162][219]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.54.21:151][309]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:187][310]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:219][311]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:253][312]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:284][313]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:319][314]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:352][315]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:386][316]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:419][317]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:452][318]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.21:486][319]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.54.27:996][514]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.27:996][514]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:027][515]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:027][515]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:059][516]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:059][516]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:091][517]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:091][517]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:122][518]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:122][518]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:153][519]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:153][519]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:185][520]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:185][520]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:219][521]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:219][521]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:251][522]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:251][522]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:282][523]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:282][523]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:314][524]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:314][524]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:344][525]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:344][525]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:377][526]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:377][526]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:409][527]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:409][527]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:441][528]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:441][528]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:473][529]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:473][529]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:505][530]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:505][530]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:536][531]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:537][531]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:568][532]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:568][532]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:602][533]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:602][533]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:633][534]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:633][534]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:666][535]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:666][535]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:697][536]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:697][536]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:728][537]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:728][537]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:762][538]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:762][538]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:792][539]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:792][539]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:823][540]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:823][540]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:854][541]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:854][541]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:888][542]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:888][542]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:922][543]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:922][543]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:951][544]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:951][544]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.28:983][545]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.28:983][545]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.54.29:015][546]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.54.29:015][546]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.55.12:347][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.55.12:347][201]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.55.12:348][201]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.25-20.55.12:349][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.55.12:384][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.25-20.55.12:391][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.55.12:452][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.25-20.55.12:452][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.25-20.55.12:454][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.25-20.55.12:460][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.55.12:469][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.08.25-20.55.12:513][202]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.08.25-20.55.26:090][951]BlueprintLog: New page: Compile BP_SuministroDeCajas
+[2023.08.25-20.55.26:261][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.08.25-20.55.26:526][952]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.55.26:899][953]LogSavePackage: Moving output files for package: /Game/GameElements/Musicas/BP_SuministroDeCajas
+[2023.08.25-20.55.26:900][953]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/BP_SuministroDeCajas28126A824C7D7C973330C69A6E6F8E38.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/BP_SuministroDeCajas.uasset'
+[2023.08.25-20.55.26:931][953]AssetCheck: New page: Asset Save: BP_SuministroDeCajas
+[2023.08.25-20.55.26:931][953]LogContentValidation: Display: Validating Blueprint /Game/GameElements/Musicas/BP_SuministroDeCajas.BP_SuministroDeCajas
+[2023.08.25-20.55.27:924][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.25-20.55.27:990][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.08.25-20.55.28:196][967]LogSavePackage: Moving output files for package: /Game/Maps/Level_1
+[2023.08.25-20.55.28:208][967]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Level_1B95A3C73406E5EFCBD2EECB8BF048BF5.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap'
+[2023.08.25-20.55.28:260][967]AssetCheck: New page: Asset Save: Level_1
+[2023.08.25-20.55.28:260][967]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.08.25-20.55.28:738][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.25-20.55.28:752][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.25-20.55.28:752][977]PIE: New page: PIE session: Level_1 (Aug 25, 2023, 2:55:28 PM)
+[2023.08.25-20.55.28:752][977]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.55.28:787][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034309s)
+[2023.08.25-20.55.28:787][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.034396s)
+[2023.08.25-20.55.28:787][977]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.25-20.55.28:787][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.25-20.55.28:787][977]LogAIModule: Creating AISystem for world Level_1
+[2023.08.25-20.55.28:788][977]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2023.08.25-20.55.28:848][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.08.25-20.55.28:849][977]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.08.25-20.55.28:849][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.25-20.55.28:850][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.25-20.55.28:850][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.25-20.55.28:850][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.25-20.55.28:850][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.25-20.55.28:850][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.25-20.55.28:850][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.25-20.55.28:850][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.25-20.55.28:850][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.25-20.55.28:850][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.25-20.55.28:850][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.25-20.55.28:853][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.25-20.55.28:912][977]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (4- Focusrite USB Audio)
+[2023.08.25-20.55.28:912][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.25-20.55.28:912][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.25-20.55.28:912][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.25-20.55.28:913][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.08.25-20.55.28:913][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.08.25-20.55.28:914][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.08.25-20.55.28:914][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.08.25-20.55.28:914][977]LogInit: FAudioDevice initialized.
+[2023.08.25-20.55.28:914][977]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_1'.
+[2023.08.25-20.55.28:927][977]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.08.25-20.55.28:940][977]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.08.25-17.55.28
+[2023.08.25-20.55.28:942][977]LogWorld: Bringing up level for play took: 0.013769
+[2023.08.25-20.55.28:943][977]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.08.25-20.55.28:949][977]PIE: Server logged in
+[2023.08.25-20.55.28:950][977]PIE: Play in editor total start time 0.2 seconds.
+[2023.08.25-20.55.38:525][264]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:525][264]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:556][265]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:556][265]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:586][266]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:586][266]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:617][267]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:617][267]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:648][268]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:648][268]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:677][269]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:677][269]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:708][270]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:708][270]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:740][271]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:740][271]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:770][272]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:770][272]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:800][273]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:800][273]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:831][274]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:831][274]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:861][275]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:861][275]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:892][276]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:892][276]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:922][277]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:922][277]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:953][278]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:953][278]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.38:985][279]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.38:985][279]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:016][280]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:016][280]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:047][281]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:047][281]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:076][282]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:076][282]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:108][283]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:108][283]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:140][284]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:140][284]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:172][285]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:172][285]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:204][286]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 2
+[2023.08.25-20.55.39:204][286]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:237][287]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:237][287]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:270][288]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:270][288]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:301][289]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:301][289]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:333][290]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:333][290]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:366][291]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:366][291]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:399][292]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:399][292]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:430][293]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:430][293]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:461][294]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:461][294]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:492][295]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:492][295]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:524][296]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.55.39:524][296]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.55.39:987][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.55.39:987][309]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.55.39:987][309]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.25-20.55.39:988][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.55.40:024][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.25-20.55.40:032][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.55.40:096][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.25-20.55.40:097][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.25-20.55.40:098][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.25-20.55.40:103][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.55.40:113][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.08.25-20.55.40:157][310]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.08.25-20.55.46:199][629]BlueprintLog: New page: Compile BP_SuministroDeCajas
+[2023.08.25-20.55.46:363][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.08.25-20.55.47:245][631]LogSavePackage: Moving output files for package: /Game/GameElements/Musicas/BP_SuministroDeCajas
+[2023.08.25-20.55.47:247][631]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/BP_SuministroDeCajasAAD0A2BD40A54F0D95C1B695FDDC9319.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/BP_SuministroDeCajas.uasset'
+[2023.08.25-20.55.47:278][631]AssetCheck: New page: Asset Save: BP_SuministroDeCajas
+[2023.08.25-20.55.47:278][631]LogContentValidation: Display: Validating Blueprint /Game/GameElements/Musicas/BP_SuministroDeCajas.BP_SuministroDeCajas
+[2023.08.25-20.55.47:300][631]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.55.48:817][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.25-20.55.48:876][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.08.25-20.55.48:997][653]LogSavePackage: Moving output files for package: /Game/Maps/Level_1
+[2023.08.25-20.55.48:998][653]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Level_18C855CC642BC49EBE5536CA01FD512A9.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/Maps/Level_1.umap'
+[2023.08.25-20.55.49:035][653]AssetCheck: New page: Asset Save: Level_1
+[2023.08.25-20.55.49:035][653]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.08.25-20.55.49:905][671]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.25-20.55.49:918][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.25-20.55.49:918][671]PIE: New page: PIE session: Level_1 (Aug 25, 2023, 2:55:49 PM)
+[2023.08.25-20.55.49:919][671]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.55.49:953][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033856s)
+[2023.08.25-20.55.49:953][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.033954s)
+[2023.08.25-20.55.49:953][671]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.25-20.55.49:953][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.25-20.55.49:954][671]LogAIModule: Creating AISystem for world Level_1
+[2023.08.25-20.55.49:954][671]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.08.25-20.55.50:012][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.08.25-20.55.50:013][671]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.25-20.55.50:013][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.25-20.55.50:013][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.25-20.55.50:013][671]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.25-20.55.50:013][671]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.25-20.55.50:013][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.25-20.55.50:016][671]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.25-20.55.50:071][671]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (4- Focusrite USB Audio)
+[2023.08.25-20.55.50:072][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.25-20.55.50:072][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.25-20.55.50:072][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.25-20.55.50:072][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.08.25-20.55.50:072][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.08.25-20.55.50:074][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.08.25-20.55.50:074][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.08.25-20.55.50:074][671]LogInit: FAudioDevice initialized.
+[2023.08.25-20.55.50:074][671]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_1'.
+[2023.08.25-20.55.50:087][671]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.08.25-20.55.50:099][671]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.08.25-17.55.50
+[2023.08.25-20.55.50:100][671]LogWorld: Bringing up level for play took: 0.012852
+[2023.08.25-20.55.50:103][671]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.08.25-20.55.50:107][671]PIE: Server logged in
+[2023.08.25-20.55.50:108][671]PIE: Play in editor total start time 0.191 seconds.
+[2023.08.25-20.55.56:459][844]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:489][845]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:519][846]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:551][847]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:583][848]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:613][849]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:647][850]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:677][851]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:710][852]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:744][853]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:773][854]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:808][855]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:840][856]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:872][857]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:904][858]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.55.56:937][859]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.56.02:321][ 31]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:322][ 31]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:352][ 32]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:352][ 32]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:382][ 33]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:382][ 33]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:413][ 34]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:413][ 34]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:443][ 35]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:443][ 35]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:474][ 36]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:474][ 36]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:504][ 37]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:504][ 37]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:535][ 38]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:535][ 38]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:565][ 39]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:565][ 39]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:596][ 40]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:596][ 40]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:626][ 41]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:626][ 41]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:657][ 42]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:657][ 42]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:687][ 43]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:687][ 43]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:717][ 44]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:717][ 44]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:748][ 45]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:748][ 45]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:779][ 46]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:779][ 46]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:810][ 47]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:810][ 47]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:841][ 48]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:841][ 48]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:871][ 49]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:871][ 49]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:902][ 50]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:902][ 50]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:933][ 51]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:933][ 51]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:963][ 52]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:963][ 52]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.02:994][ 53]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.02:994][ 53]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:024][ 54]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:024][ 54]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:054][ 55]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:054][ 55]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:085][ 56]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:085][ 56]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:116][ 57]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:116][ 57]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:146][ 58]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:146][ 58]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:176][ 59]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:176][ 59]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:209][ 60]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:209][ 60]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:238][ 61]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:238][ 61]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:268][ 62]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:268][ 62]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.03:299][ 63]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 1
+[2023.08.25-20.56.03:299][ 63]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_03
+[2023.08.25-20.56.12:848][368]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.12:848][368]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.12:877][369]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.12:877][369]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.12:908][370]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.12:908][370]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.12:938][371]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.12:938][371]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.12:969][372]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.12:969][372]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:000][373]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:000][373]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:031][374]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:031][374]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:062][375]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:062][375]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:092][376]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:092][376]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:123][377]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:123][377]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:153][378]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:153][378]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:184][379]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:184][379]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:216][380]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:216][380]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:246][381]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:246][381]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:277][382]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:277][382]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:309][383]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:309][383]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:339][384]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:339][384]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:370][385]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:370][385]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:401][386]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:401][386]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:432][387]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:432][387]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:462][388]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:462][388]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:493][389]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:493][389]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:524][390]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:524][390]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:554][391]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:554][391]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:585][392]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:585][392]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:616][393]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:616][393]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:646][394]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:646][394]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:677][395]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:677][395]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:709][396]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:709][396]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:739][397]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:739][397]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:769][398]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:769][398]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:801][399]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:801][399]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.13:831][400]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 3
+[2023.08.25-20.56.13:831][400]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_02
+[2023.08.25-20.56.15:497][454]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.56.18:578][549]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.56.21:213][632]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/GameElements/Musicas/Escuchador.Escuchador_C:ExecuteUbergraph_Escuchador'!
+[2023.08.25-20.56.22:509][674]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:509][674]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:540][675]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:540][675]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:570][676]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:571][676]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:602][677]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:602][677]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:632][678]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:633][678]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:664][679]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:664][679]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:694][680]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:694][680]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:725][681]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:725][681]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:757][682]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:757][682]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:790][683]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:790][683]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:820][684]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:820][684]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:851][685]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:851][685]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:881][686]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:882][686]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:912][687]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:912][687]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:944][688]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:944][688]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.22:974][689]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.22:974][689]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:005][690]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:005][690]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:038][691]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:038][691]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:069][692]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:069][692]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:100][693]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:100][693]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:130][694]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:131][694]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:162][695]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:162][695]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:193][696]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:193][696]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:224][697]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:224][697]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:254][698]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:254][698]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:285][699]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:285][699]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:317][700]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:317][700]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:350][701]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:350][701]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:382][702]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:382][702]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:412][703]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:412][703]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:442][704]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:442][704]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:473][705]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:473][705]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:504][706]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:504][706]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.23:535][707]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.23:535][707]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:517][989]LogCharacterMovement: BP_Bot_C_0 is stuck and failed to move! Velocity: X=-8.10 Y=12.47 Z=0.00 Location: X=594.13 Y=-582.63 Z=102.25 Normal: X=0.10 Y=-0.05 Z=-0.99 PenetrationDepth:1.787 Actor:BP_CajaMusical_C_8 Component:SM_Crate BoneName:None (0 other events since notify)
+[2023.08.25-20.56.32:659][994]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:659][994]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:691][995]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:691][995]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:720][996]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:720][996]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:748][997]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:748][997]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:777][998]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:777][998]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:807][999]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:807][999]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:836][  0]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:836][  0]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:865][  1]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:865][  1]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:895][  2]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:895][  2]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:924][  3]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:924][  3]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:953][  4]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:953][  4]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.32:982][  5]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.32:982][  5]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:012][  6]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:012][  6]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:043][  7]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:043][  7]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:073][  8]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:073][  8]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:105][  9]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:105][  9]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:135][ 10]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:136][ 10]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:166][ 11]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:166][ 11]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:199][ 12]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:199][ 12]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:231][ 13]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:231][ 13]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:264][ 14]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:264][ 14]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:296][ 15]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:296][ 15]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:329][ 16]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:329][ 16]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:361][ 17]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:361][ 17]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:395][ 18]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:395][ 18]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:427][ 19]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:427][ 19]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:459][ 20]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:459][ 20]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:492][ 21]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:492][ 21]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:525][ 22]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:525][ 22]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:557][ 23]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:557][ 23]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:590][ 24]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:591][ 24]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:623][ 25]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:624][ 25]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.56.33:655][ 26]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] 4
+[2023.08.25-20.56.33:655][ 26]LogBlueprintUserMessages: [BP_SuministroDeCajas_C_1] Capa_04
+[2023.08.25-20.58.01:696][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.58.01:696][820]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.08.25-20.58.01:697][820]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.25-20.58.01:698][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.58.01:736][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.25-20.58.01:742][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.25-20.58.01:798][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.25-20.58.01:800][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.25-20.58.01:802][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.25-20.58.01:813][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.25-20.58.01:855][821]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.08.25-20.58.03:758][891]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level_1.Level_1:PersistentLevel.Level_1
+[2023.08.25-20.58.03:758][891]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.25-20.58.27:460][220]BlueprintLog: New page: Compile BP_CajaMusical
+[2023.08.25-20.58.27:619][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.08.25-20.58.27:785][221]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Level_1.
+[2023.08.25-20.58.28:331][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameElements/Musicas/BP_CajaMusical" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/BP_CajaMusical.uasset" SILENT=true
+[2023.08.25-20.58.28:353][239]LogSavePackage: Moving output files for package: /Game/GameElements/Musicas/BP_CajaMusical
+[2023.08.25-20.58.28:354][239]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/BP_CajaMusicalEC8A038641CCB6B0A87A5A9C17889D92.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Content/GameElements/Musicas/BP_CajaMusical.uasset'
+[2023.08.25-20.58.28:374][239]AssetCheck: New page: Asset Save: BP_CajaMusical
+[2023.08.25-20.58.28:374][239]LogContentValidation: Display: Validating Blueprint /Game/GameElements/Musicas/BP_CajaMusical.BP_CajaMusical
+[2023.08.25-21.08.00:695][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.08.25-21.08.00:700][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_1" FILE="../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.08.25-21.08.00:824][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_1_Auto2
+[2023.08.25-21.08.00:825][ 40]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Level_1_Auto24B5018294ED66F04530E09817366B56A.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Autosaves/Game/Maps/Level_1_Auto2.umap'
+[2023.08.25-21.08.00:837][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.222
+[2023.08.25-21.08.00:837][ 40]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.222
+[2023.08.25-21.08.00:837][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StackOBot/Environment/Props/botonAbajo] ([1] browsable assets)...
+[2023.08.25-21.08.01:313][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StackOBot/Environment/Props/botonAbajo.botonAbajo]
+[2023.08.25-21.08.01:313][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/StackOBot/Environment/Props/botonAbajo]
+[2023.08.25-21.08.01:316][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StackOBot/Environment/Props/botonAbajo_Auto2
+[2023.08.25-21.08.01:316][ 40]LogSavePackage: Moving '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/botonAbajo_Auto2D9AA05AA427EB554A90CB2A7CFA0F963.tmp' to '../../../../../../Proyectos Programas/Unreal/GameAudioGame/Saved/Autosaves/Game/StackOBot/Environment/Props/botonAbajo_Auto2.uasset'
+[2023.08.25-21.08.01:318][ 40]LogFileHelpers: Auto-saving content packages took 0.481
