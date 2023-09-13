@@ -8,14 +8,126 @@
 		<ExternalSourcesOutputRoot>C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="3991942870" GUID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}" Language="SFX" Hash="3952792433">
+		<SoundBank Id="3991942870" GUID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}" Language="SFX" Hash="3047696992">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2975818780" Name="Escuchador" ObjectPath="\Events\Default Work Unit\Escuchador" GUID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}" DurationType="Infinite"/>
-				<Event Id="2160515625" Name="PararMusica" ObjectPath="\Events\Default Work Unit\PararMusica" GUID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
-				<Event Id="3297799056" Name="ZonaBoss" ObjectPath="\Events\Default Work Unit\ZonaBoss" GUID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" DurationType="Infinite">
+				<Event Id="1295791490" Name="BotonesAbajo" ObjectPath="\Events\Default Work Unit\BpsCosas\Botones\BotonesAbajo" GUID="{D7A5999F-A587-430D-9BBF-4CF38B49BADE}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1117777846" Name="BotonesArriba" ObjectPath="\Events\Default Work Unit\BpsCosas\Botones\BotonesArriba" GUID="{02C3D093-CD7B-4C87-89F6-522A3F8F29A3}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1748147011" Name="Caja_Caida" ObjectPath="\Events\Default Work Unit\BpsCosas\Cajas\Caja_Caida" GUID="{1C433505-D27D-4662-A097-B104A60D47C4}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2975818780" Name="Escuchador" ObjectPath="\Events\Default Work Unit\Musica\Escuchador" GUID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="22460098" Language="SFX">
+							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="175162818" Language="SFX">
+							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="230517861" Language="SFX">
+							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="302292856" Language="SFX">
+							<ShortName>Level Clases f.wav</ShortName>
+							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
+						</File>
+						<File Id="316431763" Language="SFX">
+							<ShortName>Music_Piano_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="319284561" Language="SFX">
+							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="355024106" Language="SFX">
+							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="582064451" Language="SFX">
+							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="595387974" Language="SFX">
+							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="596900519" Language="SFX">
+							<ShortName>Level Clases h.wav</ShortName>
+							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
+						</File>
+						<File Id="692441908" Language="SFX">
+							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="720918943" Language="SFX">
+							<ShortName>Level Clases c.wav</ShortName>
+							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
+						</File>
+						<File Id="751153436" Language="SFX">
+							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="807544341" Language="SFX">
+							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
+							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="895563400" Language="SFX">
+							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="919270497" Language="SFX">
+							<ShortName>Level Clases d.wav</ShortName>
+							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1015083523" Language="SFX">
+							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
+							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1037146104" Language="SFX">
+							<ShortName>Level Clases e.wav</ShortName>
+							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="428369203" Name="Ida" ObjectPath="\Events\Default Work Unit\BpsCosas\Suministro de Cajas\Ida" GUID="{220CFC28-DD3A-47D3-81F7-9943C126AF00}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2160515625" Name="PararMusica" ObjectPath="\Events\Default Work Unit\Musica\PararMusica" GUID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2254033811" Name="Pasos_Boss" ObjectPath="\Events\Default Work Unit\Personajes\Pasos_Boss" GUID="{FBCE515B-87DB-4308-87BF-8A88E23CCD8B}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2972371111" Name="Pasos_Bot" ObjectPath="\Events\Default Work Unit\Personajes\Pasos_Bot" GUID="{ABBA16C4-0EAF-461C-B7EC-F9B0C2BCCB0D}" DurationType="OneShot" DurationMin="0.538975" DurationMax="0.61912">
+					<IncludedMemoryFiles>
+						<File Id="488188" Language="SFX">
+							<ShortName>gravel footstep 3.wav</ShortName>
+							<Path>SFX\gravel footstep 3_10C4C929.wem</Path>
+						</File>
+						<File Id="2290666" Language="SFX">
+							<ShortName>PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
+							<Path>SFX\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+						</File>
+						<File Id="195895092" Language="SFX">
+							<ShortName>PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
+							<Path>SFX\PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+						</File>
+						<File Id="249076465" Language="SFX">
+							<ShortName>gravel footstep 2.wav</ShortName>
+							<Path>SFX\gravel footstep 2_10C4C929.wem</Path>
+						</File>
+						<File Id="358736461" Language="SFX">
+							<ShortName>PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
+							<Path>SFX\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+						</File>
+						<File Id="666153434" Language="SFX">
+							<ShortName>switch_on_042.wav</ShortName>
+							<Path>SFX\switch_on_042_10C4C929.wem</Path>
+						</File>
+						<File Id="1065610208" Language="SFX">
+							<ShortName>gravel footstep 1.wav</ShortName>
+							<Path>SFX\gravel footstep 1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3297799056" Name="ZonaBoss" ObjectPath="\Events\Default Work Unit\Musica\ZonaBoss" GUID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="22460098" Language="SFX">
 							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
@@ -162,7 +274,7 @@
 						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
-				<Event Id="1302589575" Name="ZonaExploracion" ObjectPath="\Events\Default Work Unit\ZonaExploracion" GUID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" DurationType="Infinite">
+				<Event Id="1302589575" Name="ZonaExploracion" ObjectPath="\Events\Default Work Unit\Musica\ZonaExploracion" GUID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="22460098" Language="SFX">
 							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
@@ -238,7 +350,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3089460701" Name="ZonaHouse" ObjectPath="\Events\Default Work Unit\ZonaHouse" GUID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" DurationType="Infinite">
+				<Event Id="3089460701" Name="ZonaHouse" ObjectPath="\Events\Default Work Unit\Musica\ZonaHouse" GUID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="22460098" Language="SFX">
 							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
@@ -314,7 +426,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2778572524" Name="ZonaPelea" ObjectPath="\Events\Default Work Unit\ZonaPelea" GUID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" DurationType="Infinite">
+				<Event Id="2778572524" Name="ZonaPelea" ObjectPath="\Events\Default Work Unit\Musica\ZonaPelea" GUID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="22460098" Language="SFX">
 							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
@@ -392,6 +504,14 @@
 				</Event>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="488188" Language="SFX">
+					<ShortName>gravel footstep 3.wav</ShortName>
+					<Path>SFX\gravel footstep 3_10C4C929.wem</Path>
+				</File>
+				<File Id="2290666" Language="SFX">
+					<ShortName>PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
+					<Path>SFX\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+				</File>
 				<File Id="22460098" Language="SFX">
 					<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
 					<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
@@ -400,9 +520,17 @@
 					<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
 					<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
 				</File>
+				<File Id="195895092" Language="SFX">
+					<ShortName>PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
+					<Path>SFX\PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+				</File>
 				<File Id="230517861" Language="SFX">
 					<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
 					<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="249076465" Language="SFX">
+					<ShortName>gravel footstep 2.wav</ShortName>
+					<Path>SFX\gravel footstep 2_10C4C929.wem</Path>
 				</File>
 				<File Id="302292856" Language="SFX">
 					<ShortName>Level Clases f.wav</ShortName>
@@ -420,6 +548,10 @@
 					<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
 					<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
 				</File>
+				<File Id="358736461" Language="SFX">
+					<ShortName>PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
+					<Path>SFX\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+				</File>
 				<File Id="582064451" Language="SFX">
 					<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
 					<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
@@ -431,6 +563,10 @@
 				<File Id="596900519" Language="SFX">
 					<ShortName>Level Clases h.wav</ShortName>
 					<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
+				</File>
+				<File Id="666153434" Language="SFX">
+					<ShortName>switch_on_042.wav</ShortName>
+					<Path>SFX\switch_on_042_10C4C929.wem</Path>
 				</File>
 				<File Id="692441908" Language="SFX">
 					<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
@@ -463,6 +599,10 @@
 				<File Id="1037146104" Language="SFX">
 					<ShortName>Level Clases e.wav</ShortName>
 					<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1065610208" Language="SFX">
+					<ShortName>gravel footstep 1.wav</ShortName>
+					<Path>SFX\gravel footstep 1_10C4C929.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 			<StateGroups>

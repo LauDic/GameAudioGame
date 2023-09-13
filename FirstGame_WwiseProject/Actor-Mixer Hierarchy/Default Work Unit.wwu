@@ -12,6 +12,327 @@
 							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<BlendContainer Name="Steps" ID="{17848B80-B91C-45E2-9098-378B4795495B}" ShortID="111971423">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<RandomSequenceContainer Name="Metal" ID="{EA9F08B7-A50A-4660-BB3C-20107755A8C3}" ShortID="346850850">
+									<PropertyList>
+										<Property Name="Lowpass" Type="int16">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{A195312F-6E8C-499F-B373-4B1D01F7325E}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{8DDE3CAA-3A4D-480D-922B-CD5B575C156B}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="152"/>
+															<Property Name="Min" Type="Real64" Value="-76"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="switch_on_042" ID="{625B7FE6-7F16-4F40-B7CC-431E42870790}" ShortID="746325083">
+											<PropertyList>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{E06CAF21-6640-4655-B7BB-7306C4707B44}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="6"/>
+																	<Property Name="Min" Type="Real64" Value="-6"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-16</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="switch_on_042" ID="{1BA34C09-E3BB-4280-82DB-7AA6513B7326}">
+													<Language>SFX</Language>
+													<AudioFile>switch_on_042.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="666153434"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="switch_on_042" ID="{1BA34C09-E3BB-4280-82DB-7AA6513B7326}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+									<ObjectLists/>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="Grass" ID="{320C5F48-F93F-41B7-A22B-E0D61BBDD871}" ShortID="782748670">
+									<PropertyList>
+										<Property Name="Lowpass" Type="int16">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{2089AC30-4C87-4E65-815E-E4CF97E5C06D}">
+														<PropertyList>
+															<Property Name="Max" Type="Real64" Value="6"/>
+															<Property Name="Min" Type="Real64" Value="-6"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{0D4DF419-D42B-488D-9E52-D98E72E05B12}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="6"/>
+															<Property Name="Min" Type="Real64" Value="-6"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="Volume" Type="Real64">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{BE91B552-C080-4B82-A656-38914AAC90F3}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="5"/>
+															<Property Name="Min" Type="Real64" Value="-4"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{8C1416DF-2B19-45B8-8AD0-03AB2E40AB44}" ShortID="800270247">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{1C81D81F-143D-4D4F-A89C-C365D0D66410}">
+													<Language>SFX</Language>
+													<AudioFile>PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="195895092"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{1C81D81F-143D-4D4F-A89C-C365D0D66410}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{F02E49CF-501B-4E5E-9BEE-5EBCAF261BED}" ShortID="360429934">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{F91EB444-55B2-402D-B661-0CA2509BFFF1}">
+													<Language>SFX</Language>
+													<AudioFile>PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="2290666"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{F91EB444-55B2-402D-B661-0CA2509BFFF1}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{FB26A6C5-5953-462F-97C2-51746FA164CA}" ShortID="1058938701">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{BF1A33D7-A831-4D29-BBD6-1D65E8FDA3D6}">
+													<Language>SFX</Language>
+													<AudioFile>PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="358736461"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow" ID="{BF1A33D7-A831-4D29-BBD6-1D65E8FDA3D6}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+									<ObjectLists/>
+								</RandomSequenceContainer>
+								<RandomSequenceContainer Name="Sand" ID="{55BBC97D-03F7-4778-8C97-B087073244F9}" ShortID="288764240">
+									<PropertyList>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{9D5D254F-B565-4531-B4B8-EB3E0CC10A8D}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="3"/>
+															<Property Name="Min" Type="Real64" Value="-3"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-5</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<Sound Name="gravel footstep 1" ID="{44F2ECAF-52FC-42FB-A963-1A83F0114FF7}" ShortID="237811078">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="gravel footstep 1" ID="{4DA85F51-DC6D-4B18-97B2-0B4DF50CD5E8}">
+													<Language>SFX</Language>
+													<AudioFile>gravel footstep 1.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="1065610208"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="gravel footstep 1" ID="{4DA85F51-DC6D-4B18-97B2-0B4DF50CD5E8}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="gravel footstep 2" ID="{1E38D83E-8F0F-43BA-A841-6FF9E740AA9C}" ShortID="306643742">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="gravel footstep 2" ID="{237059FB-5F9D-4C13-8B15-8D11FE2C9EFB}">
+													<Language>SFX</Language>
+													<AudioFile>gravel footstep 2.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="249076465"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="gravel footstep 2" ID="{237059FB-5F9D-4C13-8B15-8D11FE2C9EFB}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="gravel footstep 3" ID="{D656EC66-5888-4B87-B3B0-E3F46A04321C}" ShortID="34320160">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="gravel footstep 3" ID="{CC604C6A-293C-4ACE-BFF2-E3D95E321593}">
+													<Language>SFX</Language>
+													<AudioFile>gravel footstep 3.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="488188"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<ObjectLists/>
+											<ActiveSourceList>
+												<ActiveSource Name="gravel footstep 3" ID="{CC604C6A-293C-4ACE-BFF2-E3D95E321593}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+									<ObjectLists/>
+								</RandomSequenceContainer>
+							</ChildrenList>
+							<ObjectLists/>
+						</BlendContainer>
+					</ChildrenList>
 					<ObjectLists/>
 				</ActorMixer>
 			</ChildrenList>

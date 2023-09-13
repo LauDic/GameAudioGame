@@ -3,97 +3,137 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="ZonaBoss" ID="{872F113B-209F-41D4-BC1B-9FCA5555234C}">
+				<Folder Name="Personajes" ID="{77D9EACE-84DE-462B-A6FA-686C058FA279}" ShortID="934553640">
 					<ChildrenList>
-						<Action Name="" ID="{31BBF90E-998B-4C5D-8653-E2375C85FB18}" ShortID="565430584">
-							<PropertyList>
-								<Property Name="FadeInCurve" Type="int16" Value="2"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Event Name="Pasos_Bot" ID="{ABBA16C4-0EAF-461C-B7EC-F9B0C2BCCB0D}">
+							<ChildrenList>
+								<Action Name="" ID="{5A9FEAE7-001C-4114-9821-FAE52C81FD9F}" ShortID="553231363">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Steps" ID="{17848B80-B91C-45E2-9098-378B4795495B}" WorkUnitID="{9946E544-26C3-45D2-8794-EF8ACD80ABD9}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Pasos_Boss" ID="{FBCE515B-87DB-4308-87BF-8A88E23CCD8B}"/>
 					</ChildrenList>
-				</Event>
-				<Event Name="PararMusica" ID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}">
+				</Folder>
+				<Folder Name="Musica" ID="{999A2CE8-C4A1-46A9-B18D-D69CBBCF2147}" ShortID="155578014">
 					<ChildrenList>
-						<Action Name="" ID="{76078874-36A8-4665-8032-A90A362272A7}" ShortID="465182319">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="2"/>
-								<Property Name="FadeOutCurve" Type="int16" Value="5"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Event Name="PararMusica" ID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}">
+							<ChildrenList>
+								<Action Name="" ID="{76078874-36A8-4665-8032-A90A362272A7}" ShortID="465182319">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+										<Property Name="FadeOutCurve" Type="int16" Value="5"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ZonaHouse" ID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}">
+							<ChildrenList>
+								<Action Name="" ID="{C28B2A1B-E1D8-4EDA-9677-132C97EF9CB4}" ShortID="316124034">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="1"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ZonaExploracion" ID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}">
+							<ChildrenList>
+								<Action Name="" ID="{0C89A8DB-B1C3-45D4-80A2-B83623F31240}" ShortID="749378096">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="1"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ZonaBoss" ID="{872F113B-209F-41D4-BC1B-9FCA5555234C}">
+							<ChildrenList>
+								<Action Name="" ID="{31BBF90E-998B-4C5D-8653-E2375C85FB18}" ShortID="565430584">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="2"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ZonaPelea" ID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}">
+							<ChildrenList>
+								<Action Name="" ID="{695973AC-F86B-482F-8BCA-252E747D20CD}" ShortID="750018181">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="2"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Escuchador" ID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}">
+							<ChildrenList>
+								<Action Name="" ID="{62B9EB8C-905A-4F14-9192-EFF9B2366F63}" ShortID="323308822">
+									<PropertyList>
+										<Property Name="FadeInCurve" Type="int16" Value="2"/>
+										<Property Name="FadeTime" Type="Real64" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
-				</Event>
-				<Event Name="ZonaHouse" ID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}">
+				</Folder>
+				<Folder Name="BpsCosas" ID="{2C4178AD-DF39-46A2-A74E-BF18FC8A7AA2}" ShortID="607487964">
 					<ChildrenList>
-						<Action Name="" ID="{C28B2A1B-E1D8-4EDA-9677-132C97EF9CB4}" ShortID="316124034">
-							<PropertyList>
-								<Property Name="FadeInCurve" Type="int16" Value="1"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Folder Name="Suministro de Cajas" ID="{EF1606E0-B9C7-49B9-8772-014BDF21EB77}" ShortID="866890801">
+							<ChildrenList>
+								<Event Name="Ida" ID="{220CFC28-DD3A-47D3-81F7-9943C126AF00}"/>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Cajas" ID="{5F81789F-2D04-418C-BE98-830FA95145A6}" ShortID="288165519">
+							<ChildrenList>
+								<Event Name="Caja_Caida" ID="{1C433505-D27D-4662-A097-B104A60D47C4}"/>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Botones" ID="{FDFC7910-9D78-47DA-81EB-D71D82E93C01}" ShortID="794982449">
+							<ChildrenList>
+								<Event Name="BotonesAbajo" ID="{D7A5999F-A587-430D-9BBF-4CF38B49BADE}"/>
+								<Event Name="BotonesArriba" ID="{02C3D093-CD7B-4C87-89F6-522A3F8F29A3}"/>
+							</ChildrenList>
+						</Folder>
 					</ChildrenList>
-				</Event>
-				<Event Name="ZonaPelea" ID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}">
-					<ChildrenList>
-						<Action Name="" ID="{695973AC-F86B-482F-8BCA-252E747D20CD}" ShortID="750018181">
-							<PropertyList>
-								<Property Name="FadeInCurve" Type="int16" Value="2"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="ZonaExploracion" ID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}">
-					<ChildrenList>
-						<Action Name="" ID="{0C89A8DB-B1C3-45D4-80A2-B83623F31240}" ShortID="749378096">
-							<PropertyList>
-								<Property Name="FadeInCurve" Type="int16" Value="1"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="Escuchador" ID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}">
-					<ChildrenList>
-						<Action Name="" ID="{62B9EB8C-905A-4F14-9192-EFF9B2366F63}" ShortID="323308822">
-							<PropertyList>
-								<Property Name="FadeInCurve" Type="int16" Value="2"/>
-								<Property Name="FadeTime" Type="Real64" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Música" ID="{D7EF0B8F-57A6-459C-B14F-73E2CFE37503}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

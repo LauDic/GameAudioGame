@@ -10,6 +10,10 @@
 							<Position X="0" Y="0"/>
 						</Module>
 						<Module>
+							<ObjectRef Name="Pasos_Bot" ID="{ABBA16C4-0EAF-461C-B7EC-F9B0C2BCCB0D}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
 							<ObjectRef Name="PararMusica" ID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}"/>
 							<Position X="1" Y="0"/>
 						</Module>
