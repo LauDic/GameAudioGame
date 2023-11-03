@@ -185,6 +185,90 @@
 												</ObjectList>
 											</ObjectLists>
 										</MusicSegment>
+										<MusicSegment Name="ProyectoLauta_Demo01" ID="{69FE44B9-B339-406D-830E-EF00C0BA9C60}" ShortID="851306144">
+											<PropertyList>
+												<Property Name="EndPosition" Type="Real64" Value="59921.9274376417"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<MusicTrack Name="ProyectoLauta_Demo01" ID="{3E60DB19-2A8C-4EFF-8C8E-34A5EB876F59}" ShortID="67334325">
+													<ReferenceList>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ProyectoLauta_Demo01" ID="{EDD29DDB-31A4-4479-B1FB-8081C7B85A0C}">
+															<Language>SFX</Language>
+															<AudioFile>ProyectoLauta_Demo01.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="473867011"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<TransitionList>
+														<MusicTransition Name="Root" ID="{8D11B96C-A9D7-4BA4-B7C4-92239E2CACB4}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</TransitionList>
+													<ObjectLists>
+														<ObjectList Name="Sequences">
+															<Reference>
+																<Local>
+																	<MusicTrackSequence Name="" ID="{EA095D79-D781-43DE-A9F3-771A472EA41E}">
+																		<ObjectLists>
+																			<ObjectList Name="Clips">
+																				<Reference>
+																					<Local>
+																						<MusicClip Name="ProyectoLauta_Demo01" ID="{6D762177-F8B0-4BA7-865C-B6C9906B94B2}">
+																							<PropertyList>
+																								<Property Name="EndTrimOffset" Type="Real64" Value="59921.9274376417"/>
+																								<Property Name="FadeInMode" Type="int16" Value="0"/>
+																								<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																							</PropertyList>
+																							<AudioSourceRef Name="ProyectoLauta_Demo01" ID="{EDD29DDB-31A4-4479-B1FB-8081C7B85A0C}"/>
+																						</MusicClip>
+																					</Local>
+																				</Reference>
+																			</ObjectList>
+																		</ObjectLists>
+																	</MusicTrackSequence>
+																</Local>
+															</Reference>
+														</ObjectList>
+													</ObjectLists>
+												</MusicTrack>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Cues">
+													<Reference>
+														<Local>
+															<MusicCue Name="Entry Cue" ID="{96B50B96-658F-4110-89CE-426B4752D6FC}"/>
+														</Local>
+													</Reference>
+													<Reference>
+														<Local>
+															<MusicCue Name="Exit Cue" ID="{09192D3A-11B0-4A46-BF05-C4087FD824C4}">
+																<PropertyList>
+																	<Property Name="CueType" Type="int16" Value="1"/>
+																	<Property Name="TimeMs" Type="Real64" Value="59921.9274376417"/>
+																</PropertyList>
+															</MusicCue>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicSegment>
 									</ChildrenList>
 									<TransitionList>
 										<MusicTransition Name="Root" ID="{915F663B-DF97-41B1-AC7B-A9C9BE8B5E02}">
@@ -206,11 +290,11 @@
 												<Property Name="LoopCount" Type="int16" Value="0"/>
 											</PropertyList>
 											<ChildrenList>
-												<MusicPlaylistItem Name="" ID="{08919941-5D8F-4692-9A73-79893CABAFF3}" ShortID="978919371">
+												<MusicPlaylistItem Name="" ID="{D3C5AF9F-E3F5-4697-BDCD-E190E10233EA}" ShortID="88367114">
 													<PropertyList>
 														<Property Name="PlaylistItemType" Type="int16" Value="1"/>
 													</PropertyList>
-													<SegmentRef Name="Level Clases d" ID="{8FB66E1A-2AA6-48CB-AD16-B1182099FA09}"/>
+													<SegmentRef Name="ProyectoLauta_Demo01" ID="{69FE44B9-B339-406D-830E-EF00C0BA9C60}"/>
 												</MusicPlaylistItem>
 											</ChildrenList>
 										</MusicPlaylistItem>
@@ -386,6 +470,90 @@
 												</ObjectList>
 											</ObjectLists>
 										</MusicSegment>
+										<MusicSegment Name="ProyectoLauta_Demo02" ID="{53BC5E23-9265-4E78-BE1D-8677659AD84A}" ShortID="87900219">
+											<PropertyList>
+												<Property Name="EndPosition" Type="Real64" Value="59921.9274376417"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<MusicTrack Name="ProyectoLauta_Demo02" ID="{DC2671C4-F087-44EC-8F0B-B8CC91B6B89D}" ShortID="633152407">
+													<ReferenceList>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ProyectoLauta_Demo02" ID="{19D30F9A-A855-42ED-9A74-2E3889BF4F16}">
+															<Language>SFX</Language>
+															<AudioFile>ProyectoLauta_Demo02.wav</AudioFile>
+															<MediaIDList>
+																<MediaID ID="1064661478"/>
+															</MediaIDList>
+														</AudioFileSource>
+													</ChildrenList>
+													<TransitionList>
+														<MusicTransition Name="Root" ID="{E9814124-2562-41EF-8F5B-6CFEB45C48A2}">
+															<PropertyList>
+																<Property Name="IsFolder" Type="bool" Value="True"/>
+															</PropertyList>
+															<TransitionInfo/>
+														</MusicTransition>
+													</TransitionList>
+													<ObjectLists>
+														<ObjectList Name="Sequences">
+															<Reference>
+																<Local>
+																	<MusicTrackSequence Name="" ID="{E347D4D9-DA47-4C5C-8001-56964D9D1D2C}">
+																		<ObjectLists>
+																			<ObjectList Name="Clips">
+																				<Reference>
+																					<Local>
+																						<MusicClip Name="ProyectoLauta_Demo02" ID="{49C25238-19A3-4B56-8FD7-DFBDE8E27EA5}">
+																							<PropertyList>
+																								<Property Name="EndTrimOffset" Type="Real64" Value="59921.9274376417"/>
+																								<Property Name="FadeInMode" Type="int16" Value="0"/>
+																								<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																							</PropertyList>
+																							<AudioSourceRef Name="ProyectoLauta_Demo02" ID="{19D30F9A-A855-42ED-9A74-2E3889BF4F16}"/>
+																						</MusicClip>
+																					</Local>
+																				</Reference>
+																			</ObjectList>
+																		</ObjectLists>
+																	</MusicTrackSequence>
+																</Local>
+															</Reference>
+														</ObjectList>
+													</ObjectLists>
+												</MusicTrack>
+											</ChildrenList>
+											<ObjectLists>
+												<ObjectList Name="Cues">
+													<Reference>
+														<Local>
+															<MusicCue Name="Entry Cue" ID="{2CBC24B3-28B3-4F2A-AC02-FCC5020116F1}"/>
+														</Local>
+													</Reference>
+													<Reference>
+														<Local>
+															<MusicCue Name="Exit Cue" ID="{0F2D6C85-6B58-49C2-9D99-E2ED9E1CBCC2}">
+																<PropertyList>
+																	<Property Name="CueType" Type="int16" Value="1"/>
+																	<Property Name="TimeMs" Type="Real64" Value="59921.9274376417"/>
+																</PropertyList>
+															</MusicCue>
+														</Local>
+													</Reference>
+												</ObjectList>
+											</ObjectLists>
+										</MusicSegment>
 									</ChildrenList>
 									<TransitionList>
 										<MusicTransition Name="Root" ID="{C7E62A1C-9495-4908-8093-B89D9EFA3686}">
@@ -407,11 +575,11 @@
 												<Property Name="LoopCount" Type="int16" Value="0"/>
 											</PropertyList>
 											<ChildrenList>
-												<MusicPlaylistItem Name="" ID="{791327C5-EC99-417B-9BFF-9ECECDE0C7B7}" ShortID="87980795">
+												<MusicPlaylistItem Name="" ID="{C8FA82CA-FB66-459D-A116-7E1EB2DC7493}" ShortID="67398105">
 													<PropertyList>
 														<Property Name="PlaylistItemType" Type="int16" Value="1"/>
 													</PropertyList>
-													<SegmentRef Name="Level Clases e" ID="{460F2565-6A5F-437B-81B7-2E51F7B4736F}"/>
+													<SegmentRef Name="ProyectoLauta_Demo02" ID="{53BC5E23-9265-4E78-BE1D-8677659AD84A}"/>
 												</MusicPlaylistItem>
 											</ChildrenList>
 										</MusicPlaylistItem>
