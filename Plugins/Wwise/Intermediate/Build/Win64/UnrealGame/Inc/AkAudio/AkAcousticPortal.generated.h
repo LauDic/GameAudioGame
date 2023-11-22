@@ -15,8 +15,8 @@ enum class AkAcousticPortalState : uint8;
 #endif
 #define AKAUDIO_AkAcousticPortal_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execPortalPlacementValid); \
 	DECLARE_FUNCTION(execGetPrimitiveParent); \
@@ -25,7 +25,7 @@ enum class AkAcousticPortalState : uint8;
 	DECLARE_FUNCTION(execOpenPortal);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execPortalPlacementValid); \
 	DECLARE_FUNCTION(execGetPrimitiveParent); \
@@ -34,7 +34,7 @@ enum class AkAcousticPortalState : uint8;
 	DECLARE_FUNCTION(execOpenPortal);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkPortalComponent(); \
 	friend struct Z_Construct_UClass_UAkPortalComponent_Statics; \
@@ -43,7 +43,7 @@ public: \
 	DECLARE_SERIALIZER(UAkPortalComponent)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkPortalComponent(); \
 	friend struct Z_Construct_UClass_UAkPortalComponent_Statics; \
@@ -52,7 +52,7 @@ public: \
 	DECLARE_SERIALIZER(UAkPortalComponent)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkPortalComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkPortalComponent) \
@@ -65,7 +65,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkPortalComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -78,71 +78,71 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkPortalComponent)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_27_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_27_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_30_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkPortalComponent."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkPortalComponent>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetCurrentState); \
 	DECLARE_FUNCTION(execClosePortal); \
 	DECLARE_FUNCTION(execOpenPortal);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetCurrentState); \
 	DECLARE_FUNCTION(execClosePortal); \
 	DECLARE_FUNCTION(execOpenPortal);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ARCHIVESERIALIZER \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ARCHIVESERIALIZER \
 	DECLARE_FSTRUCTUREDARCHIVE_SERIALIZER(AAkAcousticPortal, NO_API)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAkAcousticPortal(); \
 	friend struct Z_Construct_UClass_AAkAcousticPortal_Statics; \
 public: \
 	DECLARE_CLASS(AAkAcousticPortal, AVolume, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/AkAudio"), NO_API) \
 	DECLARE_SERIALIZER(AAkAcousticPortal) \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ARCHIVESERIALIZER
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ARCHIVESERIALIZER
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS \
 private: \
 	static void StaticRegisterNativesAAkAcousticPortal(); \
 	friend struct Z_Construct_UClass_AAkAcousticPortal_Statics; \
 public: \
 	DECLARE_CLASS(AAkAcousticPortal, AVolume, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/AkAudio"), NO_API) \
 	DECLARE_SERIALIZER(AAkAcousticPortal) \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ARCHIVESERIALIZER
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ARCHIVESERIALIZER
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAkAcousticPortal(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAkAcousticPortal) \
@@ -155,7 +155,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAkAcousticPortal(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -168,25 +168,25 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAkAcousticPortal)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_136_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_136_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h_139_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkAcousticPortal."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -194,7 +194,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UClass* StaticClass<class AAkAcousticPortal>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAcousticPortal_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

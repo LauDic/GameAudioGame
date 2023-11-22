@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\akwaapifieldnames.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\proyectos programas\\unreal\\gameaudiogame\\intermediate\\build\\win64\\gameaudiogame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\development\\akaudio\\definitions.akaudio.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\source\\akaudio\\classes\\akwaapiblueprints\\akwaapifieldnames.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\textfilter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\textfilterexpressionevaluator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\expressionparser.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\textfilterutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\ifilter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\views\\streeview.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\input\\ssearchbox.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\input\\seditabletextbox.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\input\\seditabletext.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\text\\islateeditabletextwidget.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\akwaapifieldnames.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

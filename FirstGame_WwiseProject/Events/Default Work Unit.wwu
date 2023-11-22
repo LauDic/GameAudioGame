@@ -112,6 +112,17 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="StingerPlatOn" ID="{7D65303B-4CFA-4F01-BB97-DEFE4191C253}">
+							<ChildrenList>
+								<Action Name="" ID="{A50C0B18-2930-43D5-95AD-98C14E977C8D}" ShortID="1023936824">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="StingerOn" ID="{88BEB46D-B4F1-4034-86B9-19EEF0B97954}" WorkUnitID="{9946E544-26C3-45D2-8794-EF8ACD80ABD9}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="BpsCosas" ID="{2C4178AD-DF39-46A2-A74E-BF18FC8A7AA2}" ShortID="607487964">

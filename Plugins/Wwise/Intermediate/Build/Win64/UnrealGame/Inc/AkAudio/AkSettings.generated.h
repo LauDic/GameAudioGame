@@ -13,24 +13,24 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_AkSettings_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_30_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_30_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkGeometrySurfacePropertiesToMap_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkGeometrySurfacePropertiesToMap>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_48_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_48_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkAcousticTextureParams_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkAcousticTextureParams>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkSettings(); \
 	friend struct Z_Construct_UClass_UAkSettings_Statics; \
@@ -41,7 +41,7 @@ public: \
 
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkSettings(); \
 	friend struct Z_Construct_UClass_UAkSettings_Statics; \
@@ -52,7 +52,7 @@ public: \
 
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkSettings) \
@@ -65,7 +65,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -78,25 +78,25 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkSettings)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_70_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_70_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h_73_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkSettings."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -104,7 +104,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UClass* StaticClass<class UAkSettings>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSettings_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

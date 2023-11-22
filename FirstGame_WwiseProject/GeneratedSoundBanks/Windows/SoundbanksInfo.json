@@ -28,7 +28,7 @@
     "Id": "3991942870",
     "GUID": "{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}",
     "Language": "SFX",
-    "Hash": "3462862319",
+    "Hash": "156202068",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
     "ShortName": "Music",
     "Path": "Music.bnk",
@@ -71,22 +71,10 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "22460098",
+        "Id": "16516262",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "175162818",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_B_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_B_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "230517861",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part B_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part B_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer03.wav",
+        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -95,46 +83,22 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "316431763",
+        "Id": "391590194",
         "Language": "SFX",
-        "ShortName": "Music_Piano_120 4 4.wav",
-        "Path": "SFX\\Music_Piano_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer01.wav",
+        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
        },
        {
-        "Id": "319284561",
+        "Id": "473867011",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Long_120 4 4_D79FB2B7.wem"
+        "ShortName": "ProyectoLauta_Demo01.wav",
+        "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "355024106",
+        "Id": "584122215",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Short A_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "582064451",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_A_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_A_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "595387974",
-        "Language": "SFX",
-        "ShortName": "Music_Synth_ 120 4 4.wav",
-        "Path": "SFX\\Music_Synth_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "596900519",
-        "Language": "SFX",
-        "ShortName": "Level Clases h.wav",
-        "Path": "SFX\\Level Clases h_D79FB2B7.wem"
-       },
-       {
-        "Id": "692441908",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part A_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part A_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer02_alt.wav",
+        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
        },
        {
         "Id": "720918943",
@@ -143,10 +107,10 @@
         "Path": "SFX\\Level Clases c_D79FB2B7.wem"
        },
        {
-        "Id": "751153436",
+        "Id": "734778608",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_group_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_group_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer02.wav",
+        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
        },
        {
         "Id": "807544341",
@@ -155,10 +119,10 @@
         "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
        },
        {
-        "Id": "895563400",
+        "Id": "903781297",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Group_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Group_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer01.wav",
+        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
        },
        {
         "Id": "919270497",
@@ -167,16 +131,22 @@
         "Path": "SFX\\Level Clases d_D79FB2B7.wem"
        },
        {
-        "Id": "1015083523",
-        "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long B_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem"
-       },
-       {
         "Id": "1037146104",
         "Language": "SFX",
         "ShortName": "Level Clases e.wav",
         "Path": "SFX\\Level Clases e_D79FB2B7.wem"
+       },
+       {
+        "Id": "1046701662",
+        "Language": "SFX",
+        "ShortName": "samba_layer05.wav",
+        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+       },
+       {
+        "Id": "1064661478",
+        "Language": "SFX",
+        "ShortName": "ProyectoLauta_Demo02.wav",
+        "Path": "SFX\\ProyectoLauta_Demo02_D79FB2B7.wem"
        }
       ]
      },
@@ -264,6 +234,23 @@
       ]
      },
      {
+      "Id": "3872002757",
+      "Name": "StingerPlatOn",
+      "ObjectPath": "\\Events\\Default Work Unit\\Musica\\StingerPlatOn",
+      "GUID": "{7D65303B-4CFA-4F01-BB97-DEFE4191C253}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.",
+      "DurationMax": "3.",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "728251920",
+        "Language": "SFX",
+        "ShortName": "stinger_bell.wav",
+        "Path": "SFX\\stinger_bell_10C4C929.wem"
+       }
+      ]
+     },
+     {
       "Id": "3297799056",
       "Name": "ZonaBoss",
       "ObjectPath": "\\Events\\Default Work Unit\\Musica\\ZonaBoss",
@@ -271,22 +258,10 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "22460098",
+        "Id": "16516262",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "175162818",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_B_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_B_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "230517861",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part B_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part B_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer03.wav",
+        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -295,46 +270,22 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "316431763",
+        "Id": "391590194",
         "Language": "SFX",
-        "ShortName": "Music_Piano_120 4 4.wav",
-        "Path": "SFX\\Music_Piano_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer01.wav",
+        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
        },
        {
-        "Id": "319284561",
+        "Id": "473867011",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Long_120 4 4_D79FB2B7.wem"
+        "ShortName": "ProyectoLauta_Demo01.wav",
+        "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "355024106",
+        "Id": "584122215",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Short A_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "582064451",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_A_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_A_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "595387974",
-        "Language": "SFX",
-        "ShortName": "Music_Synth_ 120 4 4.wav",
-        "Path": "SFX\\Music_Synth_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "596900519",
-        "Language": "SFX",
-        "ShortName": "Level Clases h.wav",
-        "Path": "SFX\\Level Clases h_D79FB2B7.wem"
-       },
-       {
-        "Id": "692441908",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part A_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part A_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer02_alt.wav",
+        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
        },
        {
         "Id": "720918943",
@@ -343,10 +294,10 @@
         "Path": "SFX\\Level Clases c_D79FB2B7.wem"
        },
        {
-        "Id": "751153436",
+        "Id": "734778608",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_group_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_group_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer02.wav",
+        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
        },
        {
         "Id": "807544341",
@@ -355,10 +306,10 @@
         "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
        },
        {
-        "Id": "895563400",
+        "Id": "903781297",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Group_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Group_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer01.wav",
+        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
        },
        {
         "Id": "919270497",
@@ -367,16 +318,22 @@
         "Path": "SFX\\Level Clases d_D79FB2B7.wem"
        },
        {
-        "Id": "1015083523",
-        "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long B_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem"
-       },
-       {
         "Id": "1037146104",
         "Language": "SFX",
         "ShortName": "Level Clases e.wav",
         "Path": "SFX\\Level Clases e_D79FB2B7.wem"
+       },
+       {
+        "Id": "1046701662",
+        "Language": "SFX",
+        "ShortName": "samba_layer05.wav",
+        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+       },
+       {
+        "Id": "1064661478",
+        "Language": "SFX",
+        "ShortName": "ProyectoLauta_Demo02.wav",
+        "Path": "SFX\\ProyectoLauta_Demo02_D79FB2B7.wem"
        }
       ],
       "SwitchContainers": [
@@ -387,7 +344,7 @@
           "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
           "Media": [
            {
-            "Id": "720918943"
+            "Id": "1064661478"
            }
           ]
          },
@@ -396,6 +353,9 @@
           "Media": [
            {
             "Id": "302292856"
+           },
+           {
+            "Id": "473867011"
            }
           ]
          },
@@ -403,7 +363,7 @@
           "SwitchValue": "{18E2F314-C783-4DD7-A006-B712A6281BC5}",
           "Media": [
            {
-            "Id": "596900519"
+            "Id": "1064661478"
            }
           ]
          }
@@ -442,16 +402,26 @@
         "SwitchValue": "{B620529C-3CB9-4063-AA64-43BEC75240D1}",
         "Children": [
          {
-          "SwitchValue": "{B620529C-3CB9-4063-AA64-43BEC75240D1}",
+          "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
           "Media": [
            {
-            "Id": "582064451"
-           },
+            "Id": "903781297"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}",
+          "Media": [
            {
-            "Id": "895563400"
-           },
+            "Id": "584122215"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{18E2F314-C783-4DD7-A006-B712A6281BC5}",
+          "Media": [
            {
-            "Id": "1015083523"
+            "Id": "16516262"
            }
           ]
          }
@@ -461,43 +431,26 @@
         "SwitchValue": "{75FD770A-600D-453B-804C-F09C2134016D}",
         "Children": [
          {
-          "SwitchValue": "{75FD770A-600D-453B-804C-F09C2134016D}",
+          "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
           "Media": [
            {
-            "Id": "22460098"
-           },
+            "Id": "391590194"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}",
+          "Media": [
            {
-            "Id": "175162818"
-           },
+            "Id": "734778608"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{18E2F314-C783-4DD7-A006-B712A6281BC5}",
+          "Media": [
            {
-            "Id": "230517861"
-           },
-           {
-            "Id": "316431763"
-           },
-           {
-            "Id": "319284561"
-           },
-           {
-            "Id": "355024106"
-           },
-           {
-            "Id": "582064451"
-           },
-           {
-            "Id": "595387974"
-           },
-           {
-            "Id": "692441908"
-           },
-           {
-            "Id": "751153436"
-           },
-           {
-            "Id": "807544341"
-           },
-           {
-            "Id": "895563400"
+            "Id": "1046701662"
            }
           ]
          }
@@ -513,22 +466,10 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "22460098",
+        "Id": "16516262",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "175162818",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_B_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_B_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "230517861",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part B_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part B_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer03.wav",
+        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -537,46 +478,22 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "316431763",
+        "Id": "391590194",
         "Language": "SFX",
-        "ShortName": "Music_Piano_120 4 4.wav",
-        "Path": "SFX\\Music_Piano_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer01.wav",
+        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
        },
        {
-        "Id": "319284561",
+        "Id": "473867011",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Long_120 4 4_D79FB2B7.wem"
+        "ShortName": "ProyectoLauta_Demo01.wav",
+        "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "355024106",
+        "Id": "584122215",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Short A_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "582064451",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_A_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_A_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "595387974",
-        "Language": "SFX",
-        "ShortName": "Music_Synth_ 120 4 4.wav",
-        "Path": "SFX\\Music_Synth_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "596900519",
-        "Language": "SFX",
-        "ShortName": "Level Clases h.wav",
-        "Path": "SFX\\Level Clases h_D79FB2B7.wem"
-       },
-       {
-        "Id": "692441908",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part A_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part A_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer02_alt.wav",
+        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
        },
        {
         "Id": "720918943",
@@ -585,10 +502,10 @@
         "Path": "SFX\\Level Clases c_D79FB2B7.wem"
        },
        {
-        "Id": "751153436",
+        "Id": "734778608",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_group_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_group_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer02.wav",
+        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
        },
        {
         "Id": "807544341",
@@ -597,10 +514,10 @@
         "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
        },
        {
-        "Id": "895563400",
+        "Id": "903781297",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Group_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Group_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer01.wav",
+        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
        },
        {
         "Id": "919270497",
@@ -609,16 +526,22 @@
         "Path": "SFX\\Level Clases d_D79FB2B7.wem"
        },
        {
-        "Id": "1015083523",
-        "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long B_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem"
-       },
-       {
         "Id": "1037146104",
         "Language": "SFX",
         "ShortName": "Level Clases e.wav",
         "Path": "SFX\\Level Clases e_D79FB2B7.wem"
+       },
+       {
+        "Id": "1046701662",
+        "Language": "SFX",
+        "ShortName": "samba_layer05.wav",
+        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+       },
+       {
+        "Id": "1064661478",
+        "Language": "SFX",
+        "ShortName": "ProyectoLauta_Demo02.wav",
+        "Path": "SFX\\ProyectoLauta_Demo02_D79FB2B7.wem"
        }
       ]
      },
@@ -630,22 +553,10 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "22460098",
+        "Id": "16516262",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "175162818",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_B_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_B_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "230517861",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part B_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part B_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer03.wav",
+        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -654,46 +565,22 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "316431763",
+        "Id": "391590194",
         "Language": "SFX",
-        "ShortName": "Music_Piano_120 4 4.wav",
-        "Path": "SFX\\Music_Piano_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer01.wav",
+        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
        },
        {
-        "Id": "319284561",
+        "Id": "473867011",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Long_120 4 4_D79FB2B7.wem"
+        "ShortName": "ProyectoLauta_Demo01.wav",
+        "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "355024106",
+        "Id": "584122215",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Short A_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "582064451",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_A_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_A_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "595387974",
-        "Language": "SFX",
-        "ShortName": "Music_Synth_ 120 4 4.wav",
-        "Path": "SFX\\Music_Synth_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "596900519",
-        "Language": "SFX",
-        "ShortName": "Level Clases h.wav",
-        "Path": "SFX\\Level Clases h_D79FB2B7.wem"
-       },
-       {
-        "Id": "692441908",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part A_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part A_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer02_alt.wav",
+        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
        },
        {
         "Id": "720918943",
@@ -702,10 +589,10 @@
         "Path": "SFX\\Level Clases c_D79FB2B7.wem"
        },
        {
-        "Id": "751153436",
+        "Id": "734778608",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_group_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_group_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer02.wav",
+        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
        },
        {
         "Id": "807544341",
@@ -714,10 +601,10 @@
         "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
        },
        {
-        "Id": "895563400",
+        "Id": "903781297",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Group_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Group_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer01.wav",
+        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
        },
        {
         "Id": "919270497",
@@ -726,16 +613,22 @@
         "Path": "SFX\\Level Clases d_D79FB2B7.wem"
        },
        {
-        "Id": "1015083523",
-        "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long B_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem"
-       },
-       {
         "Id": "1037146104",
         "Language": "SFX",
         "ShortName": "Level Clases e.wav",
         "Path": "SFX\\Level Clases e_D79FB2B7.wem"
+       },
+       {
+        "Id": "1046701662",
+        "Language": "SFX",
+        "ShortName": "samba_layer05.wav",
+        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+       },
+       {
+        "Id": "1064661478",
+        "Language": "SFX",
+        "ShortName": "ProyectoLauta_Demo02.wav",
+        "Path": "SFX\\ProyectoLauta_Demo02_D79FB2B7.wem"
        }
       ]
      },
@@ -747,22 +640,10 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "22460098",
+        "Id": "16516262",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "175162818",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_B_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_B_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "230517861",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part B_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part B_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer03.wav",
+        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -771,46 +652,22 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "316431763",
+        "Id": "391590194",
         "Language": "SFX",
-        "ShortName": "Music_Piano_120 4 4.wav",
-        "Path": "SFX\\Music_Piano_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer01.wav",
+        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
        },
        {
-        "Id": "319284561",
+        "Id": "473867011",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Long_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Long_120 4 4_D79FB2B7.wem"
+        "ShortName": "ProyectoLauta_Demo01.wav",
+        "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "355024106",
+        "Id": "584122215",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_Short A_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "582064451",
-        "Language": "SFX",
-        "ShortName": "Music_Drum_A_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_A_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "595387974",
-        "Language": "SFX",
-        "ShortName": "Music_Synth_ 120 4 4.wav",
-        "Path": "SFX\\Music_Synth_ 120 4 4_D79FB2B7.wem"
-       },
-       {
-        "Id": "596900519",
-        "Language": "SFX",
-        "ShortName": "Level Clases h.wav",
-        "Path": "SFX\\Level Clases h_D79FB2B7.wem"
-       },
-       {
-        "Id": "692441908",
-        "Language": "SFX",
-        "ShortName": "Music_Bass_Part A_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Part A_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer02_alt.wav",
+        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
        },
        {
         "Id": "720918943",
@@ -819,10 +676,10 @@
         "Path": "SFX\\Level Clases c_D79FB2B7.wem"
        },
        {
-        "Id": "751153436",
+        "Id": "734778608",
         "Language": "SFX",
-        "ShortName": "Music_Trumpet_group_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_group_120 4 4_D79FB2B7.wem"
+        "ShortName": "samba_layer02.wav",
+        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
        },
        {
         "Id": "807544341",
@@ -831,10 +688,10 @@
         "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
        },
        {
-        "Id": "895563400",
+        "Id": "903781297",
         "Language": "SFX",
-        "ShortName": "Music_Bass_Group_120 4 4.wav",
-        "Path": "SFX\\Music_Bass_Group_120 4 4_D79FB2B7.wem"
+        "ShortName": "pop_layer01.wav",
+        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
        },
        {
         "Id": "919270497",
@@ -843,16 +700,22 @@
         "Path": "SFX\\Level Clases d_D79FB2B7.wem"
        },
        {
-        "Id": "1015083523",
-        "Language": "SFX",
-        "ShortName": "Music_Trumpet_Long B_120 4 4.wav",
-        "Path": "SFX\\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem"
-       },
-       {
         "Id": "1037146104",
         "Language": "SFX",
         "ShortName": "Level Clases e.wav",
         "Path": "SFX\\Level Clases e_D79FB2B7.wem"
+       },
+       {
+        "Id": "1046701662",
+        "Language": "SFX",
+        "ShortName": "samba_layer05.wav",
+        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+       },
+       {
+        "Id": "1064661478",
+        "Language": "SFX",
+        "ShortName": "ProyectoLauta_Demo02.wav",
+        "Path": "SFX\\ProyectoLauta_Demo02_D79FB2B7.wem"
        }
       ]
      }
@@ -871,28 +734,16 @@
       "Path": "SFX\\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem"
      },
      {
-      "Id": "22460098",
+      "Id": "16516262",
       "Language": "SFX",
-      "ShortName": "Music_Trumpet_Long_120 4 4.wav",
-      "Path": "SFX\\Music_Trumpet_Long_120 4 4_D79FB2B7.wem"
-     },
-     {
-      "Id": "175162818",
-      "Language": "SFX",
-      "ShortName": "Music_Drum_B_ 120 4 4.wav",
-      "Path": "SFX\\Music_Drum_B_ 120 4 4_D79FB2B7.wem"
+      "ShortName": "pop_layer03.wav",
+      "Path": "SFX\\pop_layer03_D79FB2B7.wem"
      },
      {
       "Id": "195895092",
       "Language": "SFX",
       "ShortName": "PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav",
       "Path": "SFX\\PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem"
-     },
-     {
-      "Id": "230517861",
-      "Language": "SFX",
-      "ShortName": "Music_Bass_Part B_120 4 4.wav",
-      "Path": "SFX\\Music_Bass_Part B_120 4 4_D79FB2B7.wem"
      },
      {
       "Id": "249076465",
@@ -907,46 +758,28 @@
       "Path": "SFX\\Level Clases f_D79FB2B7.wem"
      },
      {
-      "Id": "316431763",
-      "Language": "SFX",
-      "ShortName": "Music_Piano_120 4 4.wav",
-      "Path": "SFX\\Music_Piano_120 4 4_D79FB2B7.wem"
-     },
-     {
-      "Id": "319284561",
-      "Language": "SFX",
-      "ShortName": "Music_Bass_Long_120 4 4.wav",
-      "Path": "SFX\\Music_Bass_Long_120 4 4_D79FB2B7.wem"
-     },
-     {
-      "Id": "355024106",
-      "Language": "SFX",
-      "ShortName": "Music_Trumpet_Short A_120 4 4.wav",
-      "Path": "SFX\\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem"
-     },
-     {
       "Id": "358736461",
       "Language": "SFX",
       "ShortName": "PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav",
       "Path": "SFX\\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem"
      },
      {
-      "Id": "582064451",
+      "Id": "391590194",
       "Language": "SFX",
-      "ShortName": "Music_Drum_A_ 120 4 4.wav",
-      "Path": "SFX\\Music_Drum_A_ 120 4 4_D79FB2B7.wem"
+      "ShortName": "samba_layer01.wav",
+      "Path": "SFX\\samba_layer01_D79FB2B7.wem"
      },
      {
-      "Id": "595387974",
+      "Id": "473867011",
       "Language": "SFX",
-      "ShortName": "Music_Synth_ 120 4 4.wav",
-      "Path": "SFX\\Music_Synth_ 120 4 4_D79FB2B7.wem"
+      "ShortName": "ProyectoLauta_Demo01.wav",
+      "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
      },
      {
-      "Id": "596900519",
+      "Id": "584122215",
       "Language": "SFX",
-      "ShortName": "Level Clases h.wav",
-      "Path": "SFX\\Level Clases h_D79FB2B7.wem"
+      "ShortName": "pop_layer02_alt.wav",
+      "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
      },
      {
       "Id": "666153434",
@@ -955,22 +788,22 @@
       "Path": "SFX\\switch_on_042_10C4C929.wem"
      },
      {
-      "Id": "692441908",
-      "Language": "SFX",
-      "ShortName": "Music_Bass_Part A_120 4 4.wav",
-      "Path": "SFX\\Music_Bass_Part A_120 4 4_D79FB2B7.wem"
-     },
-     {
       "Id": "720918943",
       "Language": "SFX",
       "ShortName": "Level Clases c.wav",
       "Path": "SFX\\Level Clases c_D79FB2B7.wem"
      },
      {
-      "Id": "751153436",
+      "Id": "728251920",
       "Language": "SFX",
-      "ShortName": "Music_Trumpet_group_120 4 4.wav",
-      "Path": "SFX\\Music_Trumpet_group_120 4 4_D79FB2B7.wem"
+      "ShortName": "stinger_bell.wav",
+      "Path": "SFX\\stinger_bell_10C4C929.wem"
+     },
+     {
+      "Id": "734778608",
+      "Language": "SFX",
+      "ShortName": "samba_layer02.wav",
+      "Path": "SFX\\samba_layer02_D79FB2B7.wem"
      },
      {
       "Id": "807544341",
@@ -979,10 +812,10 @@
       "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
      },
      {
-      "Id": "895563400",
+      "Id": "903781297",
       "Language": "SFX",
-      "ShortName": "Music_Bass_Group_120 4 4.wav",
-      "Path": "SFX\\Music_Bass_Group_120 4 4_D79FB2B7.wem"
+      "ShortName": "pop_layer01.wav",
+      "Path": "SFX\\pop_layer01_D79FB2B7.wem"
      },
      {
       "Id": "919270497",
@@ -991,16 +824,22 @@
       "Path": "SFX\\Level Clases d_D79FB2B7.wem"
      },
      {
-      "Id": "1015083523",
-      "Language": "SFX",
-      "ShortName": "Music_Trumpet_Long B_120 4 4.wav",
-      "Path": "SFX\\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem"
-     },
-     {
       "Id": "1037146104",
       "Language": "SFX",
       "ShortName": "Level Clases e.wav",
       "Path": "SFX\\Level Clases e_D79FB2B7.wem"
+     },
+     {
+      "Id": "1046701662",
+      "Language": "SFX",
+      "ShortName": "samba_layer05.wav",
+      "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+     },
+     {
+      "Id": "1064661478",
+      "Language": "SFX",
+      "ShortName": "ProyectoLauta_Demo02.wav",
+      "Path": "SFX\\ProyectoLauta_Demo02_D79FB2B7.wem"
      },
      {
       "Id": "1065610208",
@@ -1097,6 +936,20 @@
         "GUID": "{6EAE00E9-A819-4036-BDE3-4E733812F9B4}"
        }
       ]
+     }
+    ],
+    "Triggers": [
+     {
+      "Id": "1945349219",
+      "Name": "Stinger_On",
+      "ObjectPath": "\\Triggers\\Default Work Unit\\Stinger_On",
+      "GUID": "{DE2DB4B6-4C2F-4E0B-8656-4C9F61FDADF7}"
+     },
+     {
+      "Id": "4086852631",
+      "Name": "Stinger_Off",
+      "ObjectPath": "\\Triggers\\Default Work Unit\\Stinger_Off",
+      "GUID": "{80425CF1-12B0-40B4-8000-315EC40F67C2}"
      }
     ]
    }

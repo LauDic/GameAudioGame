@@ -24,10 +24,10 @@ enum class EAkResult : uint8;
 #endif
 #define AKAUDIO_AkGameplayTypes_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkCallbackInfo_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(UAkCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkCallbackInfo_Statics; \
@@ -45,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(UAkCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkCallbackInfo) \
@@ -58,7 +58,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -71,49 +71,49 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_366_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_366_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_369_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkCallbackInfo."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkCallbackInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_382_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_382_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkChannelMask_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkChannelMask>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_391_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_391_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkOutputSettings_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkOutputSettings>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkEventCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkEventCallbackInfo_Statics; \
@@ -122,7 +122,7 @@ public: \
 	DECLARE_SERIALIZER(UAkEventCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkEventCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkEventCallbackInfo_Statics; \
@@ -131,7 +131,7 @@ public: \
 	DECLARE_SERIALIZER(UAkEventCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkEventCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkEventCallbackInfo) \
@@ -144,7 +144,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkEventCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -157,39 +157,39 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkEventCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_410_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_410_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_413_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkEventCallbackInfo."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkEventCallbackInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_560_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_560_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiEventBase_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiEventBase>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_579_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_579_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiGeneric_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -197,7 +197,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiEventBase>();
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiGeneric>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_598_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_598_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiNoteOnOff_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -205,7 +205,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiGeneric>();
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiNoteOnOff>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_617_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_617_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiCc_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -213,7 +213,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiNoteOnOff>();
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiCc>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_636_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_636_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiPitchBend_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -221,7 +221,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiCc>();
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiPitchBend>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_659_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_659_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiNoteAftertouch_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -229,7 +229,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiPitchBend>();
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiNoteAftertouch>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_678_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_678_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiChannelAftertouch_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -237,7 +237,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiNoteAftertouch>
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiChannelAftertouch>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_693_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_693_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMidiProgramChange_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkMidiEventBase Super;
@@ -245,8 +245,8 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiChannelAftertou
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiProgramChange>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetProgramChange); \
 	DECLARE_FUNCTION(execGetChannelAftertouch); \
@@ -260,7 +260,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiProgramChange>(
 	DECLARE_FUNCTION(execGetType);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetProgramChange); \
 	DECLARE_FUNCTION(execGetChannelAftertouch); \
@@ -274,7 +274,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMidiProgramChange>(
 	DECLARE_FUNCTION(execGetType);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkMIDIEventCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkMIDIEventCallbackInfo_Statics; \
@@ -283,7 +283,7 @@ public: \
 	DECLARE_SERIALIZER(UAkMIDIEventCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkMIDIEventCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkMIDIEventCallbackInfo_Statics; \
@@ -292,7 +292,7 @@ public: \
 	DECLARE_SERIALIZER(UAkMIDIEventCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkMIDIEventCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkMIDIEventCallbackInfo) \
@@ -305,7 +305,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkMIDIEventCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -318,35 +318,35 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkMIDIEventCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_709_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_709_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_712_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkMIDIEventCallbackInfo."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkMIDIEventCallbackInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkMarkerCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkMarkerCallbackInfo_Statics; \
@@ -355,7 +355,7 @@ public: \
 	DECLARE_SERIALIZER(UAkMarkerCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkMarkerCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkMarkerCallbackInfo_Statics; \
@@ -364,7 +364,7 @@ public: \
 	DECLARE_SERIALIZER(UAkMarkerCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkMarkerCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkMarkerCallbackInfo) \
@@ -377,7 +377,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkMarkerCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -390,35 +390,35 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkMarkerCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_756_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_756_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_759_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkMarkerCallbackInfo."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkMarkerCallbackInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkDurationCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkDurationCallbackInfo_Statics; \
@@ -427,7 +427,7 @@ public: \
 	DECLARE_SERIALIZER(UAkDurationCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkDurationCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkDurationCallbackInfo_Statics; \
@@ -436,7 +436,7 @@ public: \
 	DECLARE_SERIALIZER(UAkDurationCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkDurationCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkDurationCallbackInfo) \
@@ -449,7 +449,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkDurationCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -462,42 +462,42 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkDurationCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_777_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_777_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_780_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkDurationCallbackInfo."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkDurationCallbackInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_804_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_804_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkSegmentInfo_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkSegmentInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkMusicSyncCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkMusicSyncCallbackInfo_Statics; \
@@ -506,7 +506,7 @@ public: \
 	DECLARE_SERIALIZER(UAkMusicSyncCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkMusicSyncCallbackInfo(); \
 	friend struct Z_Construct_UClass_UAkMusicSyncCallbackInfo_Statics; \
@@ -515,7 +515,7 @@ public: \
 	DECLARE_SERIALIZER(UAkMusicSyncCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkMusicSyncCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkMusicSyncCallbackInfo) \
@@ -528,7 +528,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkMusicSyncCallbackInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -541,32 +541,32 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkMusicSyncCallbackInfo)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_847_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_847_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_850_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkMusicSyncCallbackInfo."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> AKAUDIO_API UClass* StaticClass<class UAkMusicSyncCallbackInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_868_DELEGATE \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_868_DELEGATE \
 struct _Script_AkAudio_eventOnAkPostEventCallback_Parms \
 { \
 	EAkCallbackType CallbackType; \
@@ -581,7 +581,7 @@ static inline void FOnAkPostEventCallback_DelegateWrapper(const FScriptDelegate&
 }
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_869_DELEGATE \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_869_DELEGATE \
 struct _Script_AkAudio_eventOnAkBankCallback_Parms \
 { \
 	EAkResult Result; \
@@ -594,7 +594,7 @@ static inline void FOnAkBankCallback_DelegateWrapper(const FScriptDelegate& OnAk
 }
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_870_DELEGATE \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_870_DELEGATE \
 struct _Script_AkAudio_eventOnSetCurrentAudioCultureCallback_Parms \
 { \
 	bool Succeeded; \
@@ -607,7 +607,7 @@ static inline void FOnSetCurrentAudioCultureCallback_DelegateWrapper(const FScri
 }
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_1033_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h_1033_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkExternalSourceInfo_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
@@ -615,7 +615,7 @@ static inline void FOnSetCurrentAudioCultureCallback_DelegateWrapper(const FScri
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkExternalSourceInfo>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGameplayTypes_h
 
 
 #define FOREACH_ENUM_PANNINGRULE(op) \

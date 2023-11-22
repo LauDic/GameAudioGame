@@ -16,14 +16,14 @@ struct FAkWaapiUri;
 #endif
 #define AKAUDIO_AkWaapiCalls_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_36_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_36_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkWaapiSubscriptionId_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkWaapiSubscriptionId>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_44_DELEGATE \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_44_DELEGATE \
 struct _Script_AkAudio_eventOnEventCallback_Parms \
 { \
 	FAkWaapiSubscriptionId SubscriptionId; \
@@ -38,22 +38,22 @@ static inline void FOnEventCallback_DelegateWrapper(const FScriptDelegate& OnEve
 }
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_45_DELEGATE \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_45_DELEGATE \
 static inline void FOnWaapiProjectLoaded_DelegateWrapper(const FScriptDelegate& OnWaapiProjectLoaded) \
 { \
 	OnWaapiProjectLoaded.ProcessDelegate<UObject>(NULL); \
 }
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_46_DELEGATE \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_46_DELEGATE \
 static inline void FOnWaapiConnectionLost_DelegateWrapper(const FScriptDelegate& OnWaapiConnectionLost) \
 { \
 	OnWaapiConnectionLost.ProcessDelegate<UObject>(NULL); \
 }
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execConv_FAkWaapiSubscriptionIdToText); \
 	DECLARE_FUNCTION(execConv_FAkWaapiSubscriptionIdToString); \
@@ -66,7 +66,7 @@ static inline void FOnWaapiConnectionLost_DelegateWrapper(const FScriptDelegate&
 	DECLARE_FUNCTION(execSetSubscriptionID);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execConv_FAkWaapiSubscriptionIdToText); \
 	DECLARE_FUNCTION(execConv_FAkWaapiSubscriptionIdToString); \
@@ -79,7 +79,7 @@ static inline void FOnWaapiConnectionLost_DelegateWrapper(const FScriptDelegate&
 	DECLARE_FUNCTION(execSetSubscriptionID);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkWaapiCalls(); \
 	friend struct Z_Construct_UClass_UAkWaapiCalls_Statics; \
@@ -91,7 +91,7 @@ public: \
 
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkWaapiCalls(); \
 	friend struct Z_Construct_UClass_UAkWaapiCalls_Statics; \
@@ -103,7 +103,7 @@ public: \
 
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkWaapiCalls(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkWaapiCalls) \
@@ -116,7 +116,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkWaapiCalls(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -129,25 +129,25 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkWaapiCalls)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_48_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_48_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h_51_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkWaapiCalls."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -155,7 +155,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UClass* StaticClass<class UAkWaapiCalls>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkWaapiBlueprints_AkWaapiCalls_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -327,17 +327,17 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<FAkGeometryData>()
 		}
 		return Z_Registration_Info_UScriptStruct_AkGeometryData.InnerSingleton;
 	}
-	struct Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics
+	struct Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics
 	{
 		static const FStructRegisterCompiledInInfo ScriptStructInfo[];
 	};
-	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics::ScriptStructInfo[] = {
+	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics::ScriptStructInfo[] = {
 		{ FAkAcousticSurface::StaticStruct, Z_Construct_UScriptStruct_FAkAcousticSurface_Statics::NewStructOps, TEXT("AkAcousticSurface"), &Z_Registration_Info_UScriptStruct_AkAcousticSurface, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAkAcousticSurface), 2261368539U) },
 		{ FAkTriangle::StaticStruct, Z_Construct_UScriptStruct_FAkTriangle_Statics::NewStructOps, TEXT("AkTriangle"), &Z_Registration_Info_UScriptStruct_AkTriangle, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAkTriangle), 2227347892U) },
 		{ FAkGeometryData::StaticStruct, Z_Construct_UScriptStruct_FAkGeometryData_Statics::NewStructOps, TEXT("AkGeometryData"), &Z_Registration_Info_UScriptStruct_AkGeometryData, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAkGeometryData), 451753720U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_2474490621(TEXT("/Script/AkAudio"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_2474490621(TEXT("/Script/AkAudio"),
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics::ScriptStructInfo),
+		Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGeometryData_h_Statics::ScriptStructInfo),
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -14,10 +14,12 @@
 						<ObjectRef Name="Default Work Unit" ID="{D382A99D-4C57-4696-B256-379F72BC8057}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Default Work Unit" ID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="PararMusica" ID="{672B3F2F-05EE-4BA3-A918-F3B71BD83ABA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Escuchador" ID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Game" ID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}" WorkUnitID="{544870BA-4E90-4BF1-98C8-B72EF993E97D}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="ZonaExploracion" ID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="ZonaHouse" ID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="ZonaPelea" ID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="StingerPlatOn" ID="{7D65303B-4CFA-4F01-BB97-DEFE4191C253}" WorkUnitID="{439C50B9-60B5-4B32-A439-7D0E0E6F8965}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

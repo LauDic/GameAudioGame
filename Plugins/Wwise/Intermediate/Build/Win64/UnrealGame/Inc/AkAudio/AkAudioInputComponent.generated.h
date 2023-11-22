@@ -13,18 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_AkAudioInputComponent_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execPostAssociatedAudioInputEvent);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execPostAssociatedAudioInputEvent);
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkAudioInputComponent(); \
 	friend struct Z_Construct_UClass_UAkAudioInputComponent_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UAkAudioInputComponent)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkAudioInputComponent(); \
 	friend struct Z_Construct_UClass_UAkAudioInputComponent_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(UAkAudioInputComponent)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkAudioInputComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkAudioInputComponent) \
@@ -55,7 +55,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkAudioInputComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -68,25 +68,25 @@ public: \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkAudioInputComponent)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_32_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_32_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h_35_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class AkAudioInputComponent."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -94,7 +94,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UClass* StaticClass<class UAkAudioInputComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAudioInputComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

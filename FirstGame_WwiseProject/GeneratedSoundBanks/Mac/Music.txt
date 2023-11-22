@@ -11,6 +11,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	2975818780	Escuchador			\Default Work Unit\Musica\Escuchador	
 	3089460701	ZonaHouse			\Default Work Unit\Musica\ZonaHouse	
 	3297799056	ZonaBoss			\Default Work Unit\Musica\ZonaBoss	
+	3872002757	StingerPlatOn			\Default Work Unit\Musica\StingerPlatOn	
 
 State Group	ID	Name			Wwise Object Path	Notes
 	285806436	CapaGeneral			\Default Work Unit\Nivel 1 Test\CapaGeneral	
@@ -31,25 +32,21 @@ State	ID	Name	State Group			Notes
 	1832220387	RV_Intercambio	Estrategia			
 
 Custom State	ID	Name	State Group	Owner		Notes
-	7232803	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
-	32592796	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
 	80267973	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
-	119273284	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
 	123831465	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
 	130581115	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Trans		
 	221130995	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Trans		
 	290853883	RV_Intercambio	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Trans		
-	293870840	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
 	299310786	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
-	477378301	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
 	605631485	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
 	620136340	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
 	748538800	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
 	784010841	RV_Aditiva	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones		
-	937561284	RH_Crossfade	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
 	994538167	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade		
-	1013697367	Nada	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva		
-	1033636648	RH_Transicion	Estrategia	\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio		
+
+Trigger	ID	Name			Wwise Object Path	Notes
+	1945349219	Stinger_On			\Default Work Unit\Stinger_On	
+	4086852631	Stinger_Off			\Default Work Unit\Stinger_Off	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
@@ -57,27 +54,23 @@ Audio Bus	ID	Name			Wwise Object Path	Notes
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	488188	gravel footstep 3	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\gravel footstep 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Sand\gravel footstep 3		37152
 	2290666	PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Grass\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow		16306
-	22460098	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
-	175162818	Bateria	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bateria		1411264
+	16516262	pop_layer03	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\pop_layer03_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\Pop Layer 3\pop_layer03\pop_layer03		1411264
 	195895092	PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Grass\PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow		26736
-	230517861	Bass	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bass		1411264
 	249076465	gravel footstep 2	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\gravel footstep 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Sand\gravel footstep 2		34132
 	302292856	Level Clases f	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Level Clases f_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_02\Level Clases d\Level Clases f		3528064
-	316431763	Piano	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Piano_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Piano		1411264
-	319284561	Bass	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bass		1411264
-	355024106	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
 	358736461	PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Grass\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow		16416
-	582064451	Music_Drum_A_ 120 4 4	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva\Music_A\Music_Drum_A_ 120 4 4		1411264
-	595387974	Piano	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Synth_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Piano		1411264
-	596900519	Level Clases h	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Level Clases h_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_03\Level Clases e\Level Clases h		1764064
+	391590194	samba_layer01	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\samba_layer01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\Samba_01\samba_layer01\samba_layer01		1411264
+	473867011	ProyectoLauta_Demo01	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\ProyectoLauta_Demo01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_02\ProyectoLauta_Demo01\ProyectoLauta_Demo01		10570292
+	584122215	pop_layer02_alt	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\pop_layer02_alt_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\Pop Layer 2\pop_layer02_alt\pop_layer02_alt		1411264
 	666153434	switch_on_042	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\switch_on_042_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Metal\switch_on_042		113516
-	692441908	Bass	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Bass		1411264
-	720918943	Level Clases c	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Level Clases c_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_04\Level Clases c\Level Clases c		1411264
-	751153436	Music_Trumpet_Short A_120 4 4	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\RV Intercambio\Music_B\Music_Trumpet_Short A_120 4 4		1411264
+	720918943	Level Clases c	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Level Clases c_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Musica Intercambio_01\Level Clases c\Level Clases c		1411264
+	728251920	StingerOn	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\stinger_bell_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\StingerOn		529264
+	734778608	samba_layer02	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\samba_layer02_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\Samba_02\samba_layer02\samba_layer02		1411264
 	807544341	Music_Drum_C_ 120 4 4	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Trans\Music_Drum_C_ 120 4 4		1411264
-	895563400	Bass	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva\Music_A\Bass		1411264
+	903781297	pop_layer01	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\pop_layer01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\Pop Layer 1\pop_layer01\pop_layer01		1411264
 	919270497	Level Clases d	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Level Clases d_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Musica Intercambio_02\Level Clases d\Level Clases d		2822464
-	1015083523	Music_Trumpet_Long B_120 4 4	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Aditiva\RV Aditiva\Music_A\Music_Trumpet_Long B_120 4 4		1411264
 	1037146104	Level Clases e	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\Level Clases e_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Transiciones\Musica Intercambio_03\Level Clases e\Level Clases e		705664
+	1046701662	samba_layer05	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\samba_layer05_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RV Intercambio\Samba_03\samba_layer05\samba_layer05		1411264
+	1064661478	ProyectoLauta_Demo02	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\ProyectoLauta_Demo02_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Game\Música\RH Crossfade\Musica Intercambio_04\ProyectoLauta_Demo02\ProyectoLauta_Demo02		10570292
 	1065610208	gravel footstep 1	C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\.cache\Mac\SFX\gravel footstep 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Character\Steps\Sand\gravel footstep 1		38728
 

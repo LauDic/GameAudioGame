@@ -13,34 +13,34 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_AkGroupValue_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_SPARSE_DATA
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ARCHIVESERIALIZER \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_SPARSE_DATA
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ARCHIVESERIALIZER \
 	DECLARE_FSTRUCTUREDARCHIVE_SERIALIZER(UAkGroupValue, NO_API)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS_NO_PURE_DECLS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAkGroupValue(); \
 	friend struct Z_Construct_UClass_UAkGroupValue_Statics; \
 public: \
 	DECLARE_CLASS(UAkGroupValue, UAkAudioType, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AkAudio"), NO_API) \
 	DECLARE_SERIALIZER(UAkGroupValue) \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ARCHIVESERIALIZER
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ARCHIVESERIALIZER
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS \
 private: \
 	static void StaticRegisterNativesUAkGroupValue(); \
 	friend struct Z_Construct_UClass_UAkGroupValue_Statics; \
 public: \
 	DECLARE_CLASS(UAkGroupValue, UAkAudioType, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AkAudio"), NO_API) \
 	DECLARE_SERIALIZER(UAkGroupValue) \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ARCHIVESERIALIZER
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ARCHIVESERIALIZER
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_STANDARD_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkGroupValue(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkGroupValue) \
@@ -53,7 +53,7 @@ private: \
 public:
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ENHANCED_CONSTRUCTORS \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAkGroupValue(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -66,25 +66,25 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAkGroupValue)
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_23_PROLOG
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_GENERATED_BODY_LEGACY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_23_PROLOG
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_STANDARD_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_SPARSE_DATA \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS_NO_PURE_DECLS \
-	FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ENHANCED_CONSTRUCTORS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_SPARSE_DATA \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_INCLASS_NO_PURE_DECLS \
+	FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -92,7 +92,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UClass* StaticClass<class UAkGroupValue>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkGroupValue_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

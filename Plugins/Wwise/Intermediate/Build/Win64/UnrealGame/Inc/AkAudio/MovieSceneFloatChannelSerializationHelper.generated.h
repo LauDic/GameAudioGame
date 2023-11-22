@@ -13,21 +13,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_MovieSceneFloatChannelSerializationHelper_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h_27_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h_27_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMovieSceneTangentDataSerializationHelper_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FMovieSceneTangentDataSerializationHelper>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h_59_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h_59_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMovieSceneFloatValueSerializationHelper_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FMovieSceneFloatValueSerializationHelper>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h_100_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h_100_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMovieSceneFloatChannelSerializationHelper_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
@@ -35,7 +35,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FMovieSceneFloatValueS
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FMovieSceneFloatChannelSerializationHelper>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_MovieSceneFloatChannelSerializationHelper_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

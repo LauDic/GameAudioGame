@@ -1,7 +1,7 @@
-"C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Module.AkAudio.gen.2_of_6.cpp"
+"C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Module.AkAudio.gen.2_of_6.cpp"
 /I .
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudio\Private"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudio\Classes\GTE"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudio\Private"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudio\Classes\GTE"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -111,11 +111,11 @@
 /I Developer\Settings\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\UMG
 /I Runtime\UMG\Public
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Inc\AkAudio"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\ThirdParty\include"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudio\Classes"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudio\Public"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Inc\AkAudio"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\ThirdParty\include"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudio\Classes"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudio\Public"
 /I Runtime\Online
 /I Runtime\Online\HTTP\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\PropertyPath
@@ -152,12 +152,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Proyectos Programas\Unreal\FirstGame\Intermediate\Build\Win64\FirstGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Definitions.AkAudio.h"
-/Yu"C:\Proyectos Programas\Unreal\FirstGame\Intermediate\Build\Win64\FirstGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Proyectos Programas\Unreal\FirstGame\Intermediate\Build\Win64\FirstGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Module.AkAudio.gen.2_of_6.cpp.obj"
-/sourceDependencies "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Module.AkAudio.gen.2_of_6.cpp.json"
+/FI"C:\Proyectos Programas\Unreal\GameAudioGame\Intermediate\Build\Win64\GameAudioGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Definitions.AkAudio.h"
+/Yu"C:\Proyectos Programas\Unreal\GameAudioGame\Intermediate\Build\Win64\GameAudioGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Proyectos Programas\Unreal\GameAudioGame\Intermediate\Build\Win64\GameAudioGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Module.AkAudio.gen.2_of_6.cpp.obj"
+/sourceDependencies "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudio\Module.AkAudio.gen.2_of_6.cpp.json"
 /Zc:inline
 /nologo
 /Oi

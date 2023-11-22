@@ -1,0 +1,16 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\development\\akaudio\\module.akaudio.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\proyectos programas\\unreal\\gameaudiogame\\intermediate\\build\\win64\\gameaudiogame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\development\\akaudio\\definitions.akaudio.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\wwiseitemtype.gen.cpp",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\source\\akaudio\\classes\\wwiseitemtype.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\wwiseitemtype.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

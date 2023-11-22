@@ -8,7 +8,7 @@
 		<ExternalSourcesOutputRoot>C:\Proyectos Programas\Unreal\GameAudioGame\FirstGame_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="3991942870" GUID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}" Language="SFX" Hash="2424077758">
+		<SoundBank Id="3991942870" GUID="{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}" Language="SFX" Hash="2465011580">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
@@ -18,81 +18,53 @@
 				<Event Id="1748147011" Name="Caja_Caida" ObjectPath="\Events\Default Work Unit\BpsCosas\Cajas\Caja_Caida" GUID="{1C433505-D27D-4662-A097-B104A60D47C4}" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
 				<Event Id="2975818780" Name="Escuchador" ObjectPath="\Events\Default Work Unit\Musica\Escuchador" GUID="{AF7B61B3-449F-4BDF-B6CE-5482208BF35F}" DurationType="Infinite">
 					<IncludedMemoryFiles>
-						<File Id="22460098" Language="SFX">
-							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="175162818" Language="SFX">
-							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="230517861" Language="SFX">
-							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						<File Id="16516262" Language="SFX">
+							<ShortName>pop_layer03.wav</ShortName>
+							<Path>SFX\pop_layer03_D79FB2B7.wem</Path>
 						</File>
 						<File Id="302292856" Language="SFX">
 							<ShortName>Level Clases f.wav</ShortName>
 							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
 						</File>
-						<File Id="316431763" Language="SFX">
-							<ShortName>Music_Piano_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="319284561" Language="SFX">
-							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="355024106" Language="SFX">
-							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="391590194" Language="SFX">
+							<ShortName>samba_layer01.wav</ShortName>
+							<Path>SFX\samba_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="473867011" Language="SFX">
 							<ShortName>ProyectoLauta_Demo01.wav</ShortName>
 							<Path>SFX\ProyectoLauta_Demo01_D79FB2B7.wem</Path>
 						</File>
-						<File Id="582064451" Language="SFX">
-							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="595387974" Language="SFX">
-							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="596900519" Language="SFX">
-							<ShortName>Level Clases h.wav</ShortName>
-							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
-						</File>
-						<File Id="692441908" Language="SFX">
-							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="584122215" Language="SFX">
+							<ShortName>pop_layer02_alt.wav</ShortName>
+							<Path>SFX\pop_layer02_alt_D79FB2B7.wem</Path>
 						</File>
 						<File Id="720918943" Language="SFX">
 							<ShortName>Level Clases c.wav</ShortName>
 							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
 						</File>
-						<File Id="751153436" Language="SFX">
-							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="734778608" Language="SFX">
+							<ShortName>samba_layer02.wav</ShortName>
+							<Path>SFX\samba_layer02_D79FB2B7.wem</Path>
 						</File>
 						<File Id="807544341" Language="SFX">
 							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
 							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
 						</File>
-						<File Id="895563400" Language="SFX">
-							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="903781297" Language="SFX">
+							<ShortName>pop_layer01.wav</ShortName>
+							<Path>SFX\pop_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="919270497" Language="SFX">
 							<ShortName>Level Clases d.wav</ShortName>
 							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
 						</File>
-						<File Id="1015083523" Language="SFX">
-							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
-						</File>
 						<File Id="1037146104" Language="SFX">
 							<ShortName>Level Clases e.wav</ShortName>
 							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1046701662" Language="SFX">
+							<ShortName>samba_layer05.wav</ShortName>
+							<Path>SFX\samba_layer05_D79FB2B7.wem</Path>
 						</File>
 						<File Id="1064661478" Language="SFX">
 							<ShortName>ProyectoLauta_Demo02.wav</ShortName>
@@ -135,83 +107,63 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="3872002757" Name="StingerPlatOn" ObjectPath="\Events\Default Work Unit\Musica\StingerPlatOn" GUID="{7D65303B-4CFA-4F01-BB97-DEFE4191C253}" DurationType="OneShot" DurationMin="1.8" DurationMax="1.8">
+					<IncludedMemoryFiles>
+						<File Id="728251920" Language="SFX">
+							<ShortName>stinger_bell.wav</ShortName>
+							<Path>SFX\stinger_bell_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="3297799056" Name="ZonaBoss" ObjectPath="\Events\Default Work Unit\Musica\ZonaBoss" GUID="{872F113B-209F-41D4-BC1B-9FCA5555234C}" DurationType="Infinite">
 					<IncludedMemoryFiles>
-						<File Id="22460098" Language="SFX">
-							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="175162818" Language="SFX">
-							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="230517861" Language="SFX">
-							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						<File Id="16516262" Language="SFX">
+							<ShortName>pop_layer03.wav</ShortName>
+							<Path>SFX\pop_layer03_D79FB2B7.wem</Path>
 						</File>
 						<File Id="302292856" Language="SFX">
 							<ShortName>Level Clases f.wav</ShortName>
 							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
 						</File>
-						<File Id="316431763" Language="SFX">
-							<ShortName>Music_Piano_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="319284561" Language="SFX">
-							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="355024106" Language="SFX">
-							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="391590194" Language="SFX">
+							<ShortName>samba_layer01.wav</ShortName>
+							<Path>SFX\samba_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="473867011" Language="SFX">
 							<ShortName>ProyectoLauta_Demo01.wav</ShortName>
 							<Path>SFX\ProyectoLauta_Demo01_D79FB2B7.wem</Path>
 						</File>
-						<File Id="582064451" Language="SFX">
-							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="595387974" Language="SFX">
-							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="596900519" Language="SFX">
-							<ShortName>Level Clases h.wav</ShortName>
-							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
-						</File>
-						<File Id="692441908" Language="SFX">
-							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="584122215" Language="SFX">
+							<ShortName>pop_layer02_alt.wav</ShortName>
+							<Path>SFX\pop_layer02_alt_D79FB2B7.wem</Path>
 						</File>
 						<File Id="720918943" Language="SFX">
 							<ShortName>Level Clases c.wav</ShortName>
 							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
 						</File>
-						<File Id="751153436" Language="SFX">
-							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="734778608" Language="SFX">
+							<ShortName>samba_layer02.wav</ShortName>
+							<Path>SFX\samba_layer02_D79FB2B7.wem</Path>
 						</File>
 						<File Id="807544341" Language="SFX">
 							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
 							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
 						</File>
-						<File Id="895563400" Language="SFX">
-							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="903781297" Language="SFX">
+							<ShortName>pop_layer01.wav</ShortName>
+							<Path>SFX\pop_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="919270497" Language="SFX">
 							<ShortName>Level Clases d.wav</ShortName>
 							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
 						</File>
-						<File Id="1015083523" Language="SFX">
-							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
-						</File>
 						<File Id="1037146104" Language="SFX">
 							<ShortName>Level Clases e.wav</ShortName>
 							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1046701662" Language="SFX">
+							<ShortName>samba_layer05.wav</ShortName>
+							<Path>SFX\samba_layer05_D79FB2B7.wem</Path>
 						</File>
 						<File Id="1064661478" Language="SFX">
 							<ShortName>ProyectoLauta_Demo02.wav</ShortName>
@@ -223,7 +175,7 @@
 							<Children>
 								<SwitchContainer SwitchValue="{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}">
 									<Media>
-										<File Id="720918943"/>
+										<File Id="1064661478"/>
 									</Media>
 								</SwitchContainer>
 								<SwitchContainer SwitchValue="{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}">
@@ -234,7 +186,6 @@
 								</SwitchContainer>
 								<SwitchContainer SwitchValue="{18E2F314-C783-4DD7-A006-B712A6281BC5}">
 									<Media>
-										<File Id="596900519"/>
 										<File Id="1064661478"/>
 									</Media>
 								</SwitchContainer>
@@ -261,31 +212,38 @@
 						</SwitchContainer>
 						<SwitchContainer SwitchValue="{B620529C-3CB9-4063-AA64-43BEC75240D1}">
 							<Children>
-								<SwitchContainer SwitchValue="{B620529C-3CB9-4063-AA64-43BEC75240D1}">
+								<SwitchContainer SwitchValue="{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}">
 									<Media>
-										<File Id="582064451"/>
-										<File Id="895563400"/>
-										<File Id="1015083523"/>
+										<File Id="903781297"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}">
+									<Media>
+										<File Id="584122215"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{18E2F314-C783-4DD7-A006-B712A6281BC5}">
+									<Media>
+										<File Id="16516262"/>
 									</Media>
 								</SwitchContainer>
 							</Children>
 						</SwitchContainer>
 						<SwitchContainer SwitchValue="{75FD770A-600D-453B-804C-F09C2134016D}">
 							<Children>
-								<SwitchContainer SwitchValue="{75FD770A-600D-453B-804C-F09C2134016D}">
+								<SwitchContainer SwitchValue="{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}">
 									<Media>
-										<File Id="22460098"/>
-										<File Id="175162818"/>
-										<File Id="230517861"/>
-										<File Id="316431763"/>
-										<File Id="319284561"/>
-										<File Id="355024106"/>
-										<File Id="582064451"/>
-										<File Id="595387974"/>
-										<File Id="692441908"/>
-										<File Id="751153436"/>
-										<File Id="807544341"/>
-										<File Id="895563400"/>
+										<File Id="391590194"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}">
+									<Media>
+										<File Id="734778608"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{18E2F314-C783-4DD7-A006-B712A6281BC5}">
+									<Media>
+										<File Id="1046701662"/>
 									</Media>
 								</SwitchContainer>
 							</Children>
@@ -294,81 +252,53 @@
 				</Event>
 				<Event Id="1302589575" Name="ZonaExploracion" ObjectPath="\Events\Default Work Unit\Musica\ZonaExploracion" GUID="{56121C32-7E39-4CC2-A33B-C486E7355FFA}" DurationType="Infinite">
 					<IncludedMemoryFiles>
-						<File Id="22460098" Language="SFX">
-							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="175162818" Language="SFX">
-							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="230517861" Language="SFX">
-							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						<File Id="16516262" Language="SFX">
+							<ShortName>pop_layer03.wav</ShortName>
+							<Path>SFX\pop_layer03_D79FB2B7.wem</Path>
 						</File>
 						<File Id="302292856" Language="SFX">
 							<ShortName>Level Clases f.wav</ShortName>
 							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
 						</File>
-						<File Id="316431763" Language="SFX">
-							<ShortName>Music_Piano_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="319284561" Language="SFX">
-							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="355024106" Language="SFX">
-							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="391590194" Language="SFX">
+							<ShortName>samba_layer01.wav</ShortName>
+							<Path>SFX\samba_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="473867011" Language="SFX">
 							<ShortName>ProyectoLauta_Demo01.wav</ShortName>
 							<Path>SFX\ProyectoLauta_Demo01_D79FB2B7.wem</Path>
 						</File>
-						<File Id="582064451" Language="SFX">
-							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="595387974" Language="SFX">
-							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="596900519" Language="SFX">
-							<ShortName>Level Clases h.wav</ShortName>
-							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
-						</File>
-						<File Id="692441908" Language="SFX">
-							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="584122215" Language="SFX">
+							<ShortName>pop_layer02_alt.wav</ShortName>
+							<Path>SFX\pop_layer02_alt_D79FB2B7.wem</Path>
 						</File>
 						<File Id="720918943" Language="SFX">
 							<ShortName>Level Clases c.wav</ShortName>
 							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
 						</File>
-						<File Id="751153436" Language="SFX">
-							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="734778608" Language="SFX">
+							<ShortName>samba_layer02.wav</ShortName>
+							<Path>SFX\samba_layer02_D79FB2B7.wem</Path>
 						</File>
 						<File Id="807544341" Language="SFX">
 							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
 							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
 						</File>
-						<File Id="895563400" Language="SFX">
-							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="903781297" Language="SFX">
+							<ShortName>pop_layer01.wav</ShortName>
+							<Path>SFX\pop_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="919270497" Language="SFX">
 							<ShortName>Level Clases d.wav</ShortName>
 							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
 						</File>
-						<File Id="1015083523" Language="SFX">
-							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
-						</File>
 						<File Id="1037146104" Language="SFX">
 							<ShortName>Level Clases e.wav</ShortName>
 							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1046701662" Language="SFX">
+							<ShortName>samba_layer05.wav</ShortName>
+							<Path>SFX\samba_layer05_D79FB2B7.wem</Path>
 						</File>
 						<File Id="1064661478" Language="SFX">
 							<ShortName>ProyectoLauta_Demo02.wav</ShortName>
@@ -378,81 +308,53 @@
 				</Event>
 				<Event Id="3089460701" Name="ZonaHouse" ObjectPath="\Events\Default Work Unit\Musica\ZonaHouse" GUID="{97E32BCD-FFA2-4D54-A00C-836B48CD1B3D}" DurationType="Infinite">
 					<IncludedMemoryFiles>
-						<File Id="22460098" Language="SFX">
-							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="175162818" Language="SFX">
-							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="230517861" Language="SFX">
-							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						<File Id="16516262" Language="SFX">
+							<ShortName>pop_layer03.wav</ShortName>
+							<Path>SFX\pop_layer03_D79FB2B7.wem</Path>
 						</File>
 						<File Id="302292856" Language="SFX">
 							<ShortName>Level Clases f.wav</ShortName>
 							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
 						</File>
-						<File Id="316431763" Language="SFX">
-							<ShortName>Music_Piano_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="319284561" Language="SFX">
-							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="355024106" Language="SFX">
-							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="391590194" Language="SFX">
+							<ShortName>samba_layer01.wav</ShortName>
+							<Path>SFX\samba_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="473867011" Language="SFX">
 							<ShortName>ProyectoLauta_Demo01.wav</ShortName>
 							<Path>SFX\ProyectoLauta_Demo01_D79FB2B7.wem</Path>
 						</File>
-						<File Id="582064451" Language="SFX">
-							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="595387974" Language="SFX">
-							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="596900519" Language="SFX">
-							<ShortName>Level Clases h.wav</ShortName>
-							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
-						</File>
-						<File Id="692441908" Language="SFX">
-							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="584122215" Language="SFX">
+							<ShortName>pop_layer02_alt.wav</ShortName>
+							<Path>SFX\pop_layer02_alt_D79FB2B7.wem</Path>
 						</File>
 						<File Id="720918943" Language="SFX">
 							<ShortName>Level Clases c.wav</ShortName>
 							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
 						</File>
-						<File Id="751153436" Language="SFX">
-							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="734778608" Language="SFX">
+							<ShortName>samba_layer02.wav</ShortName>
+							<Path>SFX\samba_layer02_D79FB2B7.wem</Path>
 						</File>
 						<File Id="807544341" Language="SFX">
 							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
 							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
 						</File>
-						<File Id="895563400" Language="SFX">
-							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="903781297" Language="SFX">
+							<ShortName>pop_layer01.wav</ShortName>
+							<Path>SFX\pop_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="919270497" Language="SFX">
 							<ShortName>Level Clases d.wav</ShortName>
 							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
 						</File>
-						<File Id="1015083523" Language="SFX">
-							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
-						</File>
 						<File Id="1037146104" Language="SFX">
 							<ShortName>Level Clases e.wav</ShortName>
 							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1046701662" Language="SFX">
+							<ShortName>samba_layer05.wav</ShortName>
+							<Path>SFX\samba_layer05_D79FB2B7.wem</Path>
 						</File>
 						<File Id="1064661478" Language="SFX">
 							<ShortName>ProyectoLauta_Demo02.wav</ShortName>
@@ -462,81 +364,53 @@
 				</Event>
 				<Event Id="2778572524" Name="ZonaPelea" ObjectPath="\Events\Default Work Unit\Musica\ZonaPelea" GUID="{25C2B94C-F03A-4D9F-8818-0423DB0ADD1A}" DurationType="Infinite">
 					<IncludedMemoryFiles>
-						<File Id="22460098" Language="SFX">
-							<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="175162818" Language="SFX">
-							<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="230517861" Language="SFX">
-							<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
+						<File Id="16516262" Language="SFX">
+							<ShortName>pop_layer03.wav</ShortName>
+							<Path>SFX\pop_layer03_D79FB2B7.wem</Path>
 						</File>
 						<File Id="302292856" Language="SFX">
 							<ShortName>Level Clases f.wav</ShortName>
 							<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
 						</File>
-						<File Id="316431763" Language="SFX">
-							<ShortName>Music_Piano_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="319284561" Language="SFX">
-							<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="355024106" Language="SFX">
-							<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="391590194" Language="SFX">
+							<ShortName>samba_layer01.wav</ShortName>
+							<Path>SFX\samba_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="473867011" Language="SFX">
 							<ShortName>ProyectoLauta_Demo01.wav</ShortName>
 							<Path>SFX\ProyectoLauta_Demo01_D79FB2B7.wem</Path>
 						</File>
-						<File Id="582064451" Language="SFX">
-							<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="595387974" Language="SFX">
-							<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
-							<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
-						</File>
-						<File Id="596900519" Language="SFX">
-							<ShortName>Level Clases h.wav</ShortName>
-							<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
-						</File>
-						<File Id="692441908" Language="SFX">
-							<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
+						<File Id="584122215" Language="SFX">
+							<ShortName>pop_layer02_alt.wav</ShortName>
+							<Path>SFX\pop_layer02_alt_D79FB2B7.wem</Path>
 						</File>
 						<File Id="720918943" Language="SFX">
 							<ShortName>Level Clases c.wav</ShortName>
 							<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
 						</File>
-						<File Id="751153436" Language="SFX">
-							<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="734778608" Language="SFX">
+							<ShortName>samba_layer02.wav</ShortName>
+							<Path>SFX\samba_layer02_D79FB2B7.wem</Path>
 						</File>
 						<File Id="807544341" Language="SFX">
 							<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
 							<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
 						</File>
-						<File Id="895563400" Language="SFX">
-							<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+						<File Id="903781297" Language="SFX">
+							<ShortName>pop_layer01.wav</ShortName>
+							<Path>SFX\pop_layer01_D79FB2B7.wem</Path>
 						</File>
 						<File Id="919270497" Language="SFX">
 							<ShortName>Level Clases d.wav</ShortName>
 							<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
 						</File>
-						<File Id="1015083523" Language="SFX">
-							<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
-							<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
-						</File>
 						<File Id="1037146104" Language="SFX">
 							<ShortName>Level Clases e.wav</ShortName>
 							<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1046701662" Language="SFX">
+							<ShortName>samba_layer05.wav</ShortName>
+							<Path>SFX\samba_layer05_D79FB2B7.wem</Path>
 						</File>
 						<File Id="1064661478" Language="SFX">
 							<ShortName>ProyectoLauta_Demo02.wav</ShortName>
@@ -554,21 +428,13 @@
 					<ShortName>PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
 					<Path>SFX\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
 				</File>
-				<File Id="22460098" Language="SFX">
-					<ShortName>Music_Trumpet_Long_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Trumpet_Long_120 4 4_D79FB2B7.wem</Path>
-				</File>
-				<File Id="175162818" Language="SFX">
-					<ShortName>Music_Drum_B_ 120 4 4.wav</ShortName>
-					<Path>SFX\Music_Drum_B_ 120 4 4_D79FB2B7.wem</Path>
+				<File Id="16516262" Language="SFX">
+					<ShortName>pop_layer03.wav</ShortName>
+					<Path>SFX\pop_layer03_D79FB2B7.wem</Path>
 				</File>
 				<File Id="195895092" Language="SFX">
 					<ShortName>PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
 					<Path>SFX\PM_SDGS_14 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
-				</File>
-				<File Id="230517861" Language="SFX">
-					<ShortName>Music_Bass_Part B_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Bass_Part B_120 4 4_D79FB2B7.wem</Path>
 				</File>
 				<File Id="249076465" Language="SFX">
 					<ShortName>gravel footstep 2.wav</ShortName>
@@ -578,73 +444,57 @@
 					<ShortName>Level Clases f.wav</ShortName>
 					<Path>SFX\Level Clases f_D79FB2B7.wem</Path>
 				</File>
-				<File Id="316431763" Language="SFX">
-					<ShortName>Music_Piano_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Piano_120 4 4_D79FB2B7.wem</Path>
-				</File>
-				<File Id="319284561" Language="SFX">
-					<ShortName>Music_Bass_Long_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Bass_Long_120 4 4_D79FB2B7.wem</Path>
-				</File>
-				<File Id="355024106" Language="SFX">
-					<ShortName>Music_Trumpet_Short A_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Trumpet_Short A_120 4 4_D79FB2B7.wem</Path>
-				</File>
 				<File Id="358736461" Language="SFX">
 					<ShortName>PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow .wav</ShortName>
 					<Path>SFX\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem</Path>
+				</File>
+				<File Id="391590194" Language="SFX">
+					<ShortName>samba_layer01.wav</ShortName>
+					<Path>SFX\samba_layer01_D79FB2B7.wem</Path>
 				</File>
 				<File Id="473867011" Language="SFX">
 					<ShortName>ProyectoLauta_Demo01.wav</ShortName>
 					<Path>SFX\ProyectoLauta_Demo01_D79FB2B7.wem</Path>
 				</File>
-				<File Id="582064451" Language="SFX">
-					<ShortName>Music_Drum_A_ 120 4 4.wav</ShortName>
-					<Path>SFX\Music_Drum_A_ 120 4 4_D79FB2B7.wem</Path>
-				</File>
-				<File Id="595387974" Language="SFX">
-					<ShortName>Music_Synth_ 120 4 4.wav</ShortName>
-					<Path>SFX\Music_Synth_ 120 4 4_D79FB2B7.wem</Path>
-				</File>
-				<File Id="596900519" Language="SFX">
-					<ShortName>Level Clases h.wav</ShortName>
-					<Path>SFX\Level Clases h_D79FB2B7.wem</Path>
+				<File Id="584122215" Language="SFX">
+					<ShortName>pop_layer02_alt.wav</ShortName>
+					<Path>SFX\pop_layer02_alt_D79FB2B7.wem</Path>
 				</File>
 				<File Id="666153434" Language="SFX">
 					<ShortName>switch_on_042.wav</ShortName>
 					<Path>SFX\switch_on_042_10C4C929.wem</Path>
 				</File>
-				<File Id="692441908" Language="SFX">
-					<ShortName>Music_Bass_Part A_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Bass_Part A_120 4 4_D79FB2B7.wem</Path>
-				</File>
 				<File Id="720918943" Language="SFX">
 					<ShortName>Level Clases c.wav</ShortName>
 					<Path>SFX\Level Clases c_D79FB2B7.wem</Path>
 				</File>
-				<File Id="751153436" Language="SFX">
-					<ShortName>Music_Trumpet_group_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Trumpet_group_120 4 4_D79FB2B7.wem</Path>
+				<File Id="728251920" Language="SFX">
+					<ShortName>stinger_bell.wav</ShortName>
+					<Path>SFX\stinger_bell_10C4C929.wem</Path>
+				</File>
+				<File Id="734778608" Language="SFX">
+					<ShortName>samba_layer02.wav</ShortName>
+					<Path>SFX\samba_layer02_D79FB2B7.wem</Path>
 				</File>
 				<File Id="807544341" Language="SFX">
 					<ShortName>Music_Drum_C_ 120 4 4.wav</ShortName>
 					<Path>SFX\Music_Drum_C_ 120 4 4_D79FB2B7.wem</Path>
 				</File>
-				<File Id="895563400" Language="SFX">
-					<ShortName>Music_Bass_Group_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Bass_Group_120 4 4_D79FB2B7.wem</Path>
+				<File Id="903781297" Language="SFX">
+					<ShortName>pop_layer01.wav</ShortName>
+					<Path>SFX\pop_layer01_D79FB2B7.wem</Path>
 				</File>
 				<File Id="919270497" Language="SFX">
 					<ShortName>Level Clases d.wav</ShortName>
 					<Path>SFX\Level Clases d_D79FB2B7.wem</Path>
 				</File>
-				<File Id="1015083523" Language="SFX">
-					<ShortName>Music_Trumpet_Long B_120 4 4.wav</ShortName>
-					<Path>SFX\Music_Trumpet_Long B_120 4 4_D79FB2B7.wem</Path>
-				</File>
 				<File Id="1037146104" Language="SFX">
 					<ShortName>Level Clases e.wav</ShortName>
 					<Path>SFX\Level Clases e_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1046701662" Language="SFX">
+					<ShortName>samba_layer05.wav</ShortName>
+					<Path>SFX\samba_layer05_D79FB2B7.wem</Path>
 				</File>
 				<File Id="1064661478" Language="SFX">
 					<ShortName>ProyectoLauta_Demo02.wav</ShortName>
@@ -677,6 +527,10 @@
 					</States>
 				</StateGroup>
 			</StateGroups>
+			<Triggers>
+				<Trigger Id="1945349219" Name="Stinger_On" ObjectPath="\Triggers\Default Work Unit\Stinger_On" GUID="{DE2DB4B6-4C2F-4E0B-8656-4C9F61FDADF7}"/>
+				<Trigger Id="4086852631" Name="Stinger_Off" ObjectPath="\Triggers\Default Work Unit\Stinger_Off" GUID="{80425CF1-12B0-40B4-8000-315EC40F67C2}"/>
+			</Triggers>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

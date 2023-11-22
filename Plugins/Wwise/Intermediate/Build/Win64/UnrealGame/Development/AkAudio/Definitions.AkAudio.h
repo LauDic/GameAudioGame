@@ -38,7 +38,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_5.0\\Engine"
-#define UE_LIVE_CODING_PROJECT "C:\\Proyectos Programas\\Unreal\\FirstGame\\FirstGame.uproject"
+#define UE_LIVE_CODING_PROJECT "C:\\Proyectos Programas\\Unreal\\GameAudioGame\\GameAudioGame.uproject"
 #define WITH_CPP_MODULES 0
 #define WITH_CPP_COROUTINES 0
 #define UBT_MODULE_MANIFEST "UnrealGame.modules"
@@ -58,8 +58,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME FirstGame
-#define UE_TARGET_NAME FirstGame
+#define UE_PROJECT_NAME GameAudioGame
+#define UE_TARGET_NAME GameAudioGame
 #define AK_UNREAL_MAX_CONCURRENT_IO 32
 #define AK_UNREAL_IO_GRANULARITY 32768
 #define AK_ENABLE_COMMUNICATION 1

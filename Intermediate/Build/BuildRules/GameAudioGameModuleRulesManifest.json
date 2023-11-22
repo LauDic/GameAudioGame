@@ -1,0 +1,21 @@
+{
+	"SourceFiles": [
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_Android.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AudiokineticTools\\AudiokineticTools.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_Hololens.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_iOS.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_Linux.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_Mac.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_PS4.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_PS5.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_Switch.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_tvOS.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_Windows.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudio\\AkAudio_XboxOne.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Plugins\\Wwise\\Source\\AkAudioMixer\\AkAudioMixer.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Intermediate\\Source\\GameAudioGame.Build.cs",
+		"C:\\Proyectos Programas\\Unreal\\GameAudioGame\\Intermediate\\Source\\GameAudioGame.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

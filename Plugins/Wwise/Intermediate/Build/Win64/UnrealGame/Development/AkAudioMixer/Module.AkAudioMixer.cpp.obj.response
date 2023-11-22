@@ -1,11 +1,11 @@
-"C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Module.AkAudioMixer.cpp"
+"C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Module.AkAudioMixer.cpp"
 /I .
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudioMixer\Private"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Inc\AkAudio"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\ThirdParty\include"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudio\Classes"
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudio\Public"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudioMixer\Private"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Inc\AkAudio"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\ThirdParty\include"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudio\Classes"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudio\Public"
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\UMG
 /I Runtime
 /I Runtime\UMG\Public
@@ -117,7 +117,7 @@
 /I Runtime\PropertyPath\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\AudioLinkEngine
 /I Runtime\AudioLink\AudioLinkEngine\Public
-/I "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Source\AkAudioMixer\Public"
+/I "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Source\AkAudioMixer\Public"
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -150,12 +150,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Proyectos Programas\Unreal\FirstGame\Intermediate\Build\Win64\FirstGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Definitions.AkAudioMixer.h"
-/Yu"C:\Proyectos Programas\Unreal\FirstGame\Intermediate\Build\Win64\FirstGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Proyectos Programas\Unreal\FirstGame\Intermediate\Build\Win64\FirstGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
-/sourceDependencies "C:\Proyectos Programas\Unreal\FirstGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Module.AkAudioMixer.cpp.json"
+/FI"C:\Proyectos Programas\Unreal\GameAudioGame\Intermediate\Build\Win64\GameAudioGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Definitions.AkAudioMixer.h"
+/Yu"C:\Proyectos Programas\Unreal\GameAudioGame\Intermediate\Build\Win64\GameAudioGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Proyectos Programas\Unreal\GameAudioGame\Intermediate\Build\Win64\GameAudioGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
+/sourceDependencies "C:\Proyectos Programas\Unreal\GameAudioGame\Plugins\Wwise\Intermediate\Build\Win64\UnrealGame\Development\AkAudioMixer\Module.AkAudioMixer.cpp.json"
 /Zc:inline
 /nologo
 /Oi

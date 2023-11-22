@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_MovieSceneAkAudioRTPCTemplate_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Private_MovieSceneAkAudioRTPCTemplate_h_44_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Private_MovieSceneAkAudioRTPCTemplate_h_44_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMovieSceneAkAudioRTPCTemplate_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FMovieSceneEvalTemplate Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FMovieSceneAkAudioRTPCTemplate>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Private_MovieSceneAkAudioRTPCTemplate_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Private_MovieSceneAkAudioRTPCTemplate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

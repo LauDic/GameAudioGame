@@ -718,11 +718,11 @@ void EmptyLinkFunctionForGeneratedCodeAkAssetData() {}
 		return UAkAudioEventData::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UAkAudioEventData);
-	struct Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics
+	struct Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UAkAssetData, UAkAssetData::StaticClass, TEXT("UAkAssetData"), &Z_Registration_Info_UClass_UAkAssetData, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAkAssetData), 2859386646U) },
 		{ Z_Construct_UClass_UAkAssetDataWithMedia, UAkAssetDataWithMedia::StaticClass, TEXT("UAkAssetDataWithMedia"), &Z_Registration_Info_UClass_UAkAssetDataWithMedia, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAkAssetDataWithMedia), 3030136953U) },
 		{ Z_Construct_UClass_UAkAssetPlatformData, UAkAssetPlatformData::StaticClass, TEXT("UAkAssetPlatformData"), &Z_Registration_Info_UClass_UAkAssetPlatformData, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAkAssetPlatformData), 2627252753U) },
@@ -730,8 +730,8 @@ void EmptyLinkFunctionForGeneratedCodeAkAssetData() {}
 		{ Z_Construct_UClass_UAkAssetDataSwitchContainer, UAkAssetDataSwitchContainer::StaticClass, TEXT("UAkAssetDataSwitchContainer"), &Z_Registration_Info_UClass_UAkAssetDataSwitchContainer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAkAssetDataSwitchContainer), 1248650312U) },
 		{ Z_Construct_UClass_UAkAudioEventData, UAkAudioEventData::StaticClass, TEXT("UAkAudioEventData"), &Z_Registration_Info_UClass_UAkAudioEventData, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAkAudioEventData), 60690475U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_2402922821(TEXT("/Script/AkAudio"),
-		Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_2402922821(TEXT("/Script/AkAudio"),
+		Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkAssetData_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

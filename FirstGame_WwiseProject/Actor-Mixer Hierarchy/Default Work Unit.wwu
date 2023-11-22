@@ -332,6 +332,36 @@
 							</ChildrenList>
 							<ObjectLists/>
 						</BlendContainer>
+						<Sound Name="StingerOn" ID="{88BEB46D-B4F1-4034-86B9-19EEF0B97954}" ShortID="613688494">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>12</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{80B64697-6B33-4916-BB5B-4B48BC633F64}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D382A99D-4C57-4696-B256-379F72BC8057}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="stinger_bell" ID="{45DD1169-AAFD-4F04-9A98-96E8724EBF71}">
+									<Language>SFX</Language>
+									<AudioFile>stinger_bell.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="728251920"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="stinger_bell" ID="{45DD1169-AAFD-4F04-9A98-96E8724EBF71}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 					<ObjectLists/>
 				</ActorMixer>

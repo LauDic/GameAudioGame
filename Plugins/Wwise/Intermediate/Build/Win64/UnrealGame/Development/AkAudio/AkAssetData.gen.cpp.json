@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\akassetdata.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\proyectos programas\\unreal\\gameaudiogame\\intermediate\\build\\win64\\gameaudiogame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\development\\akaudio\\definitions.akaudio.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\source\\akaudio\\classes\\akassetdata.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\thirdparty\\include\\ak\\soundengine\\common\\aktypes.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\thirdparty\\include\\ak\\akplatforms.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\thirdparty\\include\\ak\\soundengine\\platforms\\windows\\aktypes.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\thirdparty\\include\\ak\\soundengine\\common\\aksoundengineexport.h",
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\akassetdata.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\serialization\\archiveuobjectfromstructuredarchive.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

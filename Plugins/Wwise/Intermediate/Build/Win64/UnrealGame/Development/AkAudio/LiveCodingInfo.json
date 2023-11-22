@@ -118,7 +118,8 @@
 			"SWaapiPickerRow.cpp.obj",
 			"WwiseEventTracking.cpp.obj"
 		],
-		"Module.AkAudio.gen.1_of_6.cpp.obj": [
+		"Module.AkAudio.gen.cpp.obj": [
+			"WwiseItemType.gen.cpp.obj",
 			"AkAcousticPortal.gen.cpp.obj",
 			"AkAcousticTexture.gen.cpp.obj",
 			"AkAcousticTextureSetComponent.gen.cpp.obj",
@@ -135,16 +136,12 @@
 			"AkAudioType.gen.cpp.obj",
 			"AkAuxBus.gen.cpp.obj",
 			"AkCheckBox.gen.cpp.obj",
-			"AkComponent.gen.cpp.obj"
-		],
-		"Module.AkAudio.gen.2_of_6.cpp.obj": [
+			"AkComponent.gen.cpp.obj",
 			"AkDrawPortalComponent.gen.cpp.obj",
 			"AkDrawRoomComponent.gen.cpp.obj",
 			"AkFolder.gen.cpp.obj",
 			"AkGameObject.gen.cpp.obj",
-			"AkGameplayStatics.gen.cpp.obj"
-		],
-		"Module.AkAudio.gen.3_of_6.cpp.obj": [
+			"AkGameplayStatics.gen.cpp.obj",
 			"AkGameplayTypes.gen.cpp.obj",
 			"AkGeometryComponent.gen.cpp.obj",
 			"AkGeometryData.gen.cpp.obj",
@@ -152,9 +149,7 @@
 			"AkHololensInitializationSettings.gen.cpp.obj",
 			"AkHololensPlatformInfo.gen.cpp.obj",
 			"AkInitBank.gen.cpp.obj",
-			"AkInitializationSettings.gen.cpp.obj"
-		],
-		"Module.AkAudio.gen.4_of_6.cpp.obj": [
+			"AkInitializationSettings.gen.cpp.obj",
 			"AkIOSInitializationSettings.gen.cpp.obj",
 			"AkIOSPlatformInfo.gen.cpp.obj",
 			"AkItemBoolProperties.gen.cpp.obj",
@@ -176,9 +171,7 @@
 			"AkRoomComponent.gen.cpp.obj",
 			"AkRtpc.gen.cpp.obj",
 			"AkSettings.gen.cpp.obj",
-			"AkSettingsPerUser.gen.cpp.obj"
-		],
-		"Module.AkAudio.gen.5_of_6.cpp.obj": [
+			"AkSettingsPerUser.gen.cpp.obj",
 			"AkSlider.gen.cpp.obj",
 			"AkSpatialAudioVolume.gen.cpp.obj",
 			"AkSpotReflector.gen.cpp.obj",
@@ -194,9 +187,7 @@
 			"AkTVOSPlatformInfo.gen.cpp.obj",
 			"AkWaapiCalls.gen.cpp.obj",
 			"AkWaapiFieldNames.gen.cpp.obj",
-			"AkWaapiJsonManager.gen.cpp.obj"
-		],
-		"Module.AkAudio.gen.6_of_6.cpp.obj": [
+			"AkWaapiJsonManager.gen.cpp.obj",
 			"AkWaapiUri.gen.cpp.obj",
 			"AkWindowsInitializationSettings.gen.cpp.obj",
 			"AkWindowsPlatformInfo.gen.cpp.obj",
@@ -213,8 +204,7 @@
 			"MovieSceneAkTrack.gen.cpp.obj",
 			"MovieSceneFloatChannelSerializationHelper.gen.cpp.obj",
 			"PostEventAsync.gen.cpp.obj",
-			"PostEventAtLocationAsync.gen.cpp.obj",
-			"WwiseItemType.gen.cpp.obj"
+			"PostEventAtLocationAsync.gen.cpp.obj"
 		]
 	}
 }

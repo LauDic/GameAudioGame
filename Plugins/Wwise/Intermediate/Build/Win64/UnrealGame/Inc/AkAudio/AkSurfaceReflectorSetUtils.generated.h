@@ -13,21 +13,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_AkSurfaceReflectorSetUtils_generated_h
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h_29_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h_29_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkSurfaceEdgeVerts_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkSurfaceEdgeVerts>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h_48_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h_48_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkSurfaceEdgeInfo_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkSurfaceEdgeInfo>();
 
-#define FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h_82_GENERATED_BODY \
+#define FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h_82_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkSurfacePoly_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
@@ -35,7 +35,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkSurfaceEdgeInfo>();
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkSurfacePoly>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FirstGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h
+#define CURRENT_FILE_ID FID_GameAudioGame_Plugins_Wwise_Source_AkAudio_Classes_AkSurfaceReflectorSetUtils_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
