@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\proyectos programas\\unreal\\gameaudiogame\\intermediate\\source\\gameaudiogame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\proyectos programas\\unreal\\gameaudiogame\\intermediate\\build\\win64\\gameaudiogame\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\proyectos programas\\unreal\\gameaudiogame\\intermediate\\build\\win64\\unrealgame\\shipping\\gameaudiogame\\definitions.gameaudiogame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

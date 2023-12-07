@@ -16,7 +16,7 @@
     "Id": "3991942870",
     "GUID": "{F45D4F9F-EE40-4986-85DC-0F7F98DB40C3}",
     "Language": "SFX",
-    "Hash": "2465011580",
+    "Hash": "289001686",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
     "ShortName": "Music",
     "Path": "Music.bnk",
@@ -59,10 +59,52 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "16516262",
+        "Id": "8717125",
         "Language": "SFX",
-        "ShortName": "pop_layer03.wav",
-        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_04.wav",
+        "Path": "SFX\\music_samba_perc_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "99988265",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_05.wav",
+        "Path": "SFX\\music_samba2_stem_05_D79FB2B7.wem"
+       },
+       {
+        "Id": "109840224",
+        "Language": "SFX",
+        "ShortName": "music_samba_perc_03.wav",
+        "Path": "SFX\\music_samba_perc_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "130400487",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_02.wav",
+        "Path": "SFX\\music_samba2_stem_02_D79FB2B7.wem"
+       },
+       {
+        "Id": "136377253",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_04.wav",
+        "Path": "SFX\\music_samba2_stem_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "174367878",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_03.wav",
+        "Path": "SFX\\music_samba2_stem_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "257572781",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_06.wav",
+        "Path": "SFX\\music_samba2_stem_06_D79FB2B7.wem"
+       },
+       {
+        "Id": "285438701",
+        "Language": "SFX",
+        "ShortName": "music_bells_01.wav",
+        "Path": "SFX\\music_bells_01_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -71,64 +113,46 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "391590194",
-        "Language": "SFX",
-        "ShortName": "samba_layer01.wav",
-        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
-       },
-       {
         "Id": "473867011",
         "Language": "SFX",
         "ShortName": "ProyectoLauta_Demo01.wav",
         "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "584122215",
+        "Id": "574826267",
         "Language": "SFX",
-        "ShortName": "pop_layer02_alt.wav",
-        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_01.wav",
+        "Path": "SFX\\music_samba_perc_01_D79FB2B7.wem"
        },
        {
-        "Id": "720918943",
+        "Id": "592677009",
         "Language": "SFX",
-        "ShortName": "Level Clases c.wav",
-        "Path": "SFX\\Level Clases c_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_02.wav",
+        "Path": "SFX\\music_samba_perc_02_D79FB2B7.wem"
        },
        {
-        "Id": "734778608",
+        "Id": "790624837",
         "Language": "SFX",
-        "ShortName": "samba_layer02.wav",
-        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
+        "ShortName": "music_pop_beat_01.wav",
+        "Path": "SFX\\music_pop_beat_01_D79FB2B7.wem"
        },
        {
-        "Id": "807544341",
+        "Id": "936141817",
         "Language": "SFX",
-        "ShortName": "Music_Drum_C_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
+        "ShortName": "music_synth_02.wav",
+        "Path": "SFX\\music_synth_02_D79FB2B7.wem"
        },
        {
-        "Id": "903781297",
+        "Id": "1029342277",
         "Language": "SFX",
-        "ShortName": "pop_layer01.wav",
-        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
+        "ShortName": "music_samba2_stem_01.wav",
+        "Path": "SFX\\music_samba2_stem_01_D79FB2B7.wem"
        },
        {
-        "Id": "919270497",
+        "Id": "1062865346",
         "Language": "SFX",
-        "ShortName": "Level Clases d.wav",
-        "Path": "SFX\\Level Clases d_D79FB2B7.wem"
-       },
-       {
-        "Id": "1037146104",
-        "Language": "SFX",
-        "ShortName": "Level Clases e.wav",
-        "Path": "SFX\\Level Clases e_D79FB2B7.wem"
-       },
-       {
-        "Id": "1046701662",
-        "Language": "SFX",
-        "ShortName": "samba_layer05.wav",
-        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+        "ShortName": "music_synth_01.wav",
+        "Path": "SFX\\music_synth_01_D79FB2B7.wem"
        },
        {
         "Id": "1064661478",
@@ -246,10 +270,52 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "16516262",
+        "Id": "8717125",
         "Language": "SFX",
-        "ShortName": "pop_layer03.wav",
-        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_04.wav",
+        "Path": "SFX\\music_samba_perc_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "99988265",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_05.wav",
+        "Path": "SFX\\music_samba2_stem_05_D79FB2B7.wem"
+       },
+       {
+        "Id": "109840224",
+        "Language": "SFX",
+        "ShortName": "music_samba_perc_03.wav",
+        "Path": "SFX\\music_samba_perc_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "130400487",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_02.wav",
+        "Path": "SFX\\music_samba2_stem_02_D79FB2B7.wem"
+       },
+       {
+        "Id": "136377253",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_04.wav",
+        "Path": "SFX\\music_samba2_stem_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "174367878",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_03.wav",
+        "Path": "SFX\\music_samba2_stem_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "257572781",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_06.wav",
+        "Path": "SFX\\music_samba2_stem_06_D79FB2B7.wem"
+       },
+       {
+        "Id": "285438701",
+        "Language": "SFX",
+        "ShortName": "music_bells_01.wav",
+        "Path": "SFX\\music_bells_01_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -258,64 +324,46 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "391590194",
-        "Language": "SFX",
-        "ShortName": "samba_layer01.wav",
-        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
-       },
-       {
         "Id": "473867011",
         "Language": "SFX",
         "ShortName": "ProyectoLauta_Demo01.wav",
         "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "584122215",
+        "Id": "574826267",
         "Language": "SFX",
-        "ShortName": "pop_layer02_alt.wav",
-        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_01.wav",
+        "Path": "SFX\\music_samba_perc_01_D79FB2B7.wem"
        },
        {
-        "Id": "720918943",
+        "Id": "592677009",
         "Language": "SFX",
-        "ShortName": "Level Clases c.wav",
-        "Path": "SFX\\Level Clases c_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_02.wav",
+        "Path": "SFX\\music_samba_perc_02_D79FB2B7.wem"
        },
        {
-        "Id": "734778608",
+        "Id": "790624837",
         "Language": "SFX",
-        "ShortName": "samba_layer02.wav",
-        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
+        "ShortName": "music_pop_beat_01.wav",
+        "Path": "SFX\\music_pop_beat_01_D79FB2B7.wem"
        },
        {
-        "Id": "807544341",
+        "Id": "936141817",
         "Language": "SFX",
-        "ShortName": "Music_Drum_C_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
+        "ShortName": "music_synth_02.wav",
+        "Path": "SFX\\music_synth_02_D79FB2B7.wem"
        },
        {
-        "Id": "903781297",
+        "Id": "1029342277",
         "Language": "SFX",
-        "ShortName": "pop_layer01.wav",
-        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
+        "ShortName": "music_samba2_stem_01.wav",
+        "Path": "SFX\\music_samba2_stem_01_D79FB2B7.wem"
        },
        {
-        "Id": "919270497",
+        "Id": "1062865346",
         "Language": "SFX",
-        "ShortName": "Level Clases d.wav",
-        "Path": "SFX\\Level Clases d_D79FB2B7.wem"
-       },
-       {
-        "Id": "1037146104",
-        "Language": "SFX",
-        "ShortName": "Level Clases e.wav",
-        "Path": "SFX\\Level Clases e_D79FB2B7.wem"
-       },
-       {
-        "Id": "1046701662",
-        "Language": "SFX",
-        "ShortName": "samba_layer05.wav",
-        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+        "ShortName": "music_synth_01.wav",
+        "Path": "SFX\\music_synth_01_D79FB2B7.wem"
        },
        {
         "Id": "1064661478",
@@ -332,7 +380,22 @@
           "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
           "Media": [
            {
-            "Id": "1064661478"
+            "Id": "99988265"
+           },
+           {
+            "Id": "130400487"
+           },
+           {
+            "Id": "136377253"
+           },
+           {
+            "Id": "174367878"
+           },
+           {
+            "Id": "257572781"
+           },
+           {
+            "Id": "1029342277"
            }
           ]
          },
@@ -364,7 +427,10 @@
           "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
           "Media": [
            {
-            "Id": "720918943"
+            "Id": "302292856"
+           },
+           {
+            "Id": "473867011"
            }
           ]
          },
@@ -372,7 +438,7 @@
           "SwitchValue": "{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}",
           "Media": [
            {
-            "Id": "919270497"
+            "Id": "1064661478"
            }
           ]
          },
@@ -380,7 +446,7 @@
           "SwitchValue": "{18E2F314-C783-4DD7-A006-B712A6281BC5}",
           "Media": [
            {
-            "Id": "1037146104"
+            "Id": "1064661478"
            }
           ]
          }
@@ -388,59 +454,41 @@
        },
        {
         "SwitchValue": "{B620529C-3CB9-4063-AA64-43BEC75240D1}",
-        "Children": [
+        "Media": [
          {
-          "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
-          "Media": [
-           {
-            "Id": "903781297"
-           }
-          ]
+          "Id": "285438701"
          },
          {
-          "SwitchValue": "{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}",
-          "Media": [
-           {
-            "Id": "584122215"
-           }
-          ]
+          "Id": "790624837"
          },
          {
-          "SwitchValue": "{18E2F314-C783-4DD7-A006-B712A6281BC5}",
-          "Media": [
-           {
-            "Id": "16516262"
-           }
-          ]
+          "Id": "1062865346"
          }
         ]
        },
        {
         "SwitchValue": "{75FD770A-600D-453B-804C-F09C2134016D}",
-        "Children": [
+        "Media": [
          {
-          "SwitchValue": "{A099A250-5A64-4F4D-ABD6-5DC1A19FEABE}",
-          "Media": [
-           {
-            "Id": "391590194"
-           }
-          ]
+          "Id": "8717125"
          },
          {
-          "SwitchValue": "{1BC1863F-0DF9-46E5-8FC9-8F16FF0752ED}",
-          "Media": [
-           {
-            "Id": "734778608"
-           }
-          ]
+          "Id": "109840224"
          },
          {
-          "SwitchValue": "{18E2F314-C783-4DD7-A006-B712A6281BC5}",
-          "Media": [
-           {
-            "Id": "1046701662"
-           }
-          ]
+          "Id": "285438701"
+         },
+         {
+          "Id": "574826267"
+         },
+         {
+          "Id": "592677009"
+         },
+         {
+          "Id": "936141817"
+         },
+         {
+          "Id": "1062865346"
          }
         ]
        }
@@ -454,10 +502,52 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "16516262",
+        "Id": "8717125",
         "Language": "SFX",
-        "ShortName": "pop_layer03.wav",
-        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_04.wav",
+        "Path": "SFX\\music_samba_perc_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "99988265",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_05.wav",
+        "Path": "SFX\\music_samba2_stem_05_D79FB2B7.wem"
+       },
+       {
+        "Id": "109840224",
+        "Language": "SFX",
+        "ShortName": "music_samba_perc_03.wav",
+        "Path": "SFX\\music_samba_perc_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "130400487",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_02.wav",
+        "Path": "SFX\\music_samba2_stem_02_D79FB2B7.wem"
+       },
+       {
+        "Id": "136377253",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_04.wav",
+        "Path": "SFX\\music_samba2_stem_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "174367878",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_03.wav",
+        "Path": "SFX\\music_samba2_stem_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "257572781",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_06.wav",
+        "Path": "SFX\\music_samba2_stem_06_D79FB2B7.wem"
+       },
+       {
+        "Id": "285438701",
+        "Language": "SFX",
+        "ShortName": "music_bells_01.wav",
+        "Path": "SFX\\music_bells_01_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -466,64 +556,46 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "391590194",
-        "Language": "SFX",
-        "ShortName": "samba_layer01.wav",
-        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
-       },
-       {
         "Id": "473867011",
         "Language": "SFX",
         "ShortName": "ProyectoLauta_Demo01.wav",
         "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "584122215",
+        "Id": "574826267",
         "Language": "SFX",
-        "ShortName": "pop_layer02_alt.wav",
-        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_01.wav",
+        "Path": "SFX\\music_samba_perc_01_D79FB2B7.wem"
        },
        {
-        "Id": "720918943",
+        "Id": "592677009",
         "Language": "SFX",
-        "ShortName": "Level Clases c.wav",
-        "Path": "SFX\\Level Clases c_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_02.wav",
+        "Path": "SFX\\music_samba_perc_02_D79FB2B7.wem"
        },
        {
-        "Id": "734778608",
+        "Id": "790624837",
         "Language": "SFX",
-        "ShortName": "samba_layer02.wav",
-        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
+        "ShortName": "music_pop_beat_01.wav",
+        "Path": "SFX\\music_pop_beat_01_D79FB2B7.wem"
        },
        {
-        "Id": "807544341",
+        "Id": "936141817",
         "Language": "SFX",
-        "ShortName": "Music_Drum_C_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
+        "ShortName": "music_synth_02.wav",
+        "Path": "SFX\\music_synth_02_D79FB2B7.wem"
        },
        {
-        "Id": "903781297",
+        "Id": "1029342277",
         "Language": "SFX",
-        "ShortName": "pop_layer01.wav",
-        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
+        "ShortName": "music_samba2_stem_01.wav",
+        "Path": "SFX\\music_samba2_stem_01_D79FB2B7.wem"
        },
        {
-        "Id": "919270497",
+        "Id": "1062865346",
         "Language": "SFX",
-        "ShortName": "Level Clases d.wav",
-        "Path": "SFX\\Level Clases d_D79FB2B7.wem"
-       },
-       {
-        "Id": "1037146104",
-        "Language": "SFX",
-        "ShortName": "Level Clases e.wav",
-        "Path": "SFX\\Level Clases e_D79FB2B7.wem"
-       },
-       {
-        "Id": "1046701662",
-        "Language": "SFX",
-        "ShortName": "samba_layer05.wav",
-        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+        "ShortName": "music_synth_01.wav",
+        "Path": "SFX\\music_synth_01_D79FB2B7.wem"
        },
        {
         "Id": "1064661478",
@@ -541,10 +613,52 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "16516262",
+        "Id": "8717125",
         "Language": "SFX",
-        "ShortName": "pop_layer03.wav",
-        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_04.wav",
+        "Path": "SFX\\music_samba_perc_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "99988265",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_05.wav",
+        "Path": "SFX\\music_samba2_stem_05_D79FB2B7.wem"
+       },
+       {
+        "Id": "109840224",
+        "Language": "SFX",
+        "ShortName": "music_samba_perc_03.wav",
+        "Path": "SFX\\music_samba_perc_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "130400487",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_02.wav",
+        "Path": "SFX\\music_samba2_stem_02_D79FB2B7.wem"
+       },
+       {
+        "Id": "136377253",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_04.wav",
+        "Path": "SFX\\music_samba2_stem_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "174367878",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_03.wav",
+        "Path": "SFX\\music_samba2_stem_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "257572781",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_06.wav",
+        "Path": "SFX\\music_samba2_stem_06_D79FB2B7.wem"
+       },
+       {
+        "Id": "285438701",
+        "Language": "SFX",
+        "ShortName": "music_bells_01.wav",
+        "Path": "SFX\\music_bells_01_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -553,64 +667,46 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "391590194",
-        "Language": "SFX",
-        "ShortName": "samba_layer01.wav",
-        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
-       },
-       {
         "Id": "473867011",
         "Language": "SFX",
         "ShortName": "ProyectoLauta_Demo01.wav",
         "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "584122215",
+        "Id": "574826267",
         "Language": "SFX",
-        "ShortName": "pop_layer02_alt.wav",
-        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_01.wav",
+        "Path": "SFX\\music_samba_perc_01_D79FB2B7.wem"
        },
        {
-        "Id": "720918943",
+        "Id": "592677009",
         "Language": "SFX",
-        "ShortName": "Level Clases c.wav",
-        "Path": "SFX\\Level Clases c_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_02.wav",
+        "Path": "SFX\\music_samba_perc_02_D79FB2B7.wem"
        },
        {
-        "Id": "734778608",
+        "Id": "790624837",
         "Language": "SFX",
-        "ShortName": "samba_layer02.wav",
-        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
+        "ShortName": "music_pop_beat_01.wav",
+        "Path": "SFX\\music_pop_beat_01_D79FB2B7.wem"
        },
        {
-        "Id": "807544341",
+        "Id": "936141817",
         "Language": "SFX",
-        "ShortName": "Music_Drum_C_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
+        "ShortName": "music_synth_02.wav",
+        "Path": "SFX\\music_synth_02_D79FB2B7.wem"
        },
        {
-        "Id": "903781297",
+        "Id": "1029342277",
         "Language": "SFX",
-        "ShortName": "pop_layer01.wav",
-        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
+        "ShortName": "music_samba2_stem_01.wav",
+        "Path": "SFX\\music_samba2_stem_01_D79FB2B7.wem"
        },
        {
-        "Id": "919270497",
+        "Id": "1062865346",
         "Language": "SFX",
-        "ShortName": "Level Clases d.wav",
-        "Path": "SFX\\Level Clases d_D79FB2B7.wem"
-       },
-       {
-        "Id": "1037146104",
-        "Language": "SFX",
-        "ShortName": "Level Clases e.wav",
-        "Path": "SFX\\Level Clases e_D79FB2B7.wem"
-       },
-       {
-        "Id": "1046701662",
-        "Language": "SFX",
-        "ShortName": "samba_layer05.wav",
-        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+        "ShortName": "music_synth_01.wav",
+        "Path": "SFX\\music_synth_01_D79FB2B7.wem"
        },
        {
         "Id": "1064661478",
@@ -628,10 +724,52 @@
       "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
-        "Id": "16516262",
+        "Id": "8717125",
         "Language": "SFX",
-        "ShortName": "pop_layer03.wav",
-        "Path": "SFX\\pop_layer03_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_04.wav",
+        "Path": "SFX\\music_samba_perc_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "99988265",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_05.wav",
+        "Path": "SFX\\music_samba2_stem_05_D79FB2B7.wem"
+       },
+       {
+        "Id": "109840224",
+        "Language": "SFX",
+        "ShortName": "music_samba_perc_03.wav",
+        "Path": "SFX\\music_samba_perc_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "130400487",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_02.wav",
+        "Path": "SFX\\music_samba2_stem_02_D79FB2B7.wem"
+       },
+       {
+        "Id": "136377253",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_04.wav",
+        "Path": "SFX\\music_samba2_stem_04_D79FB2B7.wem"
+       },
+       {
+        "Id": "174367878",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_03.wav",
+        "Path": "SFX\\music_samba2_stem_03_D79FB2B7.wem"
+       },
+       {
+        "Id": "257572781",
+        "Language": "SFX",
+        "ShortName": "music_samba2_stem_06.wav",
+        "Path": "SFX\\music_samba2_stem_06_D79FB2B7.wem"
+       },
+       {
+        "Id": "285438701",
+        "Language": "SFX",
+        "ShortName": "music_bells_01.wav",
+        "Path": "SFX\\music_bells_01_D79FB2B7.wem"
        },
        {
         "Id": "302292856",
@@ -640,64 +778,46 @@
         "Path": "SFX\\Level Clases f_D79FB2B7.wem"
        },
        {
-        "Id": "391590194",
-        "Language": "SFX",
-        "ShortName": "samba_layer01.wav",
-        "Path": "SFX\\samba_layer01_D79FB2B7.wem"
-       },
-       {
         "Id": "473867011",
         "Language": "SFX",
         "ShortName": "ProyectoLauta_Demo01.wav",
         "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
        },
        {
-        "Id": "584122215",
+        "Id": "574826267",
         "Language": "SFX",
-        "ShortName": "pop_layer02_alt.wav",
-        "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_01.wav",
+        "Path": "SFX\\music_samba_perc_01_D79FB2B7.wem"
        },
        {
-        "Id": "720918943",
+        "Id": "592677009",
         "Language": "SFX",
-        "ShortName": "Level Clases c.wav",
-        "Path": "SFX\\Level Clases c_D79FB2B7.wem"
+        "ShortName": "music_samba_perc_02.wav",
+        "Path": "SFX\\music_samba_perc_02_D79FB2B7.wem"
        },
        {
-        "Id": "734778608",
+        "Id": "790624837",
         "Language": "SFX",
-        "ShortName": "samba_layer02.wav",
-        "Path": "SFX\\samba_layer02_D79FB2B7.wem"
+        "ShortName": "music_pop_beat_01.wav",
+        "Path": "SFX\\music_pop_beat_01_D79FB2B7.wem"
        },
        {
-        "Id": "807544341",
+        "Id": "936141817",
         "Language": "SFX",
-        "ShortName": "Music_Drum_C_ 120 4 4.wav",
-        "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
+        "ShortName": "music_synth_02.wav",
+        "Path": "SFX\\music_synth_02_D79FB2B7.wem"
        },
        {
-        "Id": "903781297",
+        "Id": "1029342277",
         "Language": "SFX",
-        "ShortName": "pop_layer01.wav",
-        "Path": "SFX\\pop_layer01_D79FB2B7.wem"
+        "ShortName": "music_samba2_stem_01.wav",
+        "Path": "SFX\\music_samba2_stem_01_D79FB2B7.wem"
        },
        {
-        "Id": "919270497",
+        "Id": "1062865346",
         "Language": "SFX",
-        "ShortName": "Level Clases d.wav",
-        "Path": "SFX\\Level Clases d_D79FB2B7.wem"
-       },
-       {
-        "Id": "1037146104",
-        "Language": "SFX",
-        "ShortName": "Level Clases e.wav",
-        "Path": "SFX\\Level Clases e_D79FB2B7.wem"
-       },
-       {
-        "Id": "1046701662",
-        "Language": "SFX",
-        "ShortName": "samba_layer05.wav",
-        "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+        "ShortName": "music_synth_01.wav",
+        "Path": "SFX\\music_synth_01_D79FB2B7.wem"
        },
        {
         "Id": "1064661478",
@@ -722,10 +842,40 @@
       "Path": "SFX\\PM_SDGS_113 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem"
      },
      {
-      "Id": "16516262",
+      "Id": "8717125",
       "Language": "SFX",
-      "ShortName": "pop_layer03.wav",
-      "Path": "SFX\\pop_layer03_D79FB2B7.wem"
+      "ShortName": "music_samba_perc_04.wav",
+      "Path": "SFX\\music_samba_perc_04_D79FB2B7.wem"
+     },
+     {
+      "Id": "99988265",
+      "Language": "SFX",
+      "ShortName": "music_samba2_stem_05.wav",
+      "Path": "SFX\\music_samba2_stem_05_D79FB2B7.wem"
+     },
+     {
+      "Id": "109840224",
+      "Language": "SFX",
+      "ShortName": "music_samba_perc_03.wav",
+      "Path": "SFX\\music_samba_perc_03_D79FB2B7.wem"
+     },
+     {
+      "Id": "130400487",
+      "Language": "SFX",
+      "ShortName": "music_samba2_stem_02.wav",
+      "Path": "SFX\\music_samba2_stem_02_D79FB2B7.wem"
+     },
+     {
+      "Id": "136377253",
+      "Language": "SFX",
+      "ShortName": "music_samba2_stem_04.wav",
+      "Path": "SFX\\music_samba2_stem_04_D79FB2B7.wem"
+     },
+     {
+      "Id": "174367878",
+      "Language": "SFX",
+      "ShortName": "music_samba2_stem_03.wav",
+      "Path": "SFX\\music_samba2_stem_03_D79FB2B7.wem"
      },
      {
       "Id": "195895092",
@@ -740,6 +890,18 @@
       "Path": "SFX\\gravel footstep 2_10C4C929.wem"
      },
      {
+      "Id": "257572781",
+      "Language": "SFX",
+      "ShortName": "music_samba2_stem_06.wav",
+      "Path": "SFX\\music_samba2_stem_06_D79FB2B7.wem"
+     },
+     {
+      "Id": "285438701",
+      "Language": "SFX",
+      "ShortName": "music_bells_01.wav",
+      "Path": "SFX\\music_bells_01_D79FB2B7.wem"
+     },
+     {
       "Id": "302292856",
       "Language": "SFX",
       "ShortName": "Level Clases f.wav",
@@ -752,22 +914,22 @@
       "Path": "SFX\\PM_SDGS_186 Footstep Step Dry Grass Shrubs Pine Needles Meadow _10C4C929.wem"
      },
      {
-      "Id": "391590194",
-      "Language": "SFX",
-      "ShortName": "samba_layer01.wav",
-      "Path": "SFX\\samba_layer01_D79FB2B7.wem"
-     },
-     {
       "Id": "473867011",
       "Language": "SFX",
       "ShortName": "ProyectoLauta_Demo01.wav",
       "Path": "SFX\\ProyectoLauta_Demo01_D79FB2B7.wem"
      },
      {
-      "Id": "584122215",
+      "Id": "574826267",
       "Language": "SFX",
-      "ShortName": "pop_layer02_alt.wav",
-      "Path": "SFX\\pop_layer02_alt_D79FB2B7.wem"
+      "ShortName": "music_samba_perc_01.wav",
+      "Path": "SFX\\music_samba_perc_01_D79FB2B7.wem"
+     },
+     {
+      "Id": "592677009",
+      "Language": "SFX",
+      "ShortName": "music_samba_perc_02.wav",
+      "Path": "SFX\\music_samba_perc_02_D79FB2B7.wem"
      },
      {
       "Id": "666153434",
@@ -776,52 +938,34 @@
       "Path": "SFX\\switch_on_042_10C4C929.wem"
      },
      {
-      "Id": "720918943",
-      "Language": "SFX",
-      "ShortName": "Level Clases c.wav",
-      "Path": "SFX\\Level Clases c_D79FB2B7.wem"
-     },
-     {
       "Id": "728251920",
       "Language": "SFX",
       "ShortName": "stinger_bell.wav",
       "Path": "SFX\\stinger_bell_10C4C929.wem"
      },
      {
-      "Id": "734778608",
+      "Id": "790624837",
       "Language": "SFX",
-      "ShortName": "samba_layer02.wav",
-      "Path": "SFX\\samba_layer02_D79FB2B7.wem"
+      "ShortName": "music_pop_beat_01.wav",
+      "Path": "SFX\\music_pop_beat_01_D79FB2B7.wem"
      },
      {
-      "Id": "807544341",
+      "Id": "936141817",
       "Language": "SFX",
-      "ShortName": "Music_Drum_C_ 120 4 4.wav",
-      "Path": "SFX\\Music_Drum_C_ 120 4 4_D79FB2B7.wem"
+      "ShortName": "music_synth_02.wav",
+      "Path": "SFX\\music_synth_02_D79FB2B7.wem"
      },
      {
-      "Id": "903781297",
+      "Id": "1029342277",
       "Language": "SFX",
-      "ShortName": "pop_layer01.wav",
-      "Path": "SFX\\pop_layer01_D79FB2B7.wem"
+      "ShortName": "music_samba2_stem_01.wav",
+      "Path": "SFX\\music_samba2_stem_01_D79FB2B7.wem"
      },
      {
-      "Id": "919270497",
+      "Id": "1062865346",
       "Language": "SFX",
-      "ShortName": "Level Clases d.wav",
-      "Path": "SFX\\Level Clases d_D79FB2B7.wem"
-     },
-     {
-      "Id": "1037146104",
-      "Language": "SFX",
-      "ShortName": "Level Clases e.wav",
-      "Path": "SFX\\Level Clases e_D79FB2B7.wem"
-     },
-     {
-      "Id": "1046701662",
-      "Language": "SFX",
-      "ShortName": "samba_layer05.wav",
-      "Path": "SFX\\samba_layer05_D79FB2B7.wem"
+      "ShortName": "music_synth_01.wav",
+      "Path": "SFX\\music_synth_01_D79FB2B7.wem"
      },
      {
       "Id": "1064661478",

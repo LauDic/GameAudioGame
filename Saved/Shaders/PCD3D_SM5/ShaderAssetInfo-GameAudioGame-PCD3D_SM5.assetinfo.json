@@ -100,6 +100,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8F47926CAA4A2711496757208BE42ECE0A74C5B1",
+			"Assets": [
+				"/Game/StackOBot/Environment/Props/BotonAbajoo"
+			]
+		},
+		{
 			"ShaderMapHash": "9EB0279B47C2E56C393EC60013496114722AE6BB",
 			"Assets": [
 				"/Game/StackOBot/Environment/Modular/boss"
@@ -109,12 +115,6 @@
 			"ShaderMapHash": "86B29203E6ED5E9BC47F944BF272E93225E4FB0D",
 			"Assets": [
 				"/Game/StackOBot/Environment/Modular/boss2"
-			]
-		},
-		{
-			"ShaderMapHash": "8F47926CAA4A2711496757208BE42ECE0A74C5B1",
-			"Assets": [
-				"/Game/StackOBot/Environment/Props/BotonAbajoo"
 			]
 		},
 		{
@@ -161,6 +161,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -173,15 +179,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B2957CD2E6C272AAA396257EA798271767F46FB6",
+			"Assets": [
+				"/Game/StackOBot/Environment/Props/NewMaterial"
 			]
 		},
 		{
@@ -258,15 +264,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "75BC2D21DCE7653A14CA4EC323DD86843618B85B",
+			"ShaderMapHash": "6C7B5C5B8B50E7FB61AB2B6E8107CB8DD5388FF3",
 			"Assets": [
 				"/Game/Assets/Props/M_Carbon"
+			]
+		},
+		{
+			"ShaderMapHash": "D27776326AF78B39DEC2DDFF9B865900D632FFC7",
+			"Assets": [
+				"/Game/Assets/Environment/Rock/M_Rock"
 			]
 		},
 		{
 			"ShaderMapHash": "85D8BBCDFBD0AF76F404E173AA54188CEE4C1A13",
 			"Assets": [
 				"/Game/StackOBot/Environment/Materials/M_GratingTileable"
+			]
+		},
+		{
+			"ShaderMapHash": "35E5C6E0249E51C73272FF42E56F4A262342FE00",
+			"Assets": [
+				"/Game/Assets/Environment/Grass/M_Grass"
 			]
 		},
 		{
@@ -414,6 +432,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ACB352F0E1CE5E68A4952E08731FE5C921473B2D",
+			"Assets": [
+				"/Game/Assets/Character/M_BotBase"
+			]
+		},
+		{
+			"ShaderMapHash": "C7F59B1ED1335AA97A6B2568E1F6A440167C472A",
+			"Assets": [
+				"/Game/StackOBot/Environment/Landscape/Materials/M_Rock"
+			]
+		},
+		{
 			"ShaderMapHash": "C263D0D6F61578C03284D8F326DE0C536FB2DD88",
 			"Assets": [
 				"/Game/StackOBot/Environment/Props/BotonError2"
@@ -426,22 +456,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ACB352F0E1CE5E68A4952E08731FE5C921473B2D",
+			"ShaderMapHash": "888B9070610B2C36DDA61A73EC205625C7C5FA2D",
 			"Assets": [
-				"/Game/Assets/Character/M_BotBase"
+				"/Game/StackOBot/Environment/Foilage/Materials/M_TreeBase",
+				"/Game/StackOBot/Environment/Foilage/Materials/M_TreeBaseNOWPO"
 			]
 		},
 		{
 			"ShaderMapHash": "11854DA17AA3935243EDD398E4E1CF2212419B2A",
 			"Assets": [
 				"/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_B"
-			]
-		},
-		{
-			"ShaderMapHash": "888B9070610B2C36DDA61A73EC205625C7C5FA2D",
-			"Assets": [
-				"/Game/StackOBot/Environment/Foilage/Materials/M_TreeBase",
-				"/Game/StackOBot/Environment/Foilage/Materials/M_TreeBaseNOWPO"
 			]
 		},
 		{
@@ -463,9 +487,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1FEA24B0BAB83471C42DA06A6FB16DB962DF754A",
+			"Assets": [
+				"/Game/Assets/Landscape/M_Landscape"
+			]
+		},
+		{
 			"ShaderMapHash": "D9760656498D6A8BF4105ACC954E7D8D56D1418A",
 			"Assets": [
-				"/Game/StackOBot/Environment/Materials/M_TileMaster"
+				"/Game/StackOBot/Environment/Materials/M_TileMaster",
+				"/Game/StackOBot/Environment/Materials/MI_MetalTileable"
 			]
 		},
 		{
@@ -517,6 +548,44 @@
 			"ShaderMapHash": "1ADE4E6E0D707F8D56615AA1072C90867B5B6031",
 			"Assets": [
 				"/Game/StackOBot/Environment/Materials/MI_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "2BA71CEDCA79CC0FF811FEFA2B1FD054902F15F2",
+			"Assets": [
+				"/Game/Maps/CampoDeTesteo",
+				"/Game/Maps/Levels/10",
+				"/Game/Maps/Levels/9",
+				"/Game/Maps/Levels/8",
+				"/Game/Maps/Levels/7",
+				"/Game/Maps/Levels/6",
+				"/Game/Maps/Levels/5",
+				"/Game/Maps/Levels/4",
+				"/Game/Maps/Levels/3",
+				"/Game/Maps/Levels/2",
+				"/Game/Maps/Levels/1"
+			]
+		},
+		{
+			"ShaderMapHash": "FADEFF8E5246C54CAF61CE55C458489F5C6C374A",
+			"Assets": [
+				"/Game/Maps/CampoDeTesteo",
+				"/Game/Maps/Levels/10",
+				"/Game/Maps/Levels/9",
+				"/Game/Maps/Levels/8",
+				"/Game/Maps/Levels/7",
+				"/Game/Maps/Levels/6",
+				"/Game/Maps/Levels/5",
+				"/Game/Maps/Levels/4",
+				"/Game/Maps/Levels/3",
+				"/Game/Maps/Levels/2",
+				"/Game/Maps/Levels/1"
+			]
+		},
+		{
+			"ShaderMapHash": "7587A8400D751D79EB9EF607F9901A587B1C1D61",
+			"Assets": [
+				"/Game/StackOBot/Environment/Props/botonAbajo"
 			]
 		}
 	]

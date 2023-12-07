@@ -1,6 +1,6 @@
 GameAudioGame/Binaries/Win64/D3D12/D3D12Core.dll	2023-04-11T02:03:36.682Z
 GameAudioGame/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2023-04-11T02:03:37.206Z
-GameAudioGame/Binaries/Win64/GameAudioGame.exe	2023-11-06T21:17:16.370Z
+GameAudioGame/Binaries/Win64/GameAudioGame.exe	2023-12-04T19:19:34.336Z
 GameAudioGame/Binaries/Win64/OpenImageDenoise.dll	2023-04-11T02:21:32.101Z
 GameAudioGame/Binaries/Win64/tbb.dll	2023-04-11T02:03:15.351Z
 GameAudioGame/Binaries/Win64/tbb12.dll	2023-04-11T02:21:29.100Z
@@ -45,4 +45,4 @@ GameAudioGame/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/AkToneGen.dll	2023-
 GameAudioGame/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/AkTremolo.dll	2023-04-20T22:13:29.040Z
 GameAudioGame/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/Auro.dll	2023-04-20T22:13:30.157Z
 GameAudioGame/Plugins/Wwise/ThirdParty/x64_vc160/Profile/bin/ResonanceAudio.dll	2023-04-20T22:13:43.591Z
-GameAudioGame.exe	2023-11-07T22:16:07.437Z
+GameAudioGame.exe	2023-12-05T22:45:33.456Z

@@ -309,30 +309,6 @@
 			"ChunkId": "2cc5808063f890db00000002"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
-			"ChunkId": "8efe6173efa8192200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
-			"ChunkId": "2c913f2705b478d900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
-			"ChunkId": "0bf1d6a9c47f8ccc00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
-			"ChunkId": "0bf1d6a9c47f8ccc00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
-			"ChunkId": "ba6543c81e92e56d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
-			"ChunkId": "ba6543c81e92e56d00000002"
-		},
-		{
 			"Path": "Engine/Content/EngineFonts/Faces/RobotoLight.uasset",
 			"ChunkId": "0668993fb5b5811c00000001"
 		},
@@ -389,6 +365,30 @@
 			"ChunkId": "7276d40fd50dba5900000001"
 		},
 		{
+			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
+			"ChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
+			"ChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
+			"ChunkId": "0bf1d6a9c47f8ccc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
+			"ChunkId": "0bf1d6a9c47f8ccc00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"ChunkId": "ba6543c81e92e56d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
+			"ChunkId": "ba6543c81e92e56d00000002"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset",
 			"ChunkId": "a29fb34f83f7d31a00000001"
 		},
@@ -405,20 +405,20 @@
 			"ChunkId": "6a3b7a697242e13400000001"
 		},
 		{
-			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
-			"ChunkId": "200cd3dc0f3f673a00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk",
-			"ChunkId": "200cd3dc0f3f673a00000002"
-		},
-		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
 			"ChunkId": "a996adcfa357ed2d00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
 			"ChunkId": "a996adcfa357ed2d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
+			"ChunkId": "200cd3dc0f3f673a00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk",
+			"ChunkId": "200cd3dc0f3f673a00000002"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
@@ -481,20 +481,20 @@
 			"ChunkId": "f421d8f857b9ed0300000002"
 		},
 		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AkAuxBus.uasset",
-			"ChunkId": "f637812df4b453c000000001"
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/workunit_nor.uasset",
+			"ChunkId": "54aa6bc51bb5fc4500000001"
 		},
 		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AkAuxBus.ubulk",
-			"ChunkId": "f637812df4b453c000000002"
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Acoustic_Portal_Explorer.uasset",
+			"ChunkId": "8f1d305ec5f6382700000001"
 		},
 		{
-			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
-			"ChunkId": "f87a01e7b138538a00000001"
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Acoustic_Portal.uasset",
+			"ChunkId": "53165aee3c1afbc000000001"
 		},
 		{
-			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
-			"ChunkId": "b85ee5fd59f4dd2000000001"
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Acoustic_Portal.ubulk",
+			"ChunkId": "53165aee3c1afbc000000002"
 		},
 		{
 			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset",
@@ -601,6 +601,14 @@
 			"ChunkId": "cda0cf6115260c9400000001"
 		},
 		{
+			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
+			"ChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
 			"ChunkId": "ff5a26a059754af200000001"
 		},
@@ -635,18 +643,6 @@
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Reverb_Volume.ubulk",
 			"ChunkId": "2edf5f24e9d086ad00000002"
-		},
-		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Acoustic_Portal_Explorer.uasset",
-			"ChunkId": "8f1d305ec5f6382700000001"
-		},
-		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Acoustic_Portal.uasset",
-			"ChunkId": "53165aee3c1afbc000000001"
-		},
-		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AK_Acoustic_Portal.ubulk",
-			"ChunkId": "53165aee3c1afbc000000002"
 		},
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AkTrigger.uasset",
@@ -705,6 +701,14 @@
 			"ChunkId": "32c3c92ab73d139000000002"
 		},
 		{
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AkAuxBus.uasset",
+			"ChunkId": "f637812df4b453c000000001"
+		},
+		{
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AkAuxBus.ubulk",
+			"ChunkId": "f637812df4b453c000000002"
+		},
+		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTypes/AkAudioEvent.uasset",
 			"ChunkId": "407c17bfdd505e3900000001"
 		},
@@ -733,14 +737,6 @@
 			"ChunkId": "ea74338101f3357200000001"
 		},
 		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/wwise_icon_512.uasset",
-			"ChunkId": "25a516bf925a6b5600000001"
-		},
-		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/wwise_icon_512.ubulk",
-			"ChunkId": "25a516bf925a6b5600000002"
-		},
-		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/wwise_icon_16.uasset",
 			"ChunkId": "f5ed80865183ff9700000001"
 		},
@@ -749,8 +745,20 @@
 			"ChunkId": "a78139b7488fb9f800000001"
 		},
 		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/workunit_nor.uasset",
-			"ChunkId": "54aa6bc51bb5fc4500000001"
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/container_random_sequence_nor.uasset",
+			"ChunkId": "fe7f2214b240dcc400000001"
+		},
+		{
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/bus_nor.uasset",
+			"ChunkId": "cac425d5a775082e00000001"
+		},
+		{
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/wwise_icon_512.uasset",
+			"ChunkId": "25a516bf925a6b5600000001"
+		},
+		{
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/wwise_icon_512.ubulk",
+			"ChunkId": "25a516bf925a6b5600000002"
 		},
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/trigger_nor.uasset",
@@ -769,26 +777,6 @@
 			"ChunkId": "fd4b47066f4e788000000001"
 		},
 		{
-			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"ChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Props/M_Plastic.uasset",
-			"ChunkId": "24dae68c2948895f00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/explor.uasset",
-			"ChunkId": "c6915dc9a0a61e8e00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/Suministro.uasset",
-			"ChunkId": "cf10823b7cb6dbbb00000001"
-		},
-		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/physical_folder_nor.uasset",
-			"ChunkId": "eace4ac55dae38f500000001"
-		},
-		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/state_nor.uasset",
 			"ChunkId": "45111cab1700768300000001"
 		},
@@ -799,6 +787,10 @@
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/sound_fx_nor.uasset",
 			"ChunkId": "67b62b44de0aa1c300000001"
+		},
+		{
+			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/physical_folder_nor.uasset",
+			"ChunkId": "eace4ac55dae38f500000001"
 		},
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/motion_bus_nor.uasset",
@@ -825,12 +817,36 @@
 			"ChunkId": "55d666cede13d8e600000001"
 		},
 		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/container_random_sequence_nor.uasset",
-			"ChunkId": "fe7f2214b240dcc400000001"
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
 		},
 		{
-			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/bus_nor.uasset",
-			"ChunkId": "cac425d5a775082e00000001"
+			"Path": "GameAudioGame/Content/Assets/Props/M_Plastic.uasset",
+			"ChunkId": "24dae68c2948895f00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/explor.uasset",
+			"ChunkId": "c6915dc9a0a61e8e00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/Suministro.uasset",
+			"ChunkId": "cf10823b7cb6dbbb00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Menu/MainMenu_BuiltData.uasset",
+			"ChunkId": "8eac50fcbc3fcaa100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Valley_sharedassets/Grass_LayerInfo.uasset",
+			"ChunkId": "02fb8ae7cacdf50a00000001"
 		},
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/auxbus_nor.uasset",
@@ -843,38 +859,6 @@
 		{
 			"Path": "GameAudioGame/Plugins/Wwise/Content/WwiseTree/Icons/acoutex_nor.uasset",
 			"ChunkId": "9c3b15542441368200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Menu/MainMenu_BuiltData.uasset",
-			"ChunkId": "8eac50fcbc3fcaa100000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music.uasset",
-			"ChunkId": "f3bf526271c7b19200000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Framework/Interactable.uasset",
-			"ChunkId": "520cb15f8348bde400000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/StackOBot/StackOBot/Characters/Backpack/Mesh/SKM_Backpack.uasset",
-			"ChunkId": "f462e7e7c0c4150a00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/boss.uasset",
-			"ChunkId": "0af0daacd951457100000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
@@ -901,6 +885,46 @@
 			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
+			"Path": "GameAudioGame/Content/NewLevelSequence.uasset",
+			"ChunkId": "0cc92735ea2d63ff00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Landscape/LandscapeLayers/Sand_LayerInfo.uasset",
+			"ChunkId": "f51559dcafb6eba400000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/BotonAbajoo.uasset",
+			"ChunkId": "d0cbffdf41b79b6300000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music.uasset",
+			"ChunkId": "f3bf526271c7b19200000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Framework/Interactable.uasset",
+			"ChunkId": "520cb15f8348bde400000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/StackOBot/StackOBot/Characters/Backpack/Mesh/SKM_Backpack.uasset",
+			"ChunkId": "f462e7e7c0c4150a00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/boss.uasset",
+			"ChunkId": "0af0daacd951457100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/boss2.uasset",
+			"ChunkId": "d55bc2bb089a234c00000001"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset",
+			"ChunkId": "572d1a645b023a8100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/BotonArribaa.uasset",
+			"ChunkId": "f1d0db06300132a800000001"
+		},
+		{
 			"Path": "GameAudioGame/Content/Assets/Character/SKM_Antbot_Skeleton.uasset",
 			"ChunkId": "6f3036132f51465500000001"
 		},
@@ -909,88 +933,12 @@
 			"ChunkId": "80ca043411f3376900000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Audio/Sfx/Pasos_Bot.uasset",
-			"ChunkId": "e0e3f876a39ae47d00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music/Musica.uasset",
-			"ChunkId": "c10211da6c0a90f400000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music/Level_1.uasset",
-			"ChunkId": "f2cbf8543c55acef00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music/ZonaBoss.uasset",
-			"ChunkId": "a48b02ae833a60d800000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music/ZonaExploracion.uasset",
-			"ChunkId": "fef4aaf11dae9b8600000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music/ZonaHouse.uasset",
-			"ChunkId": "03fb4c5b9ecd210900000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Audio/Music/ZonaPelea.uasset",
-			"ChunkId": "580e45649879187700000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/boss2.uasset",
-			"ChunkId": "d55bc2bb089a234c00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/BotonAbajoo.uasset",
-			"ChunkId": "d0cbffdf41b79b6300000001"
-		},
-		{
-			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
-			"ChunkId": "19aece732b01cd4000000001"
-		},
-		{
-			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
-			"ChunkId": "fd3456639b15286700000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/BotonArribaa.uasset",
-			"ChunkId": "f1d0db06300132a800000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_A.uasset",
-			"ChunkId": "acdcc3843c2bdf1e00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_A.ubulk",
-			"ChunkId": "acdcc3843c2bdf1e00000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_N.uasset",
-			"ChunkId": "7d46c579fd38cc4800000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_N.ubulk",
-			"ChunkId": "7d46c579fd38cc4800000002"
-		},
-		{
-			"Path": "Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset",
-			"ChunkId": "572d1a645b023a8100000001"
-		},
-		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Grunge_A.uasset",
 			"ChunkId": "45460afb154a2a5e00000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Grunge_A.ubulk",
 			"ChunkId": "45460afb154a2a5e00000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Metal_Painted_N.uasset",
-			"ChunkId": "143bdc253d4c9d1b00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Metal_Painted_N.ubulk",
-			"ChunkId": "143bdc253d4c9d1b00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/robot-hand_2602583.uasset",
@@ -1017,36 +965,24 @@
 			"ChunkId": "595d7eadf27a210a00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Ribbing_A.uasset",
-			"ChunkId": "b4cb52e83157967b00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Ribbing_N.uasset",
-			"ChunkId": "aaa216ebd4f1c56b00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_M.uasset",
-			"ChunkId": "f8fb3077053ba5f100000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_M.ubulk",
-			"ChunkId": "f8fb3077053ba5f100000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_N.uasset",
-			"ChunkId": "a2d4859fdf95fb8800000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_N.ubulk",
-			"ChunkId": "a2d4859fdf95fb8800000002"
-		},
-		{
 			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Albedo.uasset",
 			"ChunkId": "887260dedfcfd88500000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Albedo.ubulk",
 			"ChunkId": "887260dedfcfd88500000002"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
+			"ChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
+			"ChunkId": "fd3456639b15286700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset",
+			"ChunkId": "8ced9eed55b5a36400000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset",
@@ -1077,44 +1013,24 @@
 			"ChunkId": "98fd42e2db3f106e00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Audio/SFX_FootStep.uasset",
-			"ChunkId": "f44f5ee746b14fd700000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
+			"ChunkId": "e43855b9d402d6d500000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset",
-			"ChunkId": "8ced9eed55b5a36400000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset",
+			"ChunkId": "d812587583a9535d00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Masks.uasset",
-			"ChunkId": "3e04d65fb5e605a700000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset",
+			"ChunkId": "1f97eea17afa137600000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Masks.ubulk",
-			"ChunkId": "3e04d65fb5e605a700000002"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Metal_Painted_N.uasset",
+			"ChunkId": "143bdc253d4c9d1b00000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset",
-			"ChunkId": "6fdaccd2e075000200000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Atlas_Eyes.uasset",
-			"ChunkId": "c5848816bdc846c600000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Atlas_Eyes.ubulk",
-			"ChunkId": "c5848816bdc846c600000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Face_C.uasset",
-			"ChunkId": "b065258879df4f0200000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Face_C.ubulk",
-			"ChunkId": "b065258879df4f0200000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
-			"ChunkId": "34b40296d0d3844e00000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Metal_Painted_N.ubulk",
+			"ChunkId": "143bdc253d4c9d1b00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_M_R_AO.uasset",
@@ -1125,8 +1041,88 @@
 			"ChunkId": "d68063526e980c4a00000002"
 		},
 		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Masks.uasset",
+			"ChunkId": "3e04d65fb5e605a700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Masks.ubulk",
+			"ChunkId": "3e04d65fb5e605a700000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Ribbing_N.uasset",
+			"ChunkId": "aaa216ebd4f1c56b00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_M.uasset",
+			"ChunkId": "f8fb3077053ba5f100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_M.ubulk",
+			"ChunkId": "f8fb3077053ba5f100000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Menu/wallpaperbetter.uasset",
+			"ChunkId": "633fdb88b74dfe5c00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Normal.uasset",
+			"ChunkId": "000604165e076ded00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Normal.ubulk",
+			"ChunkId": "000604165e076ded00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Landscape/T_Grass_M.uasset",
+			"ChunkId": "957dbec74510754a00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Landscape/T_Grass_M.ubulk",
+			"ChunkId": "957dbec74510754a00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_A.uasset",
+			"ChunkId": "acdcc3843c2bdf1e00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_A.ubulk",
+			"ChunkId": "acdcc3843c2bdf1e00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_N.uasset",
+			"ChunkId": "7d46c579fd38cc4800000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Props/T_Ribbing_N.ubulk",
+			"ChunkId": "7d46c579fd38cc4800000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Ribbing_A.uasset",
+			"ChunkId": "b4cb52e83157967b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
+			"ChunkId": "34b40296d0d3844e00000001"
+		},
+		{
 			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
 			"ChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Landscape/Textures/RVT_Crater.uasset",
+			"ChunkId": "852a1b993716658700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/SFX_FootStep.uasset",
+			"ChunkId": "f44f5ee746b14fd700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset",
+			"ChunkId": "6fdaccd2e075000200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset",
+			"ChunkId": "adfc0c5cb146690600000001"
 		},
 		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
@@ -1137,24 +1133,20 @@
 			"ChunkId": "a835619b73eeaa1600000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
-			"ChunkId": "e43855b9d402d6d500000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset",
-			"ChunkId": "d812587583a9535d00000001"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset",
 			"ChunkId": "8ecbf6c61162774100000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset",
-			"ChunkId": "375e62c12f26e70500000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_N.uasset",
+			"ChunkId": "a2d4859fdf95fb8800000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset",
-			"ChunkId": "adfc0c5cb146690600000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_N.ubulk",
+			"ChunkId": "a2d4859fdf95fb8800000002"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset",
+			"ChunkId": "375e62c12f26e70500000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
@@ -1185,14 +1177,6 @@
 			"ChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
-			"ChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
 			"ChunkId": "7936cc24a0df034100000001"
 		},
@@ -1201,76 +1185,20 @@
 			"ChunkId": "12c2c1346a8453a600000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D.uasset",
-			"ChunkId": "890c2dceb96619d400000001"
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D.ubulk",
-			"ChunkId": "890c2dceb96619d400000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Spark_B.uasset",
-			"ChunkId": "8839abb17c809e3c00000001"
+			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
+			"ChunkId": "08578f8490e5c66d00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.uasset",
-			"ChunkId": "f740af2b609d007400000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.ubulk",
-			"ChunkId": "f740af2b609d007400000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp.uasset",
-			"ChunkId": "1d008781d2eac2e200000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp.ubulk",
-			"ChunkId": "1d008781d2eac2e200000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_N.uasset",
-			"ChunkId": "5d95203d6b40e3c000000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_N.ubulk",
-			"ChunkId": "5d95203d6b40e3c000000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Opacity.uasset",
-			"ChunkId": "966b26a04889f74000000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Opacity.ubulk",
-			"ChunkId": "966b26a04889f74000000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Roughness.uasset",
-			"ChunkId": "864cad3d0bae1fcb00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Roughness.ubulk",
-			"ChunkId": "864cad3d0bae1fcb00000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/Menu/wallpaperbetter.uasset",
-			"ChunkId": "633fdb88b74dfe5c00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Normal.uasset",
-			"ChunkId": "000604165e076ded00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Character/T_Bot_Normal.ubulk",
-			"ChunkId": "000604165e076ded00000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Textures/Wind.uasset",
-			"ChunkId": "a3570355cdb983ef00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Textures/Wind.ubulk",
-			"ChunkId": "a3570355cdb983ef00000002"
+			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
+			"ChunkId": "ea704fa9c99103cc00000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_SandTileabe_BC.uasset",
@@ -1281,12 +1209,52 @@
 			"ChunkId": "307e2bcddde323a700000002"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset",
-			"ChunkId": "d0fb60348baad89200000001"
+			"Path": "GameAudioGame/Content/Assets/Environment/Grass/T_GrassClump.uasset",
+			"ChunkId": "2ebbc0bca850132700000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk",
-			"ChunkId": "d0fb60348baad89200000002"
+			"Path": "GameAudioGame/Content/Assets/Environment/Grass/T_GrassClump.ubulk",
+			"ChunkId": "2ebbc0bca850132700000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Face_C.uasset",
+			"ChunkId": "b065258879df4f0200000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Face_C.ubulk",
+			"ChunkId": "b065258879df4f0200000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Landscape/T_SandTileabe_BC.uasset",
+			"ChunkId": "1bd8e796448b24ea00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Landscape/T_SandTileabe_BC.ubulk",
+			"ChunkId": "1bd8e796448b24ea00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/T_RockTileable_BC.uasset",
+			"ChunkId": "f60617760e96b0a800000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/T_RockTileable_BC.ubulk",
+			"ChunkId": "f60617760e96b0a800000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_MetalTileable_BC.uasset",
+			"ChunkId": "1171b5b7cdbe167f00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_MetalTileable_BC.ubulk",
+			"ChunkId": "1171b5b7cdbe167f00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_MetalTileable_N.uasset",
+			"ChunkId": "b17a027098fab18b00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_MetalTileable_N.ubulk",
+			"ChunkId": "b17a027098fab18b00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Textures/T_Leaves_D.uasset",
@@ -1327,6 +1295,70 @@
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_Bark_N.ubulk",
 			"ChunkId": "5863b3120f1437ae00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Atlas_Eyes.uasset",
+			"ChunkId": "c5848816bdc846c600000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/T_Antbot_Atlas_Eyes.ubulk",
+			"ChunkId": "c5848816bdc846c600000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_N.uasset",
+			"ChunkId": "5d95203d6b40e3c000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_N.ubulk",
+			"ChunkId": "5d95203d6b40e3c000000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Opacity.uasset",
+			"ChunkId": "966b26a04889f74000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Opacity.ubulk",
+			"ChunkId": "966b26a04889f74000000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Roughness.uasset",
+			"ChunkId": "864cad3d0bae1fcb00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_GratingTileable_Roughness.ubulk",
+			"ChunkId": "864cad3d0bae1fcb00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Textures/Wind.uasset",
+			"ChunkId": "a3570355cdb983ef00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Textures/Wind.ubulk",
+			"ChunkId": "a3570355cdb983ef00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_RockTileable_BC.uasset",
+			"ChunkId": "150e44f8fe0d48c900000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_RockTileable_BC.ubulk",
+			"ChunkId": "150e44f8fe0d48c900000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_RockTint.uasset",
+			"ChunkId": "a5f837dcf1c76dff00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/Textures/T_RockTint.ubulk",
+			"ChunkId": "a5f837dcf1c76dff00000002"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset",
+			"ChunkId": "d0fb60348baad89200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk",
+			"ChunkId": "d0fb60348baad89200000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Props/T_Metal_N.uasset",
@@ -1437,52 +1469,20 @@
 			"ChunkId": "dd71d9a57541b6d900000002"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.uasset",
-			"ChunkId": "cdecc67ac106977100000001"
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.uasset",
+			"ChunkId": "f740af2b609d007400000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.ubulk",
-			"ChunkId": "cdecc67ac106977100000002"
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.ubulk",
+			"ChunkId": "f740af2b609d007400000002"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B.uasset",
-			"ChunkId": "d3fa8dfc0765df2900000001"
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp.uasset",
+			"ChunkId": "1d008781d2eac2e200000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B.ubulk",
-			"ChunkId": "d3fa8dfc0765df2900000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F.uasset",
-			"ChunkId": "7f761b75a1855d1700000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F.ubulk",
-			"ChunkId": "7f761b75a1855d1700000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A.uasset",
-			"ChunkId": "8f6d381fe385db8000000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A.ubulk",
-			"ChunkId": "8f6d381fe385db8000000002"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset",
-			"ChunkId": "aa5d2f73fa7e3f3d00000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset",
-			"ChunkId": "513064b8ef9f323a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
-			"ChunkId": "08578f8490e5c66d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
-			"ChunkId": "ea704fa9c99103cc00000001"
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp.ubulk",
+			"ChunkId": "1d008781d2eac2e200000002"
 		},
 		{
 			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
@@ -1495,6 +1495,10 @@
 		{
 			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
 			"ChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/NewMaterial.uasset",
+			"ChunkId": "b34ccaf02f4afdfb00000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
@@ -1549,6 +1553,58 @@
 			"ChunkId": "a4739b1d475b4a3e00000001"
 		},
 		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A.uasset",
+			"ChunkId": "8f6d381fe385db8000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A.ubulk",
+			"ChunkId": "8f6d381fe385db8000000002"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset",
+			"ChunkId": "aa5d2f73fa7e3f3d00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset",
+			"ChunkId": "513064b8ef9f323a00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D.uasset",
+			"ChunkId": "890c2dceb96619d400000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D.ubulk",
+			"ChunkId": "890c2dceb96619d400000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Spark_B.uasset",
+			"ChunkId": "8839abb17c809e3c00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.uasset",
+			"ChunkId": "cdecc67ac106977100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.ubulk",
+			"ChunkId": "cdecc67ac106977100000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B.uasset",
+			"ChunkId": "d3fa8dfc0765df2900000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B.ubulk",
+			"ChunkId": "d3fa8dfc0765df2900000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F.uasset",
+			"ChunkId": "7f761b75a1855d1700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F.ubulk",
+			"ChunkId": "7f761b75a1855d1700000002"
+		},
+		{
 			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
 			"ChunkId": "37cdeb5ce1d3ccd800000001"
 		},
@@ -1557,12 +1613,16 @@
 			"ChunkId": "fabb39727be145c100000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Audio/StingerPlatOn.uasset",
-			"ChunkId": "9be5e6780ce6bc7300000001"
+			"Path": "GameAudioGame/Content/Audio/Escuchador.uasset",
+			"ChunkId": "2165d020489ace3c00000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Audio/Music/PararMusica.uasset",
 			"ChunkId": "e3d3775605e44f7000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/StingerPlatOn.uasset",
+			"ChunkId": "9be5e6780ce6bc7300000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/UI/MBP_Player.uasset",
@@ -1577,16 +1637,24 @@
 			"ChunkId": "04c8ca4dbd785ee600000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/Animation/A_Bot_Idle.uasset",
-			"ChunkId": "401b45fb068988e500000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset",
+			"ChunkId": "f0bdde7a2df6543900000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn.uasset",
 			"ChunkId": "4993f08d1b35fd7d00000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset",
-			"ChunkId": "f0bdde7a2df6543900000001"
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/M_Rock.uasset",
+			"ChunkId": "c7bf508572093c2f00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/Animation/A_Bot_Idle.uasset",
+			"ChunkId": "401b45fb068988e500000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/M_GratingTileable.uasset",
+			"ChunkId": "bdb06a710dc3378d00000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/MF_TreeWind.uasset",
@@ -1597,12 +1665,16 @@
 			"ChunkId": "dda1fd75aba3b07c00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/Animation/A_Bot_Walk.uasset",
-			"ChunkId": "3010906c02d154a100000001"
+			"Path": "GameAudioGame/Content/Assets/Environment/Grass/M_Grass.uasset",
+			"ChunkId": "6aee8f6a1cd8111e00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/M_GratingTileable.uasset",
-			"ChunkId": "bdb06a710dc3378d00000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset",
+			"ChunkId": "dab3ede8bda8d8ca00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/Animation/A_Bot_Walk.uasset",
+			"ChunkId": "3010906c02d154a100000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Props/M_Metal.uasset",
@@ -1673,12 +1745,12 @@
 			"ChunkId": "383e9ca1086a235200000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/effects/FX_Dust.uasset",
-			"ChunkId": "48f3158bd5b89e3000000001"
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset",
+			"ChunkId": "bdbcf28d7739806c00000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset",
-			"ChunkId": "dab3ede8bda8d8ca00000001"
+			"Path": "GameAudioGame/Content/effects/FX_Dust.uasset",
+			"ChunkId": "48f3158bd5b89e3000000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_C.uasset",
@@ -1687,10 +1759,6 @@
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset",
 			"ChunkId": "8e09f0ed48a33b1a00000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset",
-			"ChunkId": "bdbcf28d7739806c00000001"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
@@ -1815,10 +1883,6 @@
 		{
 			"Path": "Engine/Content/BasicShapes/Sphere.ubulk",
 			"ChunkId": "4a782f60fcb4c26e00000002"
-		},
-		{
-			"Path": "Engine/Content/Maps/Entry.umap",
-			"ChunkId": "d31cf458faf4915200000001"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
@@ -2293,6 +2357,22 @@
 			"ChunkId": "ffb7206b644719fd00000001"
 		},
 		{
+			"Path": "GameAudioGame/Content/UI/UIBP_Nivel.uasset",
+			"ChunkId": "276b308013d7b3cb00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/UI/UIBP_SigLevel.uasset",
+			"ChunkId": "512311797348ab1700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/M_BotBase.uasset",
+			"ChunkId": "6c8a04cc659da94a00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Landscape/Materials/M_Rock.uasset",
+			"ChunkId": "323ad596051c610900000001"
+		},
+		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/BotonError2.uasset",
 			"ChunkId": "946c1fb9e2fb542800000001"
 		},
@@ -2301,8 +2381,24 @@
 			"ChunkId": "af680504667c792700000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/M_BotBase.uasset",
-			"ChunkId": "6c8a04cc659da94a00000001"
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/SM_RockFlats_01.uasset",
+			"ChunkId": "c6734cef4a739ebc00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/SM_RockFlats_01.ubulk",
+			"ChunkId": "c6734cef4a739ebc00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Grass/SM_GrassClump.uasset",
+			"ChunkId": "a25b8a247b64d1bc00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Grass/SM_GrassClump.ubulk",
+			"ChunkId": "a25b8a247b64d1bc00000002"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset",
+			"ChunkId": "22ce47c64c5d7f1300000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Props/SM_Pickup_Orb.uasset",
@@ -2317,12 +2413,16 @@
 			"ChunkId": "d38ea7bb296fa55400000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/Animation/A_Bot_Run.uasset",
-			"ChunkId": "fb93ca2b07cf68a500000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_TreeBase.uasset",
+			"ChunkId": "3e141cead4f971ca00000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset",
-			"ChunkId": "22ce47c64c5d7f1300000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_TreeBaseNOWPO.uasset",
+			"ChunkId": "ce02a860f7879c8800000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/Animation/A_Bot_Run.uasset",
+			"ChunkId": "fb93ca2b07cf68a500000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_C_Inst.uasset",
@@ -2331,14 +2431,6 @@
 		{
 			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_B.uasset",
 			"ChunkId": "075226d20f8a005200000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_TreeBase.uasset",
-			"ChunkId": "3e141cead4f971ca00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_TreeBaseNOWPO.uasset",
-			"ChunkId": "ce02a860f7879c8800000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset",
@@ -2361,12 +2453,36 @@
 			"ChunkId": "64b35289879f84ff00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/Animation/BS_WalkRun.uasset",
-			"ChunkId": "afe7d16727d734c800000001"
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/SM_RockFlats_02.uasset",
+			"ChunkId": "38dcf73a9b111c3f00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/SM_RockFlats_02.ubulk",
+			"ChunkId": "38dcf73a9b111c3f00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/FT_RockFlats_01.uasset",
+			"ChunkId": "859c3af54e22151900000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Environment/Grass/F_LandscapeGrass.uasset",
+			"ChunkId": "b51d78bbfbd41e2300000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/ML_Base.uasset",
 			"ChunkId": "bcef63c1add5b5f300000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_CyberTrunk.uasset",
+			"ChunkId": "0e0696e8684a7e4600000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_CyberTrunk_NoWPO.uasset",
+			"ChunkId": "4558c4894ea32f0f00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Character/Animation/BS_WalkRun.uasset",
+			"ChunkId": "afe7d16727d734c800000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Assets/Realistic_Starter_VFX_Pack_Vol2/Particles/Explosion/P_Explosion_Big_A.uasset",
@@ -2389,20 +2505,16 @@
 			"ChunkId": "47f89d8d1d346b9800000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_CyberTrunk.uasset",
-			"ChunkId": "0e0696e8684a7e4600000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/Materials/M_CyberTrunk_NoWPO.uasset",
-			"ChunkId": "4558c4894ea32f0f00000001"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset",
 			"ChunkId": "f02f1871991d785000000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/Assets/Character/Animation/abp_BOT.uasset",
-			"ChunkId": "84e6c39bd603baa500000001"
+			"Path": "GameAudioGame/Content/Assets/Environment/Rock/FT_RockFlats_02.uasset",
+			"ChunkId": "37faccaf72b83fe000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Assets/Landscape/M_Landscape.uasset",
+			"ChunkId": "c93b30643e83b0b200000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/M_TileMaster.uasset",
@@ -2425,6 +2537,10 @@
 			"ChunkId": "6e3728d7361266c500000001"
 		},
 		{
+			"Path": "GameAudioGame/Content/Assets/Character/Animation/abp_BOT.uasset",
+			"ChunkId": "84e6c39bd603baa500000001"
+		},
+		{
 			"Path": "GameAudioGame/Content/Assets/Character/MI_BotFace.uasset",
 			"ChunkId": "3fa3a9531ca8760b00000001"
 		},
@@ -2443,6 +2559,10 @@
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/MI_Metal.uasset",
 			"ChunkId": "e96111c023b94a4800000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/MI_MetalTileable.uasset",
+			"ChunkId": "dfc4adec69bc601a00000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Materials/MI_Carbon.uasset",
@@ -2497,20 +2617,12 @@
 			"ChunkId": "7bb5c511b8dbe79900000002"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SatelliteDish_Base.uasset",
-			"ChunkId": "fcbd023ca6e217ea00000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Single.uasset",
+			"ChunkId": "552cc6ab5dfd5c8e00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SatelliteDish_Base.ubulk",
-			"ChunkId": "fcbd023ca6e217ea00000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_TVScreenSupport.uasset",
-			"ChunkId": "3c7a807a59f0469500000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_TVScreenSupport.ubulk",
-			"ChunkId": "3c7a807a59f0469500000002"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Single.ubulk",
+			"ChunkId": "552cc6ab5dfd5c8e00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_GratIng.uasset",
@@ -2529,6 +2641,14 @@
 			"ChunkId": "27c5042d3f81081100000002"
 		},
 		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SatelliteDish_Base.uasset",
+			"ChunkId": "fcbd023ca6e217ea00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SatelliteDish_Base.ubulk",
+			"ChunkId": "fcbd023ca6e217ea00000002"
+		},
+		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SatelliteDish_Body.uasset",
 			"ChunkId": "1c8d69b36798831c00000001"
 		},
@@ -2545,20 +2665,52 @@
 			"ChunkId": "b42039f9b86d7ae000000002"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_Crate.uasset",
-			"ChunkId": "128ef017ea1a69f000000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_TVScreenSupport.uasset",
+			"ChunkId": "3c7a807a59f0469500000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_Crate.ubulk",
-			"ChunkId": "128ef017ea1a69f000000002"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_TVScreenSupport.ubulk",
+			"ChunkId": "3c7a807a59f0469500000002"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/StackOBot/Environment/Modular/SM_Modules_Floor.uasset",
-			"ChunkId": "a985e5952eae554b00000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SpawnPad_Ring.uasset",
+			"ChunkId": "af54619cd270931d00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/StackOBot/Environment/Modular/SM_Modules_Floor.ubulk",
-			"ChunkId": "a985e5952eae554b00000002"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SpawnPad_Ring.ubulk",
+			"ChunkId": "af54619cd270931d00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Pillar.uasset",
+			"ChunkId": "c0e6423b413c1fb700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Pillar.ubulk",
+			"ChunkId": "c0e6423b413c1fb700000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Wall_250.uasset",
+			"ChunkId": "64543fd5d6510dd900000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Wall_250.ubulk",
+			"ChunkId": "64543fd5d6510dd900000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Wall_InnerCorner.uasset",
+			"ChunkId": "bc80e3106b82635e00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Wall_InnerCorner.ubulk",
+			"ChunkId": "bc80e3106b82635e00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modules_Floor.uasset",
+			"ChunkId": "3f01016fad05547b00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modules_Floor.ubulk",
+			"ChunkId": "3f01016fad05547b00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modules_TrimFloor.uasset",
@@ -2577,28 +2729,28 @@
 			"ChunkId": "4a4e5afdcf11d80d00000002"
 		},
 		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_Crate.uasset",
+			"ChunkId": "128ef017ea1a69f000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_Crate.ubulk",
+			"ChunkId": "128ef017ea1a69f000000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/StackOBot/Environment/Modular/SM_Modules_Floor.uasset",
+			"ChunkId": "a985e5952eae554b00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/StackOBot/Environment/Modular/SM_Modules_Floor.ubulk",
+			"ChunkId": "a985e5952eae554b00000002"
+		},
+		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fan_Frame.uasset",
 			"ChunkId": "ec8115298d0dd59200000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fan_Frame.ubulk",
 			"ChunkId": "ec8115298d0dd59200000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Pillar.uasset",
-			"ChunkId": "c0e6423b413c1fb700000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Pillar.ubulk",
-			"ChunkId": "c0e6423b413c1fb700000002"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Wall_InnerCorner.uasset",
-			"ChunkId": "bc80e3106b82635e00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Wall_InnerCorner.ubulk",
-			"ChunkId": "bc80e3106b82635e00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Modular_Window.uasset",
@@ -2609,12 +2761,12 @@
 			"ChunkId": "234bbbdcc123310a00000002"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_GenericMachine_Engine.uasset",
-			"ChunkId": "10d1c87f82b7f6fc00000001"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SpawnPad_Base.uasset",
+			"ChunkId": "aa8f8fbceceae87e00000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_GenericMachine_Engine.ubulk",
-			"ChunkId": "10d1c87f82b7f6fc00000002"
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_SpawnPad_Base.ubulk",
+			"ChunkId": "aa8f8fbceceae87e00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/StackOBot/Environment/Modular/SM_Fence_Pillar_Corner.uasset",
@@ -2641,8 +2793,32 @@
 			"ChunkId": "e9d15ed1d77405ee00000002"
 		},
 		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_GenericMachine_Engine.uasset",
+			"ChunkId": "10d1c87f82b7f6fc00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/SM_GenericMachine_Engine.ubulk",
+			"ChunkId": "10d1c87f82b7f6fc00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/SM_Bush_FoliageType.uasset",
+			"ChunkId": "f46beea86aa4b96200000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Foilage/SM_Tree_FoliageType.uasset",
+			"ChunkId": "fd874df9b1e5a2c100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_PisoDeSuministro.uasset",
+			"ChunkId": "e23f8c255909488300000001"
+		},
+		{
 			"Path": "GameAudioGame/Content/GameElements/VentiladorExpl.uasset",
 			"ChunkId": "1f8779e83a7f9b9400000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/GameElements/BP_Damage.uasset",
+			"ChunkId": "869c76a8ed64b86600000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/GameElements/Zonas/BP_House.uasset",
@@ -2689,28 +2865,40 @@
 			"ChunkId": "896256541374b69300000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_BotoneraEstrategia.uasset",
-			"ChunkId": "1683d1e42035be4800000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_BotoneraCapa.uasset",
-			"ChunkId": "6f6f50effe4035ec00000001"
-		},
-		{
-			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_SuministroDeCajas.uasset",
-			"ChunkId": "3c94beedc13d729f00000001"
+			"Path": "GameAudioGame/Content/GameElements/Musicas/Escuchador.uasset",
+			"ChunkId": "bba36517b1e6147000000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Framework/BP_Enemy1Spawneo.uasset",
 			"ChunkId": "656575e6f67f603400000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_CajaMusical.uasset",
-			"ChunkId": "b91b4539a8d66ed100000001"
+			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_BotoneraEstrategia.uasset",
+			"ChunkId": "1683d1e42035be4800000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_BotoneraCapa1.uasset",
+			"ChunkId": "42572ae9ef89e06400000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_SuministroDeCajas.uasset",
+			"ChunkId": "3c94beedc13d729f00000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/Framework/BP_Bot.uasset",
 			"ChunkId": "73556784647f9a2000000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_CajaMusical.uasset",
+			"ChunkId": "b91b4539a8d66ed100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Framework/CosasViejas/BP_EnemyBoss.uasset",
+			"ChunkId": "47243e1b735f12a700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/GameElements/BP_Orb.uasset",
+			"ChunkId": "09e62d54ae8c1aa300000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_ZonaAudioBoss.uasset",
@@ -2729,8 +2917,8 @@
 			"ChunkId": "09eca4f02b417e7600000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/GameElements/BP_Orb.uasset",
-			"ChunkId": "09e62d54ae8c1aa300000001"
+			"Path": "GameAudioGame/Content/GameElements/Musicas/BP_TachoBasura.uasset",
+			"ChunkId": "78d997a53223cc6800000001"
 		},
 		{
 			"Path": "GameAudioGame/Content/GameElements/Musicas/MusicManager.uasset",
@@ -2741,12 +2929,88 @@
 			"ChunkId": "62a6ceda96bcae8800000001"
 		},
 		{
-			"Path": "GameAudioGame/Content/GameElements/Musicas/Escuchador.uasset",
-			"ChunkId": "bba36517b1e6147000000001"
+			"Path": "GameAudioGame/Content/Maps/CampoDeTesteo.umap",
+			"ChunkId": "9091aeb7489a3cbe00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/CampoDeTesteo.ubulk",
+			"ChunkId": "9091aeb7489a3cbe00000002"
 		},
 		{
 			"Path": "GameAudioGame/Content/GameElements/Musicas/ZonaComun.uasset",
 			"ChunkId": "b8a007d93cbe5ef300000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/10.umap",
+			"ChunkId": "c0891e52dd790f9900000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/10.ubulk",
+			"ChunkId": "c0891e52dd790f9900000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/9.umap",
+			"ChunkId": "c669b343da89cf5e00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/9.ubulk",
+			"ChunkId": "c669b343da89cf5e00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/8.umap",
+			"ChunkId": "80d6c813bca3b74200000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/8.ubulk",
+			"ChunkId": "80d6c813bca3b74200000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/7.umap",
+			"ChunkId": "fb4e49da9666ae4a00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/7.ubulk",
+			"ChunkId": "fb4e49da9666ae4a00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/6.umap",
+			"ChunkId": "e8fd32017c38044b00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/6.ubulk",
+			"ChunkId": "e8fd32017c38044b00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/5.umap",
+			"ChunkId": "e3db0e4f78b13e2500000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/5.ubulk",
+			"ChunkId": "e3db0e4f78b13e2500000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/4.umap",
+			"ChunkId": "3b11342fce88839e00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/4.ubulk",
+			"ChunkId": "3b11342fce88839e00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/3.umap",
+			"ChunkId": "87c4d3476680afeb00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/3.ubulk",
+			"ChunkId": "87c4d3476680afeb00000002"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/2.umap",
+			"ChunkId": "0c6db7d05d069a1700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Maps/Levels/2.ubulk",
+			"ChunkId": "0c6db7d05d069a1700000002"
 		},
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset",
@@ -2759,6 +3023,34 @@
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset",
 			"ChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Sfx/Pasos_Bot.uasset",
+			"ChunkId": "e0e3f876a39ae47d00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music/Musica.uasset",
+			"ChunkId": "c10211da6c0a90f400000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music/Level_1.uasset",
+			"ChunkId": "f2cbf8543c55acef00000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music/ZonaBoss.uasset",
+			"ChunkId": "a48b02ae833a60d800000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music/ZonaExploracion.uasset",
+			"ChunkId": "fef4aaf11dae9b8600000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music/ZonaHouse.uasset",
+			"ChunkId": "03fb4c5b9ecd210900000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/Audio/Music/ZonaPelea.uasset",
+			"ChunkId": "580e45649879187700000001"
 		},
 		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset",
@@ -3049,20 +3341,32 @@
 			"ChunkId": "d544b77d346c2dc300000001"
 		},
 		{
-			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset",
-			"ChunkId": "57b7a44e84f90b8100000001"
+			"Path": "GameAudioGame/Content/Maps/Levels/1.umap",
+			"ChunkId": "cc1d3e4fb937fe5400000001"
 		},
 		{
-			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset",
-			"ChunkId": "5d9f9dba791360f700000001"
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset",
+			"ChunkId": "6d0e17e6637a2b0600000001"
 		},
 		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset",
 			"ChunkId": "01ef8b8437d851f900000001"
 		},
 		{
-			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset",
-			"ChunkId": "6d0e17e6637a2b0600000001"
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset",
+			"ChunkId": "57b7a44e84f90b8100000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
+			"ChunkId": "cb90c94586b3228900000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset",
+			"ChunkId": "5d9f9dba791360f700000001"
+		},
+		{
+			"Path": "GameAudioGame/Content/StackOBot/Environment/Props/botonAbajo.uasset",
+			"ChunkId": "a7aedb0dbc9d951c00000001"
 		}
 	],
 	"Packages": [
@@ -3389,28 +3693,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/HairDebugColor",
-			"PackageChunkId": "8efe6173efa8192200000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/HairColorMap",
-			"PackageChunkId": "2c913f2705b478d900000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
-			"PackageChunkId": "0bf1d6a9c47f8ccc00000001",
-			"BulkDataChunkIds": [
-				"0bf1d6a9c47f8ccc00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
-			"PackageChunkId": "ba6543c81e92e56d00000001",
-			"BulkDataChunkIds": [
-				"ba6543c81e92e56d00000002"
-			]
-		},
-		{
 			"Name": "/Engine/EngineFonts/Faces/RobotoLight",
 			"PackageChunkId": "0668993fb5b5811c00000001"
 		},
@@ -3467,6 +3749,28 @@
 			"PackageChunkId": "7276d40fd50dba5900000001"
 		},
 		{
+			"Name": "/Engine/EngineMaterials/HairDebugColor",
+			"PackageChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairColorMap",
+			"PackageChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+			"PackageChunkId": "0bf1d6a9c47f8ccc00000001",
+			"BulkDataChunkIds": [
+				"0bf1d6a9c47f8ccc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"PackageChunkId": "ba6543c81e92e56d00000001",
+			"BulkDataChunkIds": [
+				"ba6543c81e92e56d00000002"
+			]
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2",
 			"PackageChunkId": "a29fb34f83f7d31a00000001"
 		},
@@ -3483,17 +3787,17 @@
 			"PackageChunkId": "6a3b7a697242e13400000001"
 		},
 		{
-			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
-			"PackageChunkId": "200cd3dc0f3f673a00000001",
-			"BulkDataChunkIds": [
-				"200cd3dc0f3f673a00000002"
-			]
-		},
-		{
 			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
 			"PackageChunkId": "a996adcfa357ed2d00000001",
 			"BulkDataChunkIds": [
 				"a996adcfa357ed2d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
+			"PackageChunkId": "200cd3dc0f3f673a00000001",
+			"BulkDataChunkIds": [
+				"200cd3dc0f3f673a00000002"
 			]
 		},
 		{
@@ -3554,19 +3858,19 @@
 			]
 		},
 		{
-			"Name": "/Wwise/WwiseTypes/AkAuxBus",
-			"PackageChunkId": "f637812df4b453c000000001",
+			"Name": "/Wwise/WwiseTree/Icons/workunit_nor",
+			"PackageChunkId": "54aa6bc51bb5fc4500000001"
+		},
+		{
+			"Name": "/Wwise/WwiseTypes/AK_Acoustic_Portal_Explorer",
+			"PackageChunkId": "8f1d305ec5f6382700000001"
+		},
+		{
+			"Name": "/Wwise/WwiseTypes/AK_Acoustic_Portal",
+			"PackageChunkId": "53165aee3c1afbc000000001",
 			"BulkDataChunkIds": [
-				"f637812df4b453c000000002"
+				"53165aee3c1afbc000000002"
 			]
-		},
-		{
-			"Name": "/Engine/EngineResources/GradientTexture0",
-			"PackageChunkId": "f87a01e7b138538a00000001"
-		},
-		{
-			"Name": "/Engine/EngineResources/WhiteSquareTexture",
-			"PackageChunkId": "b85ee5fd59f4dd2000000001"
 		},
 		{
 			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
@@ -3669,6 +3973,14 @@
 			"PackageChunkId": "cda0cf6115260c9400000001"
 		},
 		{
+			"Name": "/Engine/EngineResources/GradientTexture0",
+			"PackageChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
 			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
 			"PackageChunkId": "ff5a26a059754af200000001"
 		},
@@ -3699,17 +4011,6 @@
 			"PackageChunkId": "2edf5f24e9d086ad00000001",
 			"BulkDataChunkIds": [
 				"2edf5f24e9d086ad00000002"
-			]
-		},
-		{
-			"Name": "/Wwise/WwiseTypes/AK_Acoustic_Portal_Explorer",
-			"PackageChunkId": "8f1d305ec5f6382700000001"
-		},
-		{
-			"Name": "/Wwise/WwiseTypes/AK_Acoustic_Portal",
-			"PackageChunkId": "53165aee3c1afbc000000001",
-			"BulkDataChunkIds": [
-				"53165aee3c1afbc000000002"
 			]
 		},
 		{
@@ -3762,6 +4063,13 @@
 			]
 		},
 		{
+			"Name": "/Wwise/WwiseTypes/AkAuxBus",
+			"PackageChunkId": "f637812df4b453c000000001",
+			"BulkDataChunkIds": [
+				"f637812df4b453c000000002"
+			]
+		},
+		{
 			"Name": "/Wwise/WwiseTypes/AkAudioEvent",
 			"PackageChunkId": "407c17bfdd505e3900000001",
 			"BulkDataChunkIds": [
@@ -3787,13 +4095,6 @@
 			"PackageChunkId": "ea74338101f3357200000001"
 		},
 		{
-			"Name": "/Wwise/WwiseTree/Icons/wwise_icon_512",
-			"PackageChunkId": "25a516bf925a6b5600000001",
-			"BulkDataChunkIds": [
-				"25a516bf925a6b5600000002"
-			]
-		},
-		{
 			"Name": "/Wwise/WwiseTree/Icons/wwise_icon_16",
 			"PackageChunkId": "f5ed80865183ff9700000001"
 		},
@@ -3802,8 +4103,19 @@
 			"PackageChunkId": "a78139b7488fb9f800000001"
 		},
 		{
-			"Name": "/Wwise/WwiseTree/Icons/workunit_nor",
-			"PackageChunkId": "54aa6bc51bb5fc4500000001"
+			"Name": "/Wwise/WwiseTree/Icons/container_random_sequence_nor",
+			"PackageChunkId": "fe7f2214b240dcc400000001"
+		},
+		{
+			"Name": "/Wwise/WwiseTree/Icons/bus_nor",
+			"PackageChunkId": "cac425d5a775082e00000001"
+		},
+		{
+			"Name": "/Wwise/WwiseTree/Icons/wwise_icon_512",
+			"PackageChunkId": "25a516bf925a6b5600000001",
+			"BulkDataChunkIds": [
+				"25a516bf925a6b5600000002"
+			]
 		},
 		{
 			"Name": "/Wwise/WwiseTree/Icons/trigger_nor",
@@ -3822,26 +4134,6 @@
 			"PackageChunkId": "fd4b47066f4e788000000001"
 		},
 		{
-			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
-			"PackageChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Name": "/Game/Assets/Props/M_Plastic",
-			"PackageChunkId": "24dae68c2948895f00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Modular/explor",
-			"PackageChunkId": "c6915dc9a0a61e8e00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Props/Suministro",
-			"PackageChunkId": "cf10823b7cb6dbbb00000001"
-		},
-		{
-			"Name": "/Wwise/WwiseTree/Icons/physical_folder_nor",
-			"PackageChunkId": "eace4ac55dae38f500000001"
-		},
-		{
 			"Name": "/Wwise/WwiseTree/Icons/state_nor",
 			"PackageChunkId": "45111cab1700768300000001"
 		},
@@ -3852,6 +4144,10 @@
 		{
 			"Name": "/Wwise/WwiseTree/Icons/sound_fx_nor",
 			"PackageChunkId": "67b62b44de0aa1c300000001"
+		},
+		{
+			"Name": "/Wwise/WwiseTree/Icons/physical_folder_nor",
+			"PackageChunkId": "eace4ac55dae38f500000001"
 		},
 		{
 			"Name": "/Wwise/WwiseTree/Icons/motion_bus_nor",
@@ -3878,12 +4174,36 @@
 			"PackageChunkId": "55d666cede13d8e600000001"
 		},
 		{
-			"Name": "/Wwise/WwiseTree/Icons/container_random_sequence_nor",
-			"PackageChunkId": "fe7f2214b240dcc400000001"
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
 		},
 		{
-			"Name": "/Wwise/WwiseTree/Icons/bus_nor",
-			"PackageChunkId": "cac425d5a775082e00000001"
+			"Name": "/Game/Assets/Props/M_Plastic",
+			"PackageChunkId": "24dae68c2948895f00000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/explor",
+			"PackageChunkId": "c6915dc9a0a61e8e00000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Props/Suministro",
+			"PackageChunkId": "cf10823b7cb6dbbb00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Game/Menu/MainMenu_BuiltData",
+			"PackageChunkId": "8eac50fcbc3fcaa100000001"
+		},
+		{
+			"Name": "/Game/Maps/Valley_sharedassets/Grass_LayerInfo",
+			"PackageChunkId": "02fb8ae7cacdf50a00000001"
 		},
 		{
 			"Name": "/Wwise/WwiseTree/Icons/auxbus_nor",
@@ -3896,38 +4216,6 @@
 		{
 			"Name": "/Wwise/WwiseTree/Icons/acoutex_nor",
 			"PackageChunkId": "9c3b15542441368200000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Name": "/Game/Menu/MainMenu_BuiltData",
-			"PackageChunkId": "8eac50fcbc3fcaa100000001"
-		},
-		{
-			"Name": "/Game/Audio/Music",
-			"PackageChunkId": "f3bf526271c7b19200000001"
-		},
-		{
-			"Name": "/Game/Framework/Interactable",
-			"PackageChunkId": "520cb15f8348bde400000001"
-		},
-		{
-			"Name": "/Game/StackOBot/StackOBot/StackOBot/Characters/Backpack/Mesh/SKM_Backpack",
-			"PackageChunkId": "f462e7e7c0c4150a00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Modular/boss",
-			"PackageChunkId": "0af0daacd951457100000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
@@ -3953,6 +4241,46 @@
 			]
 		},
 		{
+			"Name": "/Game/NewLevelSequence",
+			"PackageChunkId": "0cc92735ea2d63ff00000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Landscape/LandscapeLayers/Sand_LayerInfo",
+			"PackageChunkId": "f51559dcafb6eba400000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Props/BotonAbajoo",
+			"PackageChunkId": "d0cbffdf41b79b6300000001"
+		},
+		{
+			"Name": "/Game/Audio/Music",
+			"PackageChunkId": "f3bf526271c7b19200000001"
+		},
+		{
+			"Name": "/Game/Framework/Interactable",
+			"PackageChunkId": "520cb15f8348bde400000001"
+		},
+		{
+			"Name": "/Game/StackOBot/StackOBot/StackOBot/Characters/Backpack/Mesh/SKM_Backpack",
+			"PackageChunkId": "f462e7e7c0c4150a00000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/boss",
+			"PackageChunkId": "0af0daacd951457100000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/boss2",
+			"PackageChunkId": "d55bc2bb089a234c00000001"
+		},
+		{
+			"Name": "/Engine/ArtTools/RenderToTexture/Textures/127grey",
+			"PackageChunkId": "572d1a645b023a8100000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Props/BotonArribaa",
+			"PackageChunkId": "f1d0db06300132a800000001"
+		},
+		{
 			"Name": "/Game/Assets/Character/SKM_Antbot_Skeleton",
 			"PackageChunkId": "6f3036132f51465500000001"
 		},
@@ -3961,83 +4289,10 @@
 			"PackageChunkId": "80ca043411f3376900000001"
 		},
 		{
-			"Name": "/Game/Audio/Sfx/Pasos_Bot",
-			"PackageChunkId": "e0e3f876a39ae47d00000001"
-		},
-		{
-			"Name": "/Game/Audio/Music/Musica",
-			"PackageChunkId": "c10211da6c0a90f400000001"
-		},
-		{
-			"Name": "/Game/Audio/Music/Level_1",
-			"PackageChunkId": "f2cbf8543c55acef00000001"
-		},
-		{
-			"Name": "/Game/Audio/Music/ZonaBoss",
-			"PackageChunkId": "a48b02ae833a60d800000001"
-		},
-		{
-			"Name": "/Game/Audio/Music/ZonaExploracion",
-			"PackageChunkId": "fef4aaf11dae9b8600000001"
-		},
-		{
-			"Name": "/Game/Audio/Music/ZonaHouse",
-			"PackageChunkId": "03fb4c5b9ecd210900000001"
-		},
-		{
-			"Name": "/Game/Audio/Music/ZonaPelea",
-			"PackageChunkId": "580e45649879187700000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Modular/boss2",
-			"PackageChunkId": "d55bc2bb089a234c00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Props/BotonAbajoo",
-			"PackageChunkId": "d0cbffdf41b79b6300000001"
-		},
-		{
-			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
-			"PackageChunkId": "19aece732b01cd4000000001"
-		},
-		{
-			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
-			"PackageChunkId": "fd3456639b15286700000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Props/BotonArribaa",
-			"PackageChunkId": "f1d0db06300132a800000001"
-		},
-		{
-			"Name": "/Game/Assets/Props/T_Ribbing_A",
-			"PackageChunkId": "acdcc3843c2bdf1e00000001",
-			"BulkDataChunkIds": [
-				"acdcc3843c2bdf1e00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Props/T_Ribbing_N",
-			"PackageChunkId": "7d46c579fd38cc4800000001",
-			"BulkDataChunkIds": [
-				"7d46c579fd38cc4800000002"
-			]
-		},
-		{
-			"Name": "/Engine/ArtTools/RenderToTexture/Textures/127grey",
-			"PackageChunkId": "572d1a645b023a8100000001"
-		},
-		{
 			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Grunge_A",
 			"PackageChunkId": "45460afb154a2a5e00000001",
 			"BulkDataChunkIds": [
 				"45460afb154a2a5e00000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Metal_Painted_N",
-			"PackageChunkId": "143bdc253d4c9d1b00000001",
-			"BulkDataChunkIds": [
-				"143bdc253d4c9d1b00000002"
 			]
 		},
 		{
@@ -4064,33 +4319,23 @@
 			"PackageChunkId": "595d7eadf27a210a00000001"
 		},
 		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Ribbing_A",
-			"PackageChunkId": "b4cb52e83157967b00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Ribbing_N",
-			"PackageChunkId": "aaa216ebd4f1c56b00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_M",
-			"PackageChunkId": "f8fb3077053ba5f100000001",
-			"BulkDataChunkIds": [
-				"f8fb3077053ba5f100000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_N",
-			"PackageChunkId": "a2d4859fdf95fb8800000001",
-			"BulkDataChunkIds": [
-				"a2d4859fdf95fb8800000002"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Character/T_Antbot_Albedo",
 			"PackageChunkId": "887260dedfcfd88500000001",
 			"BulkDataChunkIds": [
 				"887260dedfcfd88500000002"
 			]
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
+			"PackageChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
+			"PackageChunkId": "fd3456639b15286700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator",
+			"PackageChunkId": "8ced9eed55b5a36400000001"
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal",
@@ -4121,41 +4366,23 @@
 			"PackageChunkId": "98fd42e2db3f106e00000001"
 		},
 		{
-			"Name": "/Game/Audio/SFX_FootStep",
-			"PackageChunkId": "f44f5ee746b14fd700000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient",
+			"PackageChunkId": "e43855b9d402d6d500000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator",
-			"PackageChunkId": "8ced9eed55b5a36400000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing",
+			"PackageChunkId": "d812587583a9535d00000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/T_Bot_Masks",
-			"PackageChunkId": "3e04d65fb5e605a700000001",
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/HueShift",
+			"PackageChunkId": "1f97eea17afa137600000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Metal_Painted_N",
+			"PackageChunkId": "143bdc253d4c9d1b00000001",
 			"BulkDataChunkIds": [
-				"3e04d65fb5e605a700000002"
+				"143bdc253d4c9d1b00000002"
 			]
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D",
-			"PackageChunkId": "6fdaccd2e075000200000001"
-		},
-		{
-			"Name": "/Game/Assets/Character/T_Antbot_Atlas_Eyes",
-			"PackageChunkId": "c5848816bdc846c600000001",
-			"BulkDataChunkIds": [
-				"c5848816bdc846c600000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Character/T_Antbot_Face_C",
-			"PackageChunkId": "b065258879df4f0200000001",
-			"BulkDataChunkIds": [
-				"b065258879df4f0200000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
-			"PackageChunkId": "34b40296d0d3844e00000001"
 		},
 		{
 			"Name": "/Game/Assets/Character/T_Antbot_M_R_AO",
@@ -4165,8 +4392,82 @@
 			]
 		},
 		{
+			"Name": "/Game/Assets/Character/T_Bot_Masks",
+			"PackageChunkId": "3e04d65fb5e605a700000001",
+			"BulkDataChunkIds": [
+				"3e04d65fb5e605a700000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Ribbing_N",
+			"PackageChunkId": "aaa216ebd4f1c56b00000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_M",
+			"PackageChunkId": "f8fb3077053ba5f100000001",
+			"BulkDataChunkIds": [
+				"f8fb3077053ba5f100000002"
+			]
+		},
+		{
+			"Name": "/Game/Menu/wallpaperbetter",
+			"PackageChunkId": "633fdb88b74dfe5c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Character/T_Bot_Normal",
+			"PackageChunkId": "000604165e076ded00000001",
+			"BulkDataChunkIds": [
+				"000604165e076ded00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Landscape/T_Grass_M",
+			"PackageChunkId": "957dbec74510754a00000001",
+			"BulkDataChunkIds": [
+				"957dbec74510754a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Props/T_Ribbing_A",
+			"PackageChunkId": "acdcc3843c2bdf1e00000001",
+			"BulkDataChunkIds": [
+				"acdcc3843c2bdf1e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Props/T_Ribbing_N",
+			"PackageChunkId": "7d46c579fd38cc4800000001",
+			"BulkDataChunkIds": [
+				"7d46c579fd38cc4800000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_Ribbing_A",
+			"PackageChunkId": "b4cb52e83157967b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
+			"PackageChunkId": "34b40296d0d3844e00000001"
+		},
+		{
 			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
 			"PackageChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Landscape/Textures/RVT_Crater",
+			"PackageChunkId": "852a1b993716658700000001"
+		},
+		{
+			"Name": "/Game/Audio/SFX_FootStep",
+			"PackageChunkId": "f44f5ee746b14fd700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D",
+			"PackageChunkId": "6fdaccd2e075000200000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs",
+			"PackageChunkId": "adfc0c5cb146690600000001"
 		},
 		{
 			"Name": "/Niagara/DefaultAssets/DefaultSpriteMaterial",
@@ -4177,24 +4478,19 @@
 			"PackageChunkId": "a835619b73eeaa1600000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient",
-			"PackageChunkId": "e43855b9d402d6d500000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing",
-			"PackageChunkId": "d812587583a9535d00000001"
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity",
 			"PackageChunkId": "8ecbf6c61162774100000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel",
-			"PackageChunkId": "375e62c12f26e70500000001"
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_ConcreteTileable_N",
+			"PackageChunkId": "a2d4859fdf95fb8800000001",
+			"BulkDataChunkIds": [
+				"a2d4859fdf95fb8800000002"
+			]
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs",
-			"PackageChunkId": "adfc0c5cb146690600000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel",
+			"PackageChunkId": "375e62c12f26e70500000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
@@ -4225,14 +4521,6 @@
 			"PackageChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
-			"PackageChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Name": "/ControlRig/M_Manip",
-			"PackageChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
 			"Name": "/Paper2D/DummySprite",
 			"PackageChunkId": "7936cc24a0df034100000001"
 		},
@@ -4241,68 +4529,20 @@
 			"PackageChunkId": "12c2c1346a8453a600000001"
 		},
 		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D",
-			"PackageChunkId": "890c2dceb96619d400000001",
-			"BulkDataChunkIds": [
-				"890c2dceb96619d400000002"
-			]
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Spark_B",
-			"PackageChunkId": "8839abb17c809e3c00000001"
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B",
-			"PackageChunkId": "f740af2b609d007400000001",
-			"BulkDataChunkIds": [
-				"f740af2b609d007400000002"
-			]
+			"Name": "/Engine/EngineFonts/Roboto",
+			"PackageChunkId": "08578f8490e5c66d00000001"
 		},
 		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp",
-			"PackageChunkId": "1d008781d2eac2e200000001",
-			"BulkDataChunkIds": [
-				"1d008781d2eac2e200000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_GratingTileable_N",
-			"PackageChunkId": "5d95203d6b40e3c000000001",
-			"BulkDataChunkIds": [
-				"5d95203d6b40e3c000000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_GratingTileable_Opacity",
-			"PackageChunkId": "966b26a04889f74000000001",
-			"BulkDataChunkIds": [
-				"966b26a04889f74000000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_GratingTileable_Roughness",
-			"PackageChunkId": "864cad3d0bae1fcb00000001",
-			"BulkDataChunkIds": [
-				"864cad3d0bae1fcb00000002"
-			]
-		},
-		{
-			"Name": "/Game/Menu/wallpaperbetter",
-			"PackageChunkId": "633fdb88b74dfe5c00000001"
-		},
-		{
-			"Name": "/Game/Assets/Character/T_Bot_Normal",
-			"PackageChunkId": "000604165e076ded00000001",
-			"BulkDataChunkIds": [
-				"000604165e076ded00000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Foilage/Textures/Wind",
-			"PackageChunkId": "a3570355cdb983ef00000001",
-			"BulkDataChunkIds": [
-				"a3570355cdb983ef00000002"
-			]
+			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
+			"PackageChunkId": "ea704fa9c99103cc00000001"
 		},
 		{
 			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_SandTileabe_BC",
@@ -4312,10 +4552,45 @@
 			]
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook",
-			"PackageChunkId": "d0fb60348baad89200000001",
+			"Name": "/Game/Assets/Environment/Grass/T_GrassClump",
+			"PackageChunkId": "2ebbc0bca850132700000001",
 			"BulkDataChunkIds": [
-				"d0fb60348baad89200000002"
+				"2ebbc0bca850132700000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Character/T_Antbot_Face_C",
+			"PackageChunkId": "b065258879df4f0200000001",
+			"BulkDataChunkIds": [
+				"b065258879df4f0200000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Landscape/T_SandTileabe_BC",
+			"PackageChunkId": "1bd8e796448b24ea00000001",
+			"BulkDataChunkIds": [
+				"1bd8e796448b24ea00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Environment/Rock/T_RockTileable_BC",
+			"PackageChunkId": "f60617760e96b0a800000001",
+			"BulkDataChunkIds": [
+				"f60617760e96b0a800000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_MetalTileable_BC",
+			"PackageChunkId": "1171b5b7cdbe167f00000001",
+			"BulkDataChunkIds": [
+				"1171b5b7cdbe167f00000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_MetalTileable_N",
+			"PackageChunkId": "b17a027098fab18b00000001",
+			"BulkDataChunkIds": [
+				"b17a027098fab18b00000002"
 			]
 		},
 		{
@@ -4351,6 +4626,62 @@
 			"PackageChunkId": "5863b3120f1437ae00000001",
 			"BulkDataChunkIds": [
 				"5863b3120f1437ae00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Character/T_Antbot_Atlas_Eyes",
+			"PackageChunkId": "c5848816bdc846c600000001",
+			"BulkDataChunkIds": [
+				"c5848816bdc846c600000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_GratingTileable_N",
+			"PackageChunkId": "5d95203d6b40e3c000000001",
+			"BulkDataChunkIds": [
+				"5d95203d6b40e3c000000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_GratingTileable_Opacity",
+			"PackageChunkId": "966b26a04889f74000000001",
+			"BulkDataChunkIds": [
+				"966b26a04889f74000000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_GratingTileable_Roughness",
+			"PackageChunkId": "864cad3d0bae1fcb00000001",
+			"BulkDataChunkIds": [
+				"864cad3d0bae1fcb00000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Foilage/Textures/Wind",
+			"PackageChunkId": "a3570355cdb983ef00000001",
+			"BulkDataChunkIds": [
+				"a3570355cdb983ef00000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_RockTileable_BC",
+			"PackageChunkId": "150e44f8fe0d48c900000001",
+			"BulkDataChunkIds": [
+				"150e44f8fe0d48c900000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/Textures/T_RockTint",
+			"PackageChunkId": "a5f837dcf1c76dff00000001",
+			"BulkDataChunkIds": [
+				"a5f837dcf1c76dff00000002"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook",
+			"PackageChunkId": "d0fb60348baad89200000001",
+			"BulkDataChunkIds": [
+				"d0fb60348baad89200000002"
 			]
 		},
 		{
@@ -4449,48 +4780,18 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A",
-			"PackageChunkId": "cdecc67ac106977100000001",
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B",
+			"PackageChunkId": "f740af2b609d007400000001",
 			"BulkDataChunkIds": [
-				"cdecc67ac106977100000002"
+				"f740af2b609d007400000002"
 			]
 		},
 		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B",
-			"PackageChunkId": "d3fa8dfc0765df2900000001",
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp",
+			"PackageChunkId": "1d008781d2eac2e200000001",
 			"BulkDataChunkIds": [
-				"d3fa8dfc0765df2900000002"
+				"1d008781d2eac2e200000002"
 			]
-		},
-		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F",
-			"PackageChunkId": "7f761b75a1855d1700000001",
-			"BulkDataChunkIds": [
-				"7f761b75a1855d1700000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A",
-			"PackageChunkId": "8f6d381fe385db8000000001",
-			"BulkDataChunkIds": [
-				"8f6d381fe385db8000000002"
-			]
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip",
-			"PackageChunkId": "aa5d2f73fa7e3f3d00000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod",
-			"PackageChunkId": "513064b8ef9f323a00000001"
-		},
-		{
-			"Name": "/Engine/EngineFonts/Roboto",
-			"PackageChunkId": "08578f8490e5c66d00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
-			"PackageChunkId": "ea704fa9c99103cc00000001"
 		},
 		{
 			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
@@ -4502,6 +4803,10 @@
 		{
 			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
 			"PackageChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Props/NewMaterial",
+			"PackageChunkId": "b34ccaf02f4afdfb00000001"
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
@@ -4556,6 +4861,53 @@
 			"PackageChunkId": "a4739b1d475b4a3e00000001"
 		},
 		{
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A",
+			"PackageChunkId": "8f6d381fe385db8000000001",
+			"BulkDataChunkIds": [
+				"8f6d381fe385db8000000002"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip",
+			"PackageChunkId": "aa5d2f73fa7e3f3d00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod",
+			"PackageChunkId": "513064b8ef9f323a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D",
+			"PackageChunkId": "890c2dceb96619d400000001",
+			"BulkDataChunkIds": [
+				"890c2dceb96619d400000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Spark_B",
+			"PackageChunkId": "8839abb17c809e3c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A",
+			"PackageChunkId": "cdecc67ac106977100000001",
+			"BulkDataChunkIds": [
+				"cdecc67ac106977100000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B",
+			"PackageChunkId": "d3fa8dfc0765df2900000001",
+			"BulkDataChunkIds": [
+				"d3fa8dfc0765df2900000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F",
+			"PackageChunkId": "7f761b75a1855d1700000001",
+			"BulkDataChunkIds": [
+				"7f761b75a1855d1700000002"
+			]
+		},
+		{
 			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
 			"PackageChunkId": "37cdeb5ce1d3ccd800000001"
 		},
@@ -4564,12 +4916,16 @@
 			"PackageChunkId": "fabb39727be145c100000001"
 		},
 		{
-			"Name": "/Game/Audio/StingerPlatOn",
-			"PackageChunkId": "9be5e6780ce6bc7300000001"
+			"Name": "/Game/Audio/Escuchador",
+			"PackageChunkId": "2165d020489ace3c00000001"
 		},
 		{
 			"Name": "/Game/Audio/Music/PararMusica",
 			"PackageChunkId": "e3d3775605e44f7000000001"
+		},
+		{
+			"Name": "/Game/Audio/StingerPlatOn",
+			"PackageChunkId": "9be5e6780ce6bc7300000001"
 		},
 		{
 			"Name": "/Game/UI/MBP_Player",
@@ -4584,16 +4940,24 @@
 			"PackageChunkId": "04c8ca4dbd785ee600000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/Animation/A_Bot_Idle",
-			"PackageChunkId": "401b45fb068988e500000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay",
+			"PackageChunkId": "f0bdde7a2df6543900000001"
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn",
 			"PackageChunkId": "4993f08d1b35fd7d00000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay",
-			"PackageChunkId": "f0bdde7a2df6543900000001"
+			"Name": "/Game/Assets/Environment/Rock/M_Rock",
+			"PackageChunkId": "c7bf508572093c2f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Character/Animation/A_Bot_Idle",
+			"PackageChunkId": "401b45fb068988e500000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/M_GratingTileable",
+			"PackageChunkId": "bdb06a710dc3378d00000001"
 		},
 		{
 			"Name": "/Game/StackOBot/Environment/Foilage/Materials/MF_TreeWind",
@@ -4604,12 +4968,16 @@
 			"PackageChunkId": "dda1fd75aba3b07c00000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/Animation/A_Bot_Walk",
-			"PackageChunkId": "3010906c02d154a100000001"
+			"Name": "/Game/Assets/Environment/Grass/M_Grass",
+			"PackageChunkId": "6aee8f6a1cd8111e00000001"
 		},
 		{
-			"Name": "/Game/StackOBot/Environment/Materials/M_GratingTileable",
-			"PackageChunkId": "bdb06a710dc3378d00000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast",
+			"PackageChunkId": "dab3ede8bda8d8ca00000001"
+		},
+		{
+			"Name": "/Game/Assets/Character/Animation/A_Bot_Walk",
+			"PackageChunkId": "3010906c02d154a100000001"
 		},
 		{
 			"Name": "/Game/Assets/Props/M_Metal",
@@ -4680,12 +5048,12 @@
 			"PackageChunkId": "383e9ca1086a235200000001"
 		},
 		{
-			"Name": "/Game/effects/FX_Dust",
-			"PackageChunkId": "48f3158bd5b89e3000000001"
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA",
+			"PackageChunkId": "bdbcf28d7739806c00000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast",
-			"PackageChunkId": "dab3ede8bda8d8ca00000001"
+			"Name": "/Game/effects/FX_Dust",
+			"PackageChunkId": "48f3158bd5b89e3000000001"
 		},
 		{
 			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_C",
@@ -4694,10 +5062,6 @@
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential",
 			"PackageChunkId": "8e09f0ed48a33b1a00000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA",
-			"PackageChunkId": "bdbcf28d7739806c00000001"
 		},
 		{
 			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
@@ -4810,10 +5174,6 @@
 			"BulkDataChunkIds": [
 				"4a782f60fcb4c26e00000002"
 			]
-		},
-		{
-			"Name": "/Engine/Maps/Entry",
-			"PackageChunkId": "d31cf458faf4915200000001"
 		},
 		{
 			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
@@ -5231,6 +5591,22 @@
 			"PackageChunkId": "ffb7206b644719fd00000001"
 		},
 		{
+			"Name": "/Game/UI/UIBP_Nivel",
+			"PackageChunkId": "276b308013d7b3cb00000001"
+		},
+		{
+			"Name": "/Game/UI/UIBP_SigLevel",
+			"PackageChunkId": "512311797348ab1700000001"
+		},
+		{
+			"Name": "/Game/Assets/Character/M_BotBase",
+			"PackageChunkId": "6c8a04cc659da94a00000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Landscape/Materials/M_Rock",
+			"PackageChunkId": "323ad596051c610900000001"
+		},
+		{
 			"Name": "/Game/StackOBot/Environment/Props/BotonError2",
 			"PackageChunkId": "946c1fb9e2fb542800000001"
 		},
@@ -5239,8 +5615,22 @@
 			"PackageChunkId": "af680504667c792700000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/M_BotBase",
-			"PackageChunkId": "6c8a04cc659da94a00000001"
+			"Name": "/Game/Assets/Environment/Rock/SM_RockFlats_01",
+			"PackageChunkId": "c6734cef4a739ebc00000001",
+			"BulkDataChunkIds": [
+				"c6734cef4a739ebc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Environment/Grass/SM_GrassClump",
+			"PackageChunkId": "a25b8a247b64d1bc00000001",
+			"BulkDataChunkIds": [
+				"a25b8a247b64d1bc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture",
+			"PackageChunkId": "22ce47c64c5d7f1300000001"
 		},
 		{
 			"Name": "/Game/Assets/Props/SM_Pickup_Orb",
@@ -5254,12 +5644,16 @@
 			"PackageChunkId": "d38ea7bb296fa55400000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/Animation/A_Bot_Run",
-			"PackageChunkId": "fb93ca2b07cf68a500000001"
+			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_TreeBase",
+			"PackageChunkId": "3e141cead4f971ca00000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture",
-			"PackageChunkId": "22ce47c64c5d7f1300000001"
+			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_TreeBaseNOWPO",
+			"PackageChunkId": "ce02a860f7879c8800000001"
+		},
+		{
+			"Name": "/Game/Assets/Character/Animation/A_Bot_Run",
+			"PackageChunkId": "fb93ca2b07cf68a500000001"
 		},
 		{
 			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_C_Inst",
@@ -5268,14 +5662,6 @@
 		{
 			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_B",
 			"PackageChunkId": "075226d20f8a005200000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_TreeBase",
-			"PackageChunkId": "3e141cead4f971ca00000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_TreeBaseNOWPO",
-			"PackageChunkId": "ce02a860f7879c8800000001"
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values",
@@ -5298,12 +5684,35 @@
 			"PackageChunkId": "64b35289879f84ff00000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/Animation/BS_WalkRun",
-			"PackageChunkId": "afe7d16727d734c800000001"
+			"Name": "/Game/Assets/Environment/Rock/SM_RockFlats_02",
+			"PackageChunkId": "38dcf73a9b111c3f00000001",
+			"BulkDataChunkIds": [
+				"38dcf73a9b111c3f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Environment/Rock/FT_RockFlats_01",
+			"PackageChunkId": "859c3af54e22151900000001"
+		},
+		{
+			"Name": "/Game/Assets/Environment/Grass/F_LandscapeGrass",
+			"PackageChunkId": "b51d78bbfbd41e2300000001"
 		},
 		{
 			"Name": "/Game/StackOBot/Environment/Materials/ML_Base",
 			"PackageChunkId": "bcef63c1add5b5f300000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_CyberTrunk",
+			"PackageChunkId": "0e0696e8684a7e4600000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_CyberTrunk_NoWPO",
+			"PackageChunkId": "4558c4894ea32f0f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Character/Animation/BS_WalkRun",
+			"PackageChunkId": "afe7d16727d734c800000001"
 		},
 		{
 			"Name": "/Game/Assets/Realistic_Starter_VFX_Pack_Vol2/Particles/Explosion/P_Explosion_Big_A",
@@ -5326,20 +5735,16 @@
 			"PackageChunkId": "47f89d8d1d346b9800000001"
 		},
 		{
-			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_CyberTrunk",
-			"PackageChunkId": "0e0696e8684a7e4600000001"
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Foilage/Materials/M_CyberTrunk_NoWPO",
-			"PackageChunkId": "4558c4894ea32f0f00000001"
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook",
 			"PackageChunkId": "f02f1871991d785000000001"
 		},
 		{
-			"Name": "/Game/Assets/Character/Animation/abp_BOT",
-			"PackageChunkId": "84e6c39bd603baa500000001"
+			"Name": "/Game/Assets/Environment/Rock/FT_RockFlats_02",
+			"PackageChunkId": "37faccaf72b83fe000000001"
+		},
+		{
+			"Name": "/Game/Assets/Landscape/M_Landscape",
+			"PackageChunkId": "c93b30643e83b0b200000001"
 		},
 		{
 			"Name": "/Game/StackOBot/Environment/Materials/M_TileMaster",
@@ -5362,6 +5767,10 @@
 			"PackageChunkId": "6e3728d7361266c500000001"
 		},
 		{
+			"Name": "/Game/Assets/Character/Animation/abp_BOT",
+			"PackageChunkId": "84e6c39bd603baa500000001"
+		},
+		{
 			"Name": "/Game/Assets/Character/MI_BotFace",
 			"PackageChunkId": "3fa3a9531ca8760b00000001"
 		},
@@ -5380,6 +5789,10 @@
 		{
 			"Name": "/Game/StackOBot/Environment/Materials/MI_Metal",
 			"PackageChunkId": "e96111c023b94a4800000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Materials/MI_MetalTileable",
+			"PackageChunkId": "dfc4adec69bc601a00000001"
 		},
 		{
 			"Name": "/Game/StackOBot/Environment/Materials/MI_Carbon",
@@ -5429,17 +5842,10 @@
 			]
 		},
 		{
-			"Name": "/Game/StackOBot/Environment/Props/SM_SatelliteDish_Base",
-			"PackageChunkId": "fcbd023ca6e217ea00000001",
+			"Name": "/Game/StackOBot/Environment/Modular/SM_Fence_Single",
+			"PackageChunkId": "552cc6ab5dfd5c8e00000001",
 			"BulkDataChunkIds": [
-				"fcbd023ca6e217ea00000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Props/SM_TVScreenSupport",
-			"PackageChunkId": "3c7a807a59f0469500000001",
-			"BulkDataChunkIds": [
-				"3c7a807a59f0469500000002"
+				"552cc6ab5dfd5c8e00000002"
 			]
 		},
 		{
@@ -5457,6 +5863,13 @@
 			]
 		},
 		{
+			"Name": "/Game/StackOBot/Environment/Props/SM_SatelliteDish_Base",
+			"PackageChunkId": "fcbd023ca6e217ea00000001",
+			"BulkDataChunkIds": [
+				"fcbd023ca6e217ea00000002"
+			]
+		},
+		{
 			"Name": "/Game/StackOBot/Environment/Props/SM_SatelliteDish_Body",
 			"PackageChunkId": "1c8d69b36798831c00000001",
 			"BulkDataChunkIds": [
@@ -5471,17 +5884,45 @@
 			]
 		},
 		{
-			"Name": "/Game/StackOBot/Environment/Props/SM_Crate",
-			"PackageChunkId": "128ef017ea1a69f000000001",
+			"Name": "/Game/StackOBot/Environment/Props/SM_TVScreenSupport",
+			"PackageChunkId": "3c7a807a59f0469500000001",
 			"BulkDataChunkIds": [
-				"128ef017ea1a69f000000002"
+				"3c7a807a59f0469500000002"
 			]
 		},
 		{
-			"Name": "/Game/StackOBot/StackOBot/Environment/Modular/SM_Modules_Floor",
-			"PackageChunkId": "a985e5952eae554b00000001",
+			"Name": "/Game/StackOBot/Environment/Props/SM_SpawnPad_Ring",
+			"PackageChunkId": "af54619cd270931d00000001",
 			"BulkDataChunkIds": [
-				"a985e5952eae554b00000002"
+				"af54619cd270931d00000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/SM_Fence_Pillar",
+			"PackageChunkId": "c0e6423b413c1fb700000001",
+			"BulkDataChunkIds": [
+				"c0e6423b413c1fb700000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/SM_Modular_Wall_250",
+			"PackageChunkId": "64543fd5d6510dd900000001",
+			"BulkDataChunkIds": [
+				"64543fd5d6510dd900000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/SM_Modular_Wall_InnerCorner",
+			"PackageChunkId": "bc80e3106b82635e00000001",
+			"BulkDataChunkIds": [
+				"bc80e3106b82635e00000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Modular/SM_Modules_Floor",
+			"PackageChunkId": "3f01016fad05547b00000001",
+			"BulkDataChunkIds": [
+				"3f01016fad05547b00000002"
 			]
 		},
 		{
@@ -5499,24 +5940,24 @@
 			]
 		},
 		{
+			"Name": "/Game/StackOBot/Environment/Props/SM_Crate",
+			"PackageChunkId": "128ef017ea1a69f000000001",
+			"BulkDataChunkIds": [
+				"128ef017ea1a69f000000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/StackOBot/Environment/Modular/SM_Modules_Floor",
+			"PackageChunkId": "a985e5952eae554b00000001",
+			"BulkDataChunkIds": [
+				"a985e5952eae554b00000002"
+			]
+		},
+		{
 			"Name": "/Game/StackOBot/Environment/Modular/SM_Fan_Frame",
 			"PackageChunkId": "ec8115298d0dd59200000001",
 			"BulkDataChunkIds": [
 				"ec8115298d0dd59200000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Modular/SM_Fence_Pillar",
-			"PackageChunkId": "c0e6423b413c1fb700000001",
-			"BulkDataChunkIds": [
-				"c0e6423b413c1fb700000002"
-			]
-		},
-		{
-			"Name": "/Game/StackOBot/Environment/Modular/SM_Modular_Wall_InnerCorner",
-			"PackageChunkId": "bc80e3106b82635e00000001",
-			"BulkDataChunkIds": [
-				"bc80e3106b82635e00000002"
 			]
 		},
 		{
@@ -5527,10 +5968,10 @@
 			]
 		},
 		{
-			"Name": "/Game/StackOBot/Environment/Props/SM_GenericMachine_Engine",
-			"PackageChunkId": "10d1c87f82b7f6fc00000001",
+			"Name": "/Game/StackOBot/Environment/Props/SM_SpawnPad_Base",
+			"PackageChunkId": "aa8f8fbceceae87e00000001",
 			"BulkDataChunkIds": [
-				"10d1c87f82b7f6fc00000002"
+				"aa8f8fbceceae87e00000002"
 			]
 		},
 		{
@@ -5555,8 +5996,31 @@
 			]
 		},
 		{
+			"Name": "/Game/StackOBot/Environment/Props/SM_GenericMachine_Engine",
+			"PackageChunkId": "10d1c87f82b7f6fc00000001",
+			"BulkDataChunkIds": [
+				"10d1c87f82b7f6fc00000002"
+			]
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Foilage/SM_Bush_FoliageType",
+			"PackageChunkId": "f46beea86aa4b96200000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Foilage/SM_Tree_FoliageType",
+			"PackageChunkId": "fd874df9b1e5a2c100000001"
+		},
+		{
+			"Name": "/Game/GameElements/Musicas/BP_PisoDeSuministro",
+			"PackageChunkId": "e23f8c255909488300000001"
+		},
+		{
 			"Name": "/Game/GameElements/VentiladorExpl",
 			"PackageChunkId": "1f8779e83a7f9b9400000001"
+		},
+		{
+			"Name": "/Game/GameElements/BP_Damage",
+			"PackageChunkId": "869c76a8ed64b86600000001"
 		},
 		{
 			"Name": "/Game/GameElements/Zonas/BP_House",
@@ -5603,28 +6067,40 @@
 			"PackageChunkId": "896256541374b69300000001"
 		},
 		{
-			"Name": "/Game/GameElements/Musicas/BP_BotoneraEstrategia",
-			"PackageChunkId": "1683d1e42035be4800000001"
-		},
-		{
-			"Name": "/Game/GameElements/Musicas/BP_BotoneraCapa",
-			"PackageChunkId": "6f6f50effe4035ec00000001"
-		},
-		{
-			"Name": "/Game/GameElements/Musicas/BP_SuministroDeCajas",
-			"PackageChunkId": "3c94beedc13d729f00000001"
+			"Name": "/Game/GameElements/Musicas/Escuchador",
+			"PackageChunkId": "bba36517b1e6147000000001"
 		},
 		{
 			"Name": "/Game/Framework/BP_Enemy1Spawneo",
 			"PackageChunkId": "656575e6f67f603400000001"
 		},
 		{
-			"Name": "/Game/GameElements/Musicas/BP_CajaMusical",
-			"PackageChunkId": "b91b4539a8d66ed100000001"
+			"Name": "/Game/GameElements/Musicas/BP_BotoneraEstrategia",
+			"PackageChunkId": "1683d1e42035be4800000001"
+		},
+		{
+			"Name": "/Game/GameElements/Musicas/BP_BotoneraCapa1",
+			"PackageChunkId": "42572ae9ef89e06400000001"
+		},
+		{
+			"Name": "/Game/GameElements/Musicas/BP_SuministroDeCajas",
+			"PackageChunkId": "3c94beedc13d729f00000001"
 		},
 		{
 			"Name": "/Game/Framework/BP_Bot",
 			"PackageChunkId": "73556784647f9a2000000001"
+		},
+		{
+			"Name": "/Game/GameElements/Musicas/BP_CajaMusical",
+			"PackageChunkId": "b91b4539a8d66ed100000001"
+		},
+		{
+			"Name": "/Game/Framework/CosasViejas/BP_EnemyBoss",
+			"PackageChunkId": "47243e1b735f12a700000001"
+		},
+		{
+			"Name": "/Game/GameElements/BP_Orb",
+			"PackageChunkId": "09e62d54ae8c1aa300000001"
 		},
 		{
 			"Name": "/Game/GameElements/Musicas/BP_ZonaAudioBoss",
@@ -5643,8 +6119,8 @@
 			"PackageChunkId": "09eca4f02b417e7600000001"
 		},
 		{
-			"Name": "/Game/GameElements/BP_Orb",
-			"PackageChunkId": "09e62d54ae8c1aa300000001"
+			"Name": "/Game/GameElements/Musicas/BP_TachoBasura",
+			"PackageChunkId": "78d997a53223cc6800000001"
 		},
 		{
 			"Name": "/Game/GameElements/Musicas/MusicManager",
@@ -5655,12 +6131,78 @@
 			"PackageChunkId": "62a6ceda96bcae8800000001"
 		},
 		{
-			"Name": "/Game/GameElements/Musicas/Escuchador",
-			"PackageChunkId": "bba36517b1e6147000000001"
+			"Name": "/Game/Maps/CampoDeTesteo",
+			"PackageChunkId": "9091aeb7489a3cbe00000001",
+			"BulkDataChunkIds": [
+				"9091aeb7489a3cbe00000002"
+			]
 		},
 		{
 			"Name": "/Game/GameElements/Musicas/ZonaComun",
 			"PackageChunkId": "b8a007d93cbe5ef300000001"
+		},
+		{
+			"Name": "/Game/Maps/Levels/10",
+			"PackageChunkId": "c0891e52dd790f9900000001",
+			"BulkDataChunkIds": [
+				"c0891e52dd790f9900000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/9",
+			"PackageChunkId": "c669b343da89cf5e00000001",
+			"BulkDataChunkIds": [
+				"c669b343da89cf5e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/8",
+			"PackageChunkId": "80d6c813bca3b74200000001",
+			"BulkDataChunkIds": [
+				"80d6c813bca3b74200000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/7",
+			"PackageChunkId": "fb4e49da9666ae4a00000001",
+			"BulkDataChunkIds": [
+				"fb4e49da9666ae4a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/6",
+			"PackageChunkId": "e8fd32017c38044b00000001",
+			"BulkDataChunkIds": [
+				"e8fd32017c38044b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/5",
+			"PackageChunkId": "e3db0e4f78b13e2500000001",
+			"BulkDataChunkIds": [
+				"e3db0e4f78b13e2500000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/4",
+			"PackageChunkId": "3b11342fce88839e00000001",
+			"BulkDataChunkIds": [
+				"3b11342fce88839e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/3",
+			"PackageChunkId": "87c4d3476680afeb00000001",
+			"BulkDataChunkIds": [
+				"87c4d3476680afeb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Levels/2",
+			"PackageChunkId": "0c6db7d05d069a1700000001",
+			"BulkDataChunkIds": [
+				"0c6db7d05d069a1700000002"
+			]
 		},
 		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
@@ -5673,6 +6215,34 @@
 		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
 			"PackageChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Name": "/Game/Audio/Sfx/Pasos_Bot",
+			"PackageChunkId": "e0e3f876a39ae47d00000001"
+		},
+		{
+			"Name": "/Game/Audio/Music/Musica",
+			"PackageChunkId": "c10211da6c0a90f400000001"
+		},
+		{
+			"Name": "/Game/Audio/Music/Level_1",
+			"PackageChunkId": "f2cbf8543c55acef00000001"
+		},
+		{
+			"Name": "/Game/Audio/Music/ZonaBoss",
+			"PackageChunkId": "a48b02ae833a60d800000001"
+		},
+		{
+			"Name": "/Game/Audio/Music/ZonaExploracion",
+			"PackageChunkId": "fef4aaf11dae9b8600000001"
+		},
+		{
+			"Name": "/Game/Audio/Music/ZonaHouse",
+			"PackageChunkId": "03fb4c5b9ecd210900000001"
+		},
+		{
+			"Name": "/Game/Audio/Music/ZonaPelea",
+			"PackageChunkId": "580e45649879187700000001"
 		},
 		{
 			"Name": "/Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve",
@@ -5963,20 +6533,32 @@
 			"PackageChunkId": "d544b77d346c2dc300000001"
 		},
 		{
-			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_RotationalSolve",
-			"PackageChunkId": "57b7a44e84f90b8100000001"
+			"Name": "/Game/Maps/Levels/1",
+			"PackageChunkId": "cc1d3e4fb937fe5400000001"
 		},
 		{
-			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_LimitAccel",
-			"PackageChunkId": "5d9f9dba791360f700000001"
+			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_LimitSpeed",
+			"PackageChunkId": "6d0e17e6637a2b0600000001"
 		},
 		{
 			"Name": "/Niagara/Icons/Modules/T_Icon_Particle_InfiniteLife",
 			"PackageChunkId": "01ef8b8437d851f900000001"
 		},
 		{
-			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_LimitSpeed",
-			"PackageChunkId": "6d0e17e6637a2b0600000001"
+			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_RotationalSolve",
+			"PackageChunkId": "57b7a44e84f90b8100000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/EmptyActor",
+			"PackageChunkId": "cb90c94586b3228900000001"
+		},
+		{
+			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_LimitAccel",
+			"PackageChunkId": "5d9f9dba791360f700000001"
+		},
+		{
+			"Name": "/Game/StackOBot/Environment/Props/botonAbajo",
+			"PackageChunkId": "a7aedb0dbc9d951c00000001"
 		}
 	],
 	"OptionalPackages": []

@@ -41,7 +41,7 @@
 					<RTPCValueList ShowAll="true"/>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="None" ID="{389E8B1E-E831-487C-B300-378D194B0391}"/>
-						<CurrentStateRef Name="RV_Aditiva" ID="{B620529C-3CB9-4063-AA64-43BEC75240D1}"/>
+						<CurrentStateRef Name="RH_Crossfade" ID="{FD01FD9B-2CCE-4B94-AF1B-4659B7556CD9}"/>
 						<CurrentStateRef Name="None" ID="{7E3BF2F4-EDB6-4DD3-ABFD-28282B3C1EE7}"/>
 						<CurrentStateRef Name="Capa_01" ID="{CC37488D-8CA4-48CB-94B9-6946EF934BA5}"/>
 						<CurrentStateRef Name="Capa_03" ID="{18E2F314-C783-4DD7-A006-B712A6281BC5}"/>
