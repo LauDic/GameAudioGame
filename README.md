@@ -46,8 +46,6 @@ contienen información sobre el tipo de estrategia
 musical utilizada y la capa o sección musical
 correspondiente. Se presentan cuatro estrategias
 musicales: Resecuenciación Horizontal por
-5 Se puede acceder a un video del estado actual en el
-siguiente link: https://bit.ly/GameAudioGame
 crossfades, Resecuenciación Horizontal por
 transiciones, Remezcla vertical aditiva y Remezcla
 vertical por intercambio.
@@ -97,9 +95,6 @@ la remezcla vertical aditiva. En esta táctica, se
 superponen y suman capas musicales dependiendo
 del estado del juego. Todas las capas musicales se
 reproducen en conjunto, permitiendo una
-6 El repositorio se encuentra de libre acceso. Link:
-https://github.com/LauDic/GameAudioGame
-AdAA2023-xx
 combinación compleja de elementos musicales.
 Esta estrategia se emplea cuando el estado del
 juego requiere una música rica y llena, y todas las
